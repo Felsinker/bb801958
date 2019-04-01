@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="fr">     
+  <head>        
+    <meta charset="utf-8" />			
+    <link rel="stylesheet" href="css/design.css">			
+    <link rel="icon" type="image/png" href="images/favicon.png" />				
+    <title>IUT Info Dijon
+    </title>    
+  </head>    
+  <body>		
+    <div id="bloc_page">             			
+      <header>			 				
+        <img src="images/iut-dijon-logo.png" alt="Logo" id="logo"/>		
+		<h1>IUT Dijon</h1>			
+		<h2>Contact</h2>                
+        <nav>                    
+           <ul>                        
+            <li>
+                <a href="accueil.html">Accueil</a>
+            </li>					             	
+            <li>
+                <a href="departement.html">Le département Info</a>
+            </li>                        
+            <li>
+                <a href="iut.html">L'IUT de Dijon-Auxerre</a>
+            </li>                        
+            <li>
+                <a href="quizzFini.html">Quizz</a>
+            </li>                          
+            <li>
+                <a href="contact.html">Contact</a>
+            </li>                    
+          </ul>                 
+        </nav>				             
+      </header>			 
+	  <h3 id="intro">Vous voulez plus d'informations sur l'IUT ou le département informatique ? Laissez nous vos coordonn&eacute;es et votre message !</h3>			 			
+         <article>
+                <h3 id="formulaire">Le formulaire :</h3>
+                <form id="form" method="post" action="mailto:bastien.bobb@gmail.com" enctype="text/plain" onsubmit="return validerForm(this)" name="form">
+                    <fieldset id="field1">
+                        <label for="nom">Nom :</label><input type="text" name="nom" id="nom" onblur="validerNom(this)"/><br/>
+                        <label for="prenom">Pr&eacute;nom :</label><input type="text" name="prenom" id="prenom" onblur="validerPrenom(this)"/><br/>
+                        <label for="email">Email :</label><input type="email" name="email" id="email" onblur="validerEmail(this)"/><br/>
+                        <label for="msg">Votre message : </label><textarea name="msg" id="msg" onblur="validerMsg(this)"></textarea>
+                    </fieldset>
+            
+                    <fieldset id="button">
+                        <input type="submit" value="Envoyer" id="submit" />
+                        <input type="reset" value="RAZ du formulaire" id="reset"/>
+                    </fieldset>
+                </form>
+        </article>
+        <script type="text/javascript" src="js/contact.js"></script>
+        
+      <footer>				              				
+        <p>Site co-créé par des élèves de l'IUT informatique de Dijon ( S1D1 )
+        </p>				 			
+      </footer>		
+    </div>	
+  </body>
+</html>

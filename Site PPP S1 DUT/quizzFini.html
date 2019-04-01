@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+
+<html lang="fr">
+    <head>
+        <title>IUT Info Dijon - Le Quizz</title>
+        <meta charset="utf-8" />
+    <link rel="stylesheet" href="css/design.css">			
+    <link rel="icon" type="image/png" href="images/favicon.png" />	
+    </head>
+
+<body>
+   <div id="bloc_page"> 
+    <header>			 				
+        <img src="images/iut-dijon-logo.png" alt="Logo" id="logo"/>		
+		<h1>IUT Dijon</h1>			
+		<h2>La formation Informatique</h2>                
+        <nav>                    
+          <ul>                        
+            <li>
+            <a href="accueil.html">Accueil</a>
+            </li>					             	
+            <li>
+            <a href="departement.html">Le département Info</a>
+            </li>                        
+            <li>
+            <a href="iut.html">L'IUT de Dijon-Auxerre</a>
+            </li>                        
+            <li>
+            <a href="quizzFini.html">Quizz</a>
+            </li>                          
+            <li>
+            <a href="contact.html">Contact</a>
+            </li>                    
+          </ul>                
+        </nav>				             
+    </header>
+    
+    <h3>DUT Informatique - Le Quizz</h3>	
+        <p>
+            Voici un <b>quizz</b> sur le <b>DUT Informatique </b>: il détermine à son issue, selon vos réponses, <i>si oui ou non, vous êtes (potentiellement) fait pour le DUT</i> et peut également répondre à <i>certaines de vos questions</i>.
+        </p>      
+    
+    <form id="formulaire" name="formulaire">
+        
+        <fieldset>
+            <legend>Question 1 : Aimez-vous l'informatique ?</legend>
+            <input type="radio" name="r1" value="1" id="1"><label for="1">Oui</label><br/>
+            <input type="radio" name="r1" value="2" id="2"><label for="2">Moyennement</label><br/>
+            <input type="radio" name="r1" value="3" id="3"><label for="3">NON ! Je déteste ça !</label><br/>
+        </fieldset>
+
+        <fieldset>
+            <legend>Question 2 : Êtes-vous prêt à faire 35h de cours par semaine ?</legend>
+            <input type="radio" name="r2" value="1" id="4"><label for="4">Oui, je suis prêt à le faire, surtout que ça ne change pas beaucoup de la terminale !</label><br/>
+            <input type="radio" name="r2" value="2" id="5"><label for="5">Bof, mais s'il faut le faire...</label><br/>
+            <input type="radio" name="r2" value="3" id="6"><label for="6">Non je ne supporte pas d'être assis dans une classe toute la journée </label><br/>
+        </fieldset>
+
+        <fieldset>
+            <legend>Question 3 : Parmi ces trois matières, quelle est celle qui n'est pas présente dans le DUT ?</legend>
+            <input type="radio" name="r3" value="3" id="7"><label for="7">Economie</label><br/>
+            <input type="radio" name="r3" value="1" id="8"><label for="8">Electronique</label><br/>
+            <input type="radio" name="r3" value="3" id="9"><label for="9">Droit</label><br/>
+        </fieldset>
+
+        <fieldset>
+            <legend>Question 4 : Y a-t-il plus d'heures de cours en DUT qu'en BTS ?</legend>
+            <input type="radio" name="r4" value="3" id="10"><label for="10">Oui</label><br/>
+            <input type="radio" name="r4" value="3" id="11"><label for="11">Non</label><br/>
+            <input type="radio" name="r4" value="1" id="12"><label for="12">Il y en a autant</label><br/>
+        </fieldset>
+
+        <fieldset>
+            <legend>Question 5 : Faire un stage en entreprise est-il obligatoire en DUT ?</legend>
+            <input type="radio" name="r5" value="1" id="13"><label for="13">Oui, c'est une des conditions pour valider le DUT</label><br/>
+            <input type="radio" name="r5" value="2" id="14"><label for="14">Non, c'est une option</label><br/>
+            <input type="radio" name="r5" value="3" id="15"><label for="15">Il n'y a pas de stage en entreprise dans le DUT</label><br/>
+        </fieldset>
+
+        <fieldset>
+            <legend>Question 6 : Préfères-tu un mode de contrôle continu ou un système d'examens ponctuels type partiel ?</legend>
+            <input type="radio" name="r6" value="1" id="16"><label for="16">Je préfère les partiels</label><br/>
+            <input type="radio" name="r6" value="2" id="17"><label for="17">Je préfère un contrôle continu</label><br/>
+            <input type="radio" name="r6" value="3" id="18"><label for="18">Cela n'a pas vraiment d'importance</label><br/>
+        </fieldset>
+
+        <fieldset>
+            <legend>Question 7 : Aimes-tu travailler en groupe, mener des projets en équipe ?</legend>
+            <input type="radio" name="r7" value="1" id="19"><label for="19">J'adore ça !</label><br/>
+            <input type="radio" name="r7" value="2" id="20"><label for="20">Ce n'est pas vraiment ce que je préfère, mais ça ne me dérange pas, je suis prêt à le faire</label><br/>
+            <input type="radio" name="r7" value="3" id="21"><label for="21">Je n'aime vraiment pas travailler en groupe, je suis un solitaire</label><br/>
+        </fieldset>
+        
+         <fieldset>
+            <legend>Question 8 : Parmi ces trois matières, quelle est celle qui n'est pas présente dans le DUT ?</legend>
+            <input type="radio" name="r8" value="1" id="22"><label for="22">Histoire des Systèmes d'Information et de Communication</label><br/>
+            <input type="radio" name="r8" value="3" id="23"><label for="23">Expression/Communication</label><br/>
+            <input type="radio" name="r8" value="3" id="24"><label for="24">Fonctionnement des organisations</label><br/>
+        </fieldset>
+        
+
+        <fieldset id="res">
+            <p id="resultat"></p>
+            <input type="button" value="Valider" onclick="test();" id="submit">
+            <input type="reset" value="Remise &agrave; z&eacute;ro" onclick="raz()" id="reset">
+        </fieldset>
+    </form>
+    <script type="text/javascript" src="js/quizz.js"></script> <!--Attention au chemin du fichier, bien faire correspondre--> 
+      <footer>				              				
+        <p>Site co-créé par des élèves de l'IUT informatique de Dijon ( S1D1 )
+        </p>				 			
+      </footer>
+	</div>	  
+</body>
+</html>
