@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+        <meta name="author" content="Bastien Bobb"/>
+        <meta name="description" content="Un formulaire de contact pour avoir plus d'infos sur l'univers de Star Wars"/>
+		<title>Formulaire de contact</title>
+		<link rel="stylesheet" type="text/css" href="../css/contact.css" />	
+	</head>
+    
+	<body>
+        <header>
+            <h1>Formulaire de contact</h1>
+        </header>
+        
+        <section>
+            <h3 id="intro">Vous voulez plus d'informations sur l'univers de Star Wars ? Laissez moi vos coordonn&eacute;es et votre message !</h3>
+            <article>
+                <h3 id="formulaire">Le formulaire :</h3>
+                <form id="form" method="post" action="mailto:bastien.bobb@gmail.com" onsubmit="return validerForm(this)" name="form">
+                    <fieldset id="field1">
+                        <label for="nom">Nom :</label><input type="text" name="nom" id="nom" onblur="validerNom(this)"/><br/>
+                        <label for="prenom">Pr&eacute;nom :</label><input type="text" name="prenom" id="prenom" onblur="validerPrenom(this)"/><br/>
+                        <label for="email">Email :</label><input type="email" name="email" id="email" onblur="validerEmail(this)"/><br/>
+                        <label for="tel">T&eacute;l :</label><input type="tel" name="tel" id="tel" onblur="validerTel(this)"/><br/>
+                        <label for="msg">Votre message :</label><textarea name="msg" id="msg" onblur="validerMsg(this)"></textarea>
+                        <p>Comment souhaitez vous être contacter ? <br/>
+                            <label for="methodcontact1">Par email</label><input type="checkbox" name="methodcontact" id="methodcontact1"/>
+                            <label for="methodcontact2">Par t&eacute;l&eacute;phone/SMS</label><input type="checkbox" name="methodcontact" id="methodcontact2"/>
+                        </p>
+                    </fieldset>
+            
+                    <fieldset id="button">
+                        <input type="submit" value="Envoyer" id="submit" />
+                        <input type="reset" value="RAZ du formulaire" id="reset"/>
+                    </fieldset>
+                </form>
+            </article>
+        </section>
+
+        <footer>
+            <nav>
+                <a id="acc" href="index.html"><img id="imgacc" src="../medias/images_diverses/r2-d2-icon.png" alt="Accueil">
+                    <h3 id="titreacc">Retour &agrave; l'accueil</h3>
+                </a>
+            </nav>
+        </footer>
+       
+        <script type="text/javascript" src="../js/contact.js"></script>    
+	</body>
+</html>

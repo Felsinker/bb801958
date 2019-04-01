@@ -1,0 +1,157 @@
+body{
+    background-color: black;
+}
+
+#titre{
+    color: red;
+    text-align: center;
+    text-decoration: underline
+}
+
+
+#som{
+    color: green;
+    text-decoration: underline;
+}
+
+#date{
+    background-color: rgba(250,250,250,0.5);
+    border-radius: 10px;
+    padding-left: 5px;
+    padding-right: 3px;
+    margin-bottom: 10px;
+    margin-left: 100px;
+    margin-right: 135px;
+    text-align: center;
+}
+
+#temps{
+    color: white;
+    text-decoration: underline;
+}
+
+#cal{
+    color: mediumblue;
+    font-size: 50px;
+}
+
+#heure{
+    color: red;
+    font-size: 50px;
+}
+
+#intro{
+    color: white;
+    text-decoration: underline;
+}
+
+#art1{
+    background-color: rgba(250,250,250,0.5);
+    border-radius: 10px;
+    padding-left: 5px;
+    padding-right: 3px;
+    margin-bottom: 10px;
+    margin-left: 50px;
+    margin-right: 60px;
+}
+
+table{
+    border-collapse: collapse;
+    text-align: center;
+}
+
+tr{
+    border-collapse: collapse;
+}
+
+td{
+    border-collapse: collapse;
+    width: 475px;
+}
+
+#affep1{
+    width: 38%;
+}
+
+#affep2{
+    width: 39%;
+}
+
+#affep3{
+    width: 38%;
+}
+
+#affep4{
+    width: 38%;
+}
+
+#affep5{
+    width: 38%;
+}
+
+#affep6{
+    width: 36.5%;
+}
+
+#affep7{
+    width: 13%;
+}
+
+.page{
+    color: mediumblue;
+    text-decoration: underline;
+}
+
+#art2{
+    background-color: rgba(250,250,250,0.5);
+    border-radius: 10px;
+    padding-left: 5px;
+    padding-right: 3px;
+    margin-bottom: 10px;
+    margin-left: 50px;
+    margin-right: 60px;
+}
+
+#intro2{
+    color: white;
+    text-decoration: underline
+}
+
+#tab2{
+    margin-left: 16%;
+}
+
+#affquizz{
+    width: 30%;
+}
+
+#affcontact{
+    width: 30%;
+    margin-top: 8px;
+}
+
+#art3{
+    background-color: rgba(250,250,250,0.5);
+    border-radius: 10px;
+    padding-left: 5px;
+    margin-bottom: 10px;
+    margin-left: 50px;
+    margin-right: 30%;
+    position: absolute;
+    left: 25%;
+}
+
+#intro3{
+    color: white;
+    text-decoration: underline;
+}
+
+#DVD{
+    color: darkgreen;
+    text-decoration: underline;
+}
+
+#BR{
+    color: mediumblue;
+    text-decoration: underline;
+}

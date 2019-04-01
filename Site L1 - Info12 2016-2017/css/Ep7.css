@@ -1,0 +1,162 @@
+body{
+    background-image: url(../medias/affiches_films/affiche_ep7.jpg);
+    background-color: black;
+    background-size: 75%;
+    background-position: 30% 10%;
+    background-repeat: no-repeat;
+}
+
+section{
+    padding-bottom: 10px;
+}
+
+h1{
+    color: white;
+    text-align: center;
+    text-decoration: underline;
+}
+
+h2{
+    color: white;
+    text-decoration: underline;
+}
+
+#sommaire1{
+    background-color: rgba(250,250,250,0.5);
+    border-radius: 10px;
+    padding-left: 5px;
+    padding-right: 10px;
+    padding-bottom: 1px;
+    float: left;
+}
+
+#sommaire2{
+    background-color: rgba(250,250,250,0.5);
+    border-radius: 10px;
+    padding-left: 5px;
+    padding-right: 10px;
+    padding-bottom: 1px;
+    position: fixed;
+    right: 7px;
+}
+
+.titre3{
+    text-decoration: underline;
+    color: red;
+}
+
+.info{
+    margin-bottom: 1px;
+}
+
+#art1{
+    background-color: rgba(250,250,250,0.5);
+    border-radius: 10px;
+    padding-left: 5px;
+    padding-right: 3px;
+    margin-bottom: 0.2cm;
+    margin-left: 300px;
+    margin-right: 235px;
+}
+
+#art2{
+    background-color: rgba(250,250,250,0.5);
+    border-radius: 10px;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-right: 235px;  
+}
+
+.res{
+    margin-bottom: 0.5cm;
+    text-align: justify;
+    color: black;
+}
+
+#art3{
+    background-color: rgba(250,250,250,0.5);
+    border-radius: 10px;
+    padding-left: 5px;
+    padding-right: 3px;
+    padding-bottom: 3px;
+    margin-right: 235px;
+}
+
+#tab1{
+    border-collapse: collapse;
+    margin-left: 30%;
+    margin-bottom: 5px;
+}
+
+thead{
+    color: red;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+td{
+    border-style: solid;
+    border-color: black;
+    width: 5cm;
+    text-align: center;
+}
+
+tfoot{
+    color: red;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+#art4{
+    background-color: rgba(250,250,250,0.5);
+    border-radius: 10px;
+    padding-left: 5px;
+    padding-right: 3px;
+    padding-bottom: 5px;
+    margin-right: 235px;
+}
+#video{
+    width: 50%;
+    margin-left: 25%;
+    margin-bottom: 5px;
+}
+
+.control{
+    margin-left: 48%;
+}
+
+#progressTime{
+    margin-left: 48%;
+}
+
+footer{
+    height: 200px;
+}
+
+#prec{
+    float: left;
+}
+
+#imgprec{
+    height: 100px;
+}
+
+#titreprec{
+    color: red;
+    text-decoration: underline;
+}
+
+#acc{
+    position: absolute;
+    left: 45%;
+}
+
+#imgacc{
+    height: 100px;
+}
+
+#titreacc{
+    color: mediumblue;
+    text-decoration: underline;
+    margin-left: -20px;
+}
