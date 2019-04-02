@@ -1,0 +1,4327 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tableau>
+	<!-- Tableau n°1 -->
+
+	<solution id="s1">
+		<nom>Exacyl®</nom>
+		<molecule>Acide Tranexamique</molecule>
+		<infoSup>Choc hémorragique</infoSup>		
+		<concentrationInitiale>100 mg/ml</concentrationInitiale>
+		<couleur>Blue</couleur>
+		<classeAge categorie="0 mois à 1 mois">
+      <posologie>10 mg/kg IVL</posologie>
+			<concentrationMelange>10 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>5</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>45</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="2 kg à 2,5 kg">2</dosePoids>
+			<dosePoids categoriePoids="2,5 kg à 3 kg">3</dosePoids>
+			<dosePoids categoriePoids="3 kg à 3,5 kg">3</dosePoids>
+			<dosePoids categoriePoids="3,5 kg à 4 kg">4</dosePoids>
+		</classeAge>
+		<classeAge categorie="2 mois à 6 mois">
+      <posologie>10 mg/kg IVL</posologie>
+			<concentrationMelange>10 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>5</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>45</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="4 kg à 5 kg">4</dosePoids>
+			<dosePoids categoriePoids="5 kg à 6 kg">5</dosePoids>
+			<dosePoids categoriePoids="6 kg à 7 kg">6</dosePoids>
+			<dosePoids categoriePoids="7 kg à 8 kg">7</dosePoids>
+		</classeAge>
+		<classeAge categorie="7 mois à 18 mois">
+      <posologie>10 mg/kg IVL</posologie>
+			<concentrationMelange>10 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>5</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>45</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="8 kg à 9 kg">10</dosePoids>
+			<dosePoids categoriePoids="9 kg à 10 kg">10</dosePoids>
+			<dosePoids categoriePoids="10 kg à 11 kg">10</dosePoids>
+			<dosePoids categoriePoids="11 kg à 12 kg">10</dosePoids>
+		</classeAge>
+		<classeAge categorie="18 mois à 4 ans">
+      <posologie>10 mg/kg IVL</posologie>
+			<concentrationMelange>10 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>5</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>45</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="12 kg à 13 kg">15</dosePoids>
+			<dosePoids categoriePoids="13 kg à 14 kg">15</dosePoids>
+			<dosePoids categoriePoids="14 kg à 15 kg">15</dosePoids>
+			<dosePoids categoriePoids="15 kg à 16 kg">15</dosePoids>
+		</classeAge>
+		<classeAge categorie="5 ans à 7 ans">
+      <posologie>10 mg/kg IVL</posologie>
+			<concentrationMelange>10 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>5</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>45</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="16 kg à 18 kg">15</dosePoids>
+			<dosePoids categoriePoids="18 kg à 20 kg">20</dosePoids>
+			<dosePoids categoriePoids="20 kg à 22 kg">20</dosePoids>
+			<dosePoids categoriePoids="22 kg à 24 kg">20</dosePoids>
+		</classeAge>
+		<classeAge categorie="8 ans à 10 ans">
+      <posologie>10 mg/kg IVL</posologie>
+			<concentrationMelange>10 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>5</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>45</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="24 kg à 26 kg">25</dosePoids>
+			<dosePoids categoriePoids="26 kg à 28 kg">25</dosePoids>
+			<dosePoids categoriePoids="28 kg à 30 kg">30</dosePoids>
+			<dosePoids categoriePoids="30 kg à 35 kg">30</dosePoids>
+		</classeAge>
+		<classeAge categorie="11 ans à 15 ans">
+      <posologie>10 mg/kg IVL</posologie>
+			<concentrationMelange>10 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>5</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>45</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="35 kg à 40 kg">35</dosePoids>
+			<dosePoids categoriePoids="40 kg à 45 kg">40</dosePoids>
+			<dosePoids categoriePoids="45 kg à 50 kg">45</dosePoids>
+			<dosePoids categoriePoids="50 kg à 60 kg">50</dosePoids>
+		</classeAge>
+		<classeAge categorie="15 ans et plus">
+      <posologie>10 mg/kg IVL</posologie>
+			<concentrationMelange>10 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>10</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>90</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="60 kg à 70 kg">60</dosePoids>
+			<dosePoids categoriePoids="70 kg à 80 kg">70</dosePoids>
+			<dosePoids categoriePoids="80 kg à 90 kg">80</dosePoids>
+			<dosePoids categoriePoids="90 kg et plus">90</dosePoids>
+		</classeAge>
+	</solution>
+
+	<solution id="s2">
+		<nom>Krenosin®</nom>
+		<molecule>Adenosine</molecule>
+		<infoSup>Répéter toutes les 2' à dose x2 (max 3x)</infoSup>
+		<concentrationInitiale>3 mg/ml</concentrationInitiale>
+		<couleur>Blue</couleur>
+		<classeAge categorie="0 mois à 1 mois">
+      <posologie>0.1 mg/kg IVD</posologie>
+			<concentrationMelange>1 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>1</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>2</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="2 kg à 2,5 kg">0.2</dosePoids>
+			<dosePoids categoriePoids="2,5 kg à 3 kg">0.3</dosePoids>
+			<dosePoids categoriePoids="3 kg à 3,5 kg">0.3</dosePoids>
+			<dosePoids categoriePoids="3,5 kg à 4 kg">0.4</dosePoids>
+		</classeAge>
+		<classeAge categorie="2 mois à 6 mois">
+      <posologie>0.1 mg/kg IVD</posologie>
+			<concentrationMelange>1 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>1</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>2</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="4 kg à 5 kg">0.4</dosePoids>
+			<dosePoids categoriePoids="5 kg à 6 kg">0.5</dosePoids>
+			<dosePoids categoriePoids="6 kg à 7 kg">0.6</dosePoids>
+			<dosePoids categoriePoids="7 kg à 8 kg">0.7</dosePoids>
+		</classeAge>
+		<classeAge categorie="7 mois à 18 mois">
+      <posologie>0.1 mg/kg IVD</posologie>
+			<concentrationMelange>1 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>1</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>2</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="8 kg à 9 kg">0.8</dosePoids>
+			<dosePoids categoriePoids="9 kg à 10 kg">0.9</dosePoids>
+			<dosePoids categoriePoids="10 kg à 11 kg">1</dosePoids>
+			<dosePoids categoriePoids="11 kg à 12 kg">1.1</dosePoids>
+		</classeAge>
+		<classeAge categorie="18 mois à 4 ans">
+      <posologie>0.1 mg/kg IVD</posologie>
+			<concentrationMelange>1 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>1</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>2</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="12 kg à 13 kg">1.2</dosePoids>
+			<dosePoids categoriePoids="13 kg à 14 kg">1.3</dosePoids>
+			<dosePoids categoriePoids="14 kg à 15 kg">1.4</dosePoids>
+			<dosePoids categoriePoids="15 kg à 16 kg">1.5</dosePoids>
+		</classeAge>
+		<classeAge categorie="5 ans à 7 ans">
+      <posologie>0.1 mg/kg IVD</posologie>
+			<concentrationMelange>1 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>1</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>2</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="16 kg à 18 kg">1.6</dosePoids>
+			<dosePoids categoriePoids="18 kg à 20 kg">1.8</dosePoids>
+			<dosePoids categoriePoids="20 kg à 22 kg">2</dosePoids>
+			<dosePoids categoriePoids="22 kg à 24 kg">2.2</dosePoids>
+		</classeAge>
+		<classeAge categorie="8 ans à 10 ans">
+      <posologie>0.1 mg/kg IVD</posologie>
+			<concentrationMelange>1 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>1</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>2</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="24 kg à 26 kg">2.4</dosePoids>
+			<dosePoids categoriePoids="26 kg à 28 kg">2.6</dosePoids>
+			<dosePoids categoriePoids="28 kg à 30 kg">2.8</dosePoids>
+			<dosePoids categoriePoids="30 kg à 35 kg">3</dosePoids>
+		</classeAge>
+		<classeAge categorie="11 ans à 15 ans">
+      <posologie>0.1 mg/kg IVD</posologie>
+			<concentrationMelange>1 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>2</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>4</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="35 kg à 40 kg">3.5</dosePoids>
+			<dosePoids categoriePoids="40 kg à 45 kg">4</dosePoids>
+			<dosePoids categoriePoids="45 kg à 50 kg">4.5</dosePoids>
+			<dosePoids categoriePoids="50 kg à 60 kg">5</dosePoids>
+		</classeAge>
+		<classeAge categorie="15 ans et plus">
+      <posologie>6 mg/kg IVD</posologie>
+			<concentrationMelange>1 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>2</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>4</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="60 kg à 70 kg">6</dosePoids>
+			<dosePoids categoriePoids="70 kg à 80 kg">6</dosePoids>
+			<dosePoids categoriePoids="80 kg à 90 kg">6</dosePoids>
+			<dosePoids categoriePoids="90 kg et plus">6</dosePoids>
+		</classeAge>
+	</solution>
+
+	<solution id="s3">
+		<nom>Adrénaline</nom>
+		<molecule>Adrénaline IVD</molecule>
+		<infoSup>À Répéter toutes les 3 - 5 min dans l'ACR</infoSup>
+		<concentrationInitiale>1 mg/ml</concentrationInitiale>
+		<couleur>Blue</couleur>
+		<classeAge categorie="0 mois à 1 mois">
+      <posologie>10 μg/kg IVD</posologie>
+			<concentrationMelange>0.05 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>1</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>19</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="2 kg à 2,5 kg">0.4</dosePoids>
+			<dosePoids categoriePoids="2,5 kg à 3 kg">0.5</dosePoids>
+			<dosePoids categoriePoids="3 kg à 3,5 kg">0.6</dosePoids>
+			<dosePoids categoriePoids="3,5 kg à 4 kg">0.7</dosePoids>
+		</classeAge>
+		<classeAge categorie="2 mois à 6 mois">
+      <posologie>10 μg/kg IVD</posologie>
+			<concentrationMelange>0.05 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>1</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>19</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="4 kg à 5 kg">0.8</dosePoids>
+			<dosePoids categoriePoids="5 kg à 6 kg">1</dosePoids>
+			<dosePoids categoriePoids="6 kg à 7 kg">1.2</dosePoids>
+			<dosePoids categoriePoids="7 kg à 8 kg">1.4</dosePoids>
+		</classeAge>
+		<classeAge categorie="7 mois à 18 mois">
+      <posologie>10 μg/kg IVD</posologie>
+			<concentrationMelange>0.1 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>1</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>9</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="8 kg à 9 kg">1</dosePoids>
+			<dosePoids categoriePoids="9 kg à 10 kg">1</dosePoids>
+			<dosePoids categoriePoids="10 kg à 11 kg">1</dosePoids>
+			<dosePoids categoriePoids="11 kg à 12 kg">1</dosePoids>
+		</classeAge>
+		<classeAge categorie="18 mois à 4 ans">
+      <posologie>10 μg/kg IVD</posologie>
+			<concentrationMelange>0.1 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>1</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>9</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="12 kg à 13 kg">1.5</dosePoids>
+			<dosePoids categoriePoids="13 kg à 14 kg">1.5</dosePoids>
+			<dosePoids categoriePoids="14 kg à 15 kg">1.5</dosePoids>
+			<dosePoids categoriePoids="15 kg à 16 kg">1.5</dosePoids>
+		</classeAge>
+		<classeAge categorie="5 ans à 7 ans">
+      <posologie>10 μg/kg IVD</posologie>
+			<concentrationMelange>0.1 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>1</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>9</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="16 kg à 18 kg">1.5</dosePoids>
+			<dosePoids categoriePoids="18 kg à 20 kg">2</dosePoids>
+			<dosePoids categoriePoids="20 kg à 22 kg">2</dosePoids>
+			<dosePoids categoriePoids="22 kg à 24 kg">2</dosePoids>
+		</classeAge>
+		<classeAge categorie="8 ans à 10 ans">
+      <posologie>10 μg/kg IVD</posologie>
+			<concentrationMelange>0.1 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>1</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>9</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="24 kg à 26 kg">2.5</dosePoids>
+			<dosePoids categoriePoids="26 kg à 28 kg">2.5</dosePoids>
+			<dosePoids categoriePoids="28 kg à 30 kg">3</dosePoids>
+			<dosePoids categoriePoids="30 kg à 35 kg">3</dosePoids>
+		</classeAge>
+		<classeAge categorie="11 ans à 15 ans">
+      <posologie>10 μg/kg IVD</posologie>
+			<concentrationMelange>1 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="35 kg à 40 kg">0.5</dosePoids>
+			<dosePoids categoriePoids="40 kg à 45 kg">0.5</dosePoids>
+			<dosePoids categoriePoids="45 kg à 50 kg">0.5</dosePoids>
+			<dosePoids categoriePoids="50 kg à 60 kg">0.5</dosePoids>
+		</classeAge>
+		<classeAge categorie="15 ans et plus">
+      <posologie>1 mg IVD</posologie>
+			<concentrationMelange>1 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="60 kg à 70 kg">1</dosePoids>
+			<dosePoids categoriePoids="70 kg à 80 kg">1</dosePoids>
+			<dosePoids categoriePoids="80 kg à 90 kg">1</dosePoids>
+			<dosePoids categoriePoids="90 kg et plus">1</dosePoids>
+		</classeAge>
+	</solution>
+
+	<solution id="s4">
+		<nom>Adrénaline</nom>
+		<molecule>Adrénaline IM</molecule>
+		<infoSup>Choc anaphylactique</infoSup>
+		<concentrationInitiale>1 mg/ml</concentrationInitiale>
+		<couleur>Blue</couleur>
+		<classeAge categorie="0 mois à 1 mois">
+		  <posologie>2.5 μg/kg IM</posologie>
+			<concentrationMelange>0.05 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>1</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>19</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="2 kg à 2,5 kg">0.1</dosePoids>
+			<dosePoids categoriePoids="2,5 kg à 3 kg">0.2</dosePoids>
+			<dosePoids categoriePoids="3 kg à 3,5 kg">0.2</dosePoids>
+			<dosePoids categoriePoids="3,5 kg à 4 kg">0.2</dosePoids>
+		</classeAge>
+		<classeAge categorie="2 mois à 6 mois">
+		  <posologie>2.5 μg/kg IM</posologie>
+			<concentrationMelange>0.05 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>1</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>19</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="4 kg à 5 kg">0.2</dosePoids>
+			<dosePoids categoriePoids="5 kg à 6 kg">0.3</dosePoids>
+			<dosePoids categoriePoids="6 kg à 7 kg">0.3</dosePoids>
+			<dosePoids categoriePoids="7 kg à 8 kg">0.4</dosePoids>
+		</classeAge>
+		<classeAge categorie="7 mois à 18 mois">
+		  <posologie>2.5 μg/kg IM</posologie>
+			<concentrationMelange>0.05 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>1</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>19</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="8 kg à 9 kg">0.4</dosePoids>
+			<dosePoids categoriePoids="9 kg à 10 kg">0.5</dosePoids>
+			<dosePoids categoriePoids="10 kg à 11 kg">0.5</dosePoids>
+			<dosePoids categoriePoids="11 kg à 12 kg">0.6</dosePoids>
+		</classeAge>
+		<classeAge categorie="18 mois à 4 ans">
+		  <posologie>2.5 μg/kg IM</posologie>
+			<concentrationMelange>0.05 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>1</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>19</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="12 kg à 13 kg">0.6</dosePoids>
+			<dosePoids categoriePoids="13 kg à 14 kg">0.7</dosePoids>
+			<dosePoids categoriePoids="14 kg à 15 kg">0.7</dosePoids>
+			<dosePoids categoriePoids="15 kg à 16 kg">0.8</dosePoids>
+		</classeAge>
+		<classeAge categorie="5 ans à 7 ans">
+		  <posologie>2.5 μg/kg IM</posologie>
+			<concentrationMelange>0.05 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>1</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>19</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="16 kg à 18 kg">0.8</dosePoids>
+			<dosePoids categoriePoids="18 kg à 20 kg">0.9</dosePoids>
+			<dosePoids categoriePoids="20 kg à 22 kg">1</dosePoids>
+			<dosePoids categoriePoids="22 kg à 24 kg">1.1</dosePoids>
+		</classeAge>
+		<classeAge categorie="8 ans à 10 ans">
+		  <posologie>2.5 μg/kg IM</posologie>
+			<concentrationMelange>0.05 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>1</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>19</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="24 kg à 26 kg">1.2</dosePoids>
+			<dosePoids categoriePoids="26 kg à 28 kg">1.3</dosePoids>
+			<dosePoids categoriePoids="28 kg à 30 kg">1.4</dosePoids>
+			<dosePoids categoriePoids="30 kg à 35 kg">1.5</dosePoids>
+		</classeAge>
+		<classeAge categorie="11 ans à 15 ans">
+		  <posologie>2.5 μg/kg IM</posologie>
+			<concentrationMelange>0.1 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>1</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>9</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="35 kg à 40 kg">0.9</dosePoids>
+			<dosePoids categoriePoids="40 kg à 45 kg">1</dosePoids>
+			<dosePoids categoriePoids="45 kg à 50 kg">1.1</dosePoids>
+			<dosePoids categoriePoids="50 kg à 60 kg">1.3</dosePoids>
+		</classeAge>
+		<classeAge categorie="15 ans et plus">
+		  <posologie>2.5 μg/kg IM</posologie>
+			<concentrationMelange>0.1 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>1</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>9</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="60 kg à 70 kg">1.5</dosePoids>
+			<dosePoids categoriePoids="70 kg à 80 kg">2</dosePoids>
+			<dosePoids categoriePoids="80 kg à 90 kg">2</dosePoids>
+			<dosePoids categoriePoids="90 kg et plus">2.5</dosePoids>
+		</classeAge>
+	</solution>
+
+	<solution id="s5">
+		<nom>Adrénaline</nom>
+		<molecule>Adrénaline IVSE</molecule>
+		<infoSup>À titrer en fonction de l'hémodynamique</infoSup>
+		<concentrationInitiale>1 mg/ml</concentrationInitiale>
+		<couleur>Green</couleur>
+		<classeAge categorie="0 mois à 1 mois">
+		  <posologie>0.1 μg/kg/' IVSE</posologie>
+			<concentrationMelange>0.05 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>1</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>19</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml/h</uniteSolution>
+			<dosePoids categoriePoids="2 kg à 2,5 kg">0.2</dosePoids>
+			<dosePoids categoriePoids="2,5 kg à 3 kg">0.3</dosePoids>
+			<dosePoids categoriePoids="3 kg à 3,5 kg">0.4</dosePoids>
+			<dosePoids categoriePoids="3,5 kg à 4 kg">0.4</dosePoids>
+		</classeAge>
+		<classeAge categorie="2 mois à 6 mois">
+		  <posologie>0.1 μg/kg/' IVSE</posologie>
+			<concentrationMelange>0.05 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>1</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>19</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml/h</uniteSolution>
+			<dosePoids categoriePoids="4 kg à 5 kg">0.5</dosePoids>
+			<dosePoids categoriePoids="5 kg à 6 kg">0.6</dosePoids>
+			<dosePoids categoriePoids="6 kg à 7 kg">0.7</dosePoids>
+			<dosePoids categoriePoids="7 kg à 8 kg">0.8</dosePoids>
+		</classeAge>
+		<classeAge categorie="7 mois à 18 mois">
+		  <posologie>0.1 μg/kg/' IVSE</posologie>
+			<concentrationMelange>0.1 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>2</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>18</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml/h</uniteSolution>
+			<dosePoids categoriePoids="8 kg à 9 kg">0.5</dosePoids>
+			<dosePoids categoriePoids="9 kg à 10 kg">0.5</dosePoids>
+			<dosePoids categoriePoids="10 kg à 11 kg">0.6</dosePoids>
+			<dosePoids categoriePoids="11 kg à 12 kg">0.7</dosePoids>
+		</classeAge>
+		<classeAge categorie="18 mois à 4 ans">
+		  <posologie>0.1 μg/kg/' IVSE</posologie>
+			<concentrationMelange>0.1 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>10</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>40</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml/h</uniteSolution>
+			<dosePoids categoriePoids="12 kg à 13 kg">0.4</dosePoids>
+			<dosePoids categoriePoids="13 kg à 14 kg">0.4</dosePoids>
+			<dosePoids categoriePoids="14 kg à 15 kg">0.4</dosePoids>
+			<dosePoids categoriePoids="15 kg à 16 kg">0.4</dosePoids>
+		</classeAge>
+		<classeAge categorie="5 ans à 7 ans">
+		  <posologie>0.1 μg/kg/' IVSE</posologie>
+			<concentrationMelange>0.1 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>10</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>40</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml/h</uniteSolution>
+			<dosePoids categoriePoids="16 kg à 18 kg">0.5</dosePoids>
+			<dosePoids categoriePoids="18 kg à 20 kg">0.5</dosePoids>
+			<dosePoids categoriePoids="20 kg à 22 kg">0.6</dosePoids>
+			<dosePoids categoriePoids="22 kg à 24 kg">0.7</dosePoids>
+		</classeAge>
+		<classeAge categorie="8 ans à 10 ans">
+		  <posologie>0.1 μg/kg/' IVSE</posologie>
+			<concentrationMelange>0.1 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>10</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>40</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml/h</uniteSolution>
+			<dosePoids categoriePoids="24 kg à 26 kg">0.7</dosePoids>
+			<dosePoids categoriePoids="26 kg à 28 kg">0.8</dosePoids>
+			<dosePoids categoriePoids="28 kg à 30 kg">0.8</dosePoids>
+			<dosePoids categoriePoids="30 kg à 35 kg">0.9</dosePoids>
+		</classeAge>
+		<classeAge categorie="11 ans à 15 ans">
+		  <posologie>0.1 μg/kg/' IVSE</posologie>
+			<concentrationMelange>0.5 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>20</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>20</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml/h</uniteSolution>
+			<dosePoids categoriePoids="35 kg à 40 kg">0.4</dosePoids>
+			<dosePoids categoriePoids="40 kg à 45 kg">0.5</dosePoids>
+			<dosePoids categoriePoids="45 kg à 50 kg">0.5</dosePoids>
+			<dosePoids categoriePoids="50 kg à 60 kg">0.6</dosePoids>
+		</classeAge>
+		<classeAge categorie="15 ans et plus">
+		  <posologie>0.1 μg/kg/' IVSE</posologie>
+			<concentrationMelange>0.5 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml/h</uniteSolution>
+			<dosePoids categoriePoids="60 kg à 70 kg">0.4</dosePoids>
+			<dosePoids categoriePoids="70 kg à 80 kg">0.4</dosePoids>
+			<dosePoids categoriePoids="80 kg à 90 kg">0.5</dosePoids>
+			<dosePoids categoriePoids="90 kg et plus">0.5</dosePoids>
+		</classeAge>
+	</solution>
+
+	<solution id="s6">
+		<nom>Cordarone</nom>
+		<molecule>Amiodarone</molecule>
+		<infoSup>FV réfractaire - Si besoin répéter à 2,5 mg/kg</infoSup>
+		<concentrationInitiale>50 mg/ml</concentrationInitiale>
+		<couleur>Blue</couleur>
+		<classeAge categorie="0 mois à 1 mois">
+		  <posologie>5 mg/kg IVL</posologie>
+			<concentrationMelange>10 mg/ml</concentrationMelange>
+			<solvant>SG5%</solvant>
+			<qteProduit>1</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>4</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="2 kg à 2,5 kg">1</dosePoids>
+			<dosePoids categoriePoids="2,5 kg à 3 kg">1.3</dosePoids>
+			<dosePoids categoriePoids="3 kg à 3,5 kg">1.5</dosePoids>
+			<dosePoids categoriePoids="3,5 kg à 4 kg">1.8</dosePoids>
+		</classeAge>
+		<classeAge categorie="2 mois à 6 mois">
+		  <posologie>5 mg/kg IVL</posologie>
+			<concentrationMelange>10 mg/ml</concentrationMelange>
+			<solvant>SG5%</solvant>
+			<qteProduit>1</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>4</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="4 kg à 5 kg">2</dosePoids>
+			<dosePoids categoriePoids="5 kg à 6 kg">2.5</dosePoids>
+			<dosePoids categoriePoids="6 kg à 7 kg">3</dosePoids>
+			<dosePoids categoriePoids="7 kg à 8 kg">3.5</dosePoids>
+		</classeAge>
+		<classeAge categorie="7 mois à 18 mois">
+		  <posologie>5 mg/kg IVL</posologie>
+			<concentrationMelange>10 mg/ml</concentrationMelange>
+			<solvant>SG5%</solvant>
+			<qteProduit>2</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>8</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="8 kg à 9 kg">4</dosePoids>
+			<dosePoids categoriePoids="9 kg à 10 kg">4.5</dosePoids>
+			<dosePoids categoriePoids="10 kg à 11 kg">5</dosePoids>
+			<dosePoids categoriePoids="11 kg à 12 kg">5.5</dosePoids>
+		</classeAge>
+		<classeAge categorie="18 mois à 4 ans">
+		  <posologie>5 mg/kg IVL</posologie>
+			<concentrationMelange>10 mg/ml</concentrationMelange>
+			<solvant>SG5%</solvant>
+			<qteProduit>2</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>8</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="12 kg à 13 kg">6</dosePoids>
+			<dosePoids categoriePoids="13 kg à 14 kg">6.5</dosePoids>
+			<dosePoids categoriePoids="14 kg à 15 kg">7</dosePoids>
+			<dosePoids categoriePoids="15 kg à 16 kg">7.5</dosePoids>
+		</classeAge>
+		<classeAge categorie="5 ans à 7 ans">
+		  <posologie>5 mg/kg IVL</posologie>
+			<concentrationMelange>17 mg/ml</concentrationMelange>
+			<solvant>SG5%</solvant>
+			<qteProduit>5</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>10</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="16 kg à 18 kg">5</dosePoids>
+			<dosePoids categoriePoids="18 kg à 20 kg">5</dosePoids>
+			<dosePoids categoriePoids="20 kg à 22 kg">6</dosePoids>
+			<dosePoids categoriePoids="22 kg à 24 kg">6</dosePoids>
+		</classeAge>
+		<classeAge categorie="8 ans à 10 ans">
+		  <posologie>5 mg/kg IVL</posologie>
+			<concentrationMelange>17 mg/ml</concentrationMelange>
+			<solvant>SG5%</solvant>
+			<qteProduit>5</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>10</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="24 kg à 26 kg">7</dosePoids>
+			<dosePoids categoriePoids="26 kg à 28 kg">8</dosePoids>
+			<dosePoids categoriePoids="28 kg à 30 kg">8</dosePoids>
+			<dosePoids categoriePoids="30 kg à 35 kg">9</dosePoids>
+		</classeAge>
+		<classeAge categorie="11 ans à 15 ans">
+		  <posologie>5 mg/kg IVL</posologie>
+			<concentrationMelange>17 mg/ml</concentrationMelange>
+			<solvant>SG5%</solvant>
+			<qteProduit>5</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>10</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="35 kg à 40 kg">10</dosePoids>
+			<dosePoids categoriePoids="40 kg à 45 kg">10</dosePoids>
+			<dosePoids categoriePoids="45 kg à 50 kg">15</dosePoids>
+			<dosePoids categoriePoids="50 kg à 60 kg">15</dosePoids>
+		</classeAge>
+		<classeAge categorie="15 ans et plus">
+		  <posologie>300 mg IVL</posologie>
+			<concentrationMelange>17 mg/ml</concentrationMelange>
+			<solvant>SG5%</solvant>
+			<qteProduit>6</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>12</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="60 kg à 70 kg">18</dosePoids>
+			<dosePoids categoriePoids="70 kg à 80 kg">18</dosePoids>
+			<dosePoids categoriePoids="80 kg à 90 kg">18</dosePoids>
+			<dosePoids categoriePoids="90 kg et plus">18</dosePoids>
+		</classeAge>
+	</solution>
+
+	<solution id="s7">
+		<nom>Augmentin®</nom>
+		<molecule>Amox+Ac.Clavulaniq.</molecule>
+		<infoSup>Antibioprophylaxie fracture ouverte</infoSup>
+		<concentrationInitiale>poudre</concentrationInitiale>
+		<couleur>Red</couleur>
+		<classeAge categorie="0 mois à 1 mois">
+		  <posologie>50 mg/kg IVL 4'</posologie>
+			<concentrationMelange></concentrationMelange>
+			<solvant>EPPI</solvant>
+			<qteProduit>Dose</qteProduit>
+			<uniteProduit>qsp</uniteProduit>
+			<qteSolvant>5</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>mg</uniteSolution>
+			<dosePoids categoriePoids="2 kg à 2,5 kg">100</dosePoids>
+			<dosePoids categoriePoids="2,5 kg à 3 kg">125</dosePoids>
+			<dosePoids categoriePoids="3 kg à 3,5 kg">150</dosePoids>
+			<dosePoids categoriePoids="3,5 kg à 4 kg">175</dosePoids>
+		</classeAge>
+		<classeAge categorie="2 mois à 6 mois">
+		  <posologie>50 mg/kg IVL 4'</posologie>
+			<concentrationMelange></concentrationMelange>
+			<solvant>EPPI</solvant>
+			<qteProduit>Dose</qteProduit>
+			<uniteProduit>qsp</uniteProduit>
+			<qteSolvant>10</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>mg</uniteSolution>
+			<dosePoids categoriePoids="4 kg à 5 kg">200</dosePoids>
+			<dosePoids categoriePoids="5 kg à 6 kg">250</dosePoids>
+			<dosePoids categoriePoids="6 kg à 7 kg">300</dosePoids>
+			<dosePoids categoriePoids="7 kg à 8 kg">350</dosePoids>
+		</classeAge>
+		<classeAge categorie="7 mois à 18 mois">
+		  <posologie>50 mg/kg IVL 4'</posologie>
+			<concentrationMelange></concentrationMelange>
+			<solvant>EPPI</solvant>
+			<qteProduit>Dose</qteProduit>
+			<uniteProduit>qsp</uniteProduit>
+			<qteSolvant>10</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>mg</uniteSolution>
+			<dosePoids categoriePoids="8 kg à 9 kg">400</dosePoids>
+			<dosePoids categoriePoids="9 kg à 10 kg">450</dosePoids>
+			<dosePoids categoriePoids="10 kg à 11 kg">500</dosePoids>
+			<dosePoids categoriePoids="11 kg à 12 kg">500</dosePoids>
+		</classeAge>
+		<classeAge categorie="18 mois à 4 ans">
+		  <posologie>50 mg/kg IVL 4'</posologie>
+			<concentrationMelange></concentrationMelange>
+			<solvant>EPPI</solvant>
+			<qteProduit>Dose</qteProduit>
+			<uniteProduit>qsp</uniteProduit>
+			<qteSolvant>10</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>mg</uniteSolution>
+			<dosePoids categoriePoids="12 kg à 13 kg">600</dosePoids>
+			<dosePoids categoriePoids="13 kg à 14 kg">700</dosePoids>
+			<dosePoids categoriePoids="14 kg à 15 kg">700</dosePoids>
+			<dosePoids categoriePoids="15 kg à 16 kg">800</dosePoids>
+		</classeAge>
+		<classeAge categorie="5 ans à 7 ans">
+		  <posologie>50 mg/kg IVL 4'</posologie>
+			<concentrationMelange></concentrationMelange>
+			<solvant>EPPI</solvant>
+			<qteProduit>Dose</qteProduit>
+			<uniteProduit>qsp</uniteProduit>
+			<qteSolvant>10</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>mg</uniteSolution>
+			<dosePoids categoriePoids="16 kg à 18 kg">800</dosePoids>
+			<dosePoids categoriePoids="18 kg à 20 kg">900</dosePoids>
+			<dosePoids categoriePoids="20 kg à 22 kg">1000</dosePoids>
+			<dosePoids categoriePoids="22 kg à 24 kg">1000</dosePoids>
+		</classeAge>
+		<classeAge categorie="8 ans à 10 ans">
+		  <posologie>50 mg/kg IVL 4'</posologie>
+			<concentrationMelange></concentrationMelange>
+			<solvant>EPPI</solvant>
+			<qteProduit>Dose</qteProduit>
+			<uniteProduit>qsp</uniteProduit>
+			<qteSolvant>20</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>mg</uniteSolution>
+			<dosePoids categoriePoids="24 kg à 26 kg">1000</dosePoids>
+			<dosePoids categoriePoids="26 kg à 28 kg">1500</dosePoids>
+			<dosePoids categoriePoids="28 kg à 30 kg">1500</dosePoids>
+			<dosePoids categoriePoids="30 kg à 35 kg">1500</dosePoids>
+		</classeAge>
+		<classeAge categorie="11 ans à 15 ans">
+		  <posologie>50 mg/kg IVL 4'</posologie>
+			<concentrationMelange></concentrationMelange>
+			<solvant>EPPI</solvant>
+			<qteProduit>Dose</qteProduit>
+			<uniteProduit>qsp</uniteProduit>
+			<qteSolvant>20</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>mg</uniteSolution>
+			<dosePoids categoriePoids="35 kg à 40 kg">1500</dosePoids>
+			<dosePoids categoriePoids="40 kg à 45 kg">2000</dosePoids>
+			<dosePoids categoriePoids="45 kg à 50 kg">2000</dosePoids>
+			<dosePoids categoriePoids="50 kg à 60 kg">2000</dosePoids>
+		</classeAge>
+		<classeAge categorie="15 ans et plus">
+		  <posologie>2000 mg IVL 4'</posologie>
+			<concentrationMelange></concentrationMelange>
+			<solvant>EPPI</solvant>
+			<qteProduit>Dose</qteProduit>
+			<uniteProduit>qsp</uniteProduit>
+			<qteSolvant>20</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>mg</uniteSolution>
+			<dosePoids categoriePoids="60 kg à 70 kg">2000</dosePoids>
+			<dosePoids categoriePoids="70 kg à 80 kg">2000</dosePoids>
+			<dosePoids categoriePoids="80 kg à 90 kg">2000</dosePoids>
+			<dosePoids categoriePoids="90 kg et plus">2000</dosePoids>
+		</classeAge>
+	</solution>
+
+	<solution id="s8">
+		<nom>Atropine</nom>
+		<molecule>Atropine</molecule>
+		<infoSup>À répéter toutes les 3 - 5 min</infoSup>
+		<concentrationInitiale>0.5 mg/ml</concentrationInitiale>
+		<couleur>Blue</couleur>
+		<classeAge categorie="0 mois à 1 mois">
+		  <posologie>20 μg/kg IVD</posologie>
+			<concentrationMelange>0.025 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>2</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>18</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="2 kg à 2,5 kg">0.8</dosePoids>
+			<dosePoids categoriePoids="2,5 kg à 3 kg">1</dosePoids>
+			<dosePoids categoriePoids="3 kg à 3,5 kg">1.2</dosePoids>
+			<dosePoids categoriePoids="3,5 kg à 4 kg">1.4</dosePoids>
+		</classeAge>
+		<classeAge categorie="2 mois à 6 mois">
+		  <posologie>20 μg/kg IVD</posologie>
+			<concentrationMelange>0.025 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>2</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>17</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="4 kg à 5 kg">1.6</dosePoids>
+			<dosePoids categoriePoids="5 kg à 6 kg">2</dosePoids>
+			<dosePoids categoriePoids="6 kg à 7 kg">2.4</dosePoids>
+			<dosePoids categoriePoids="7 kg à 8 kg">2.8</dosePoids>
+		</classeAge>
+		<classeAge categorie="7 mois à 18 mois">
+		  <posologie>20 μg/kg IVD</posologie>
+			<concentrationMelange>0.1 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>2</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>8</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="8 kg à 9 kg">1.6</dosePoids>
+			<dosePoids categoriePoids="9 kg à 10 kg">1.8</dosePoids>
+			<dosePoids categoriePoids="10 kg à 11 kg">2</dosePoids>
+			<dosePoids categoriePoids="11 kg à 12 kg">2.2</dosePoids>
+		</classeAge>
+		<classeAge categorie="18 mois à 4 ans">
+		  <posologie>20 μg/kg IVD</posologie>
+			<concentrationMelange>0.1 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>2</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>8</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="12 kg à 13 kg">2.5</dosePoids>
+			<dosePoids categoriePoids="13 kg à 14 kg">2.5</dosePoids>
+			<dosePoids categoriePoids="14 kg à 15 kg">3</dosePoids>
+			<dosePoids categoriePoids="15 kg à 16 kg">3</dosePoids>
+		</classeAge>
+		<classeAge categorie="5 ans à 7 ans">
+		  <posologie>20 μg/kg IVD</posologie>
+			<concentrationMelange>0.1 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>2</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>8</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="16 kg à 18 kg">3.5</dosePoids>
+			<dosePoids categoriePoids="18 kg à 20 kg">3.5</dosePoids>
+			<dosePoids categoriePoids="20 kg à 22 kg">4</dosePoids>
+			<dosePoids categoriePoids="22 kg à 24 kg">4.5</dosePoids>
+		</classeAge>
+		<classeAge categorie="8 ans à 10 ans">
+		  <posologie>20 μg/kg IVD</posologie>
+			<concentrationMelange>0.1 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>2</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>8</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="24 kg à 26 kg">5</dosePoids>
+			<dosePoids categoriePoids="26 kg à 28 kg">5</dosePoids>
+			<dosePoids categoriePoids="28 kg à 30 kg">4</dosePoids>
+			<dosePoids categoriePoids="30 kg à 35 kg">4.5</dosePoids>
+		</classeAge>
+		<classeAge categorie="11 ans à 15 ans">
+		  <posologie>20 μg/kg IVD</posologie>
+			<concentrationMelange>0.5 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="35 kg à 40 kg">1.4</dosePoids>
+			<dosePoids categoriePoids="40 kg à 45 kg">1.6</dosePoids>
+			<dosePoids categoriePoids="45 kg à 50 kg">1.8</dosePoids>
+			<dosePoids categoriePoids="50 kg à 60 kg">2</dosePoids>
+		</classeAge>
+		<classeAge categorie="15 ans et plus">
+		  <posologie>1 mg IVD</posologie>
+			<concentrationMelange>0.5 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="60 kg à 70 kg">2</dosePoids>
+			<dosePoids categoriePoids="70 kg à 80 kg">2</dosePoids>
+			<dosePoids categoriePoids="80 kg à 90 kg">2</dosePoids>
+			<dosePoids categoriePoids="90 kg et plus">2</dosePoids>
+		</classeAge>
+	</solution>
+
+	<solution id="s9">
+		<nom>HCO3Na 4,2%</nom>
+		<molecule>Bicarbonate</molecule>
+		<infoSup>Hyperkaliémie, intoxication stab. memb.</infoSup>
+		<concentrationInitiale>420 mg/ml</concentrationInitiale>
+		<couleur>Blue</couleur>
+		<classeAge categorie="0 mois à 1 mois">
+		  <posologie>2 ml/kg IVL</posologie>
+			<concentrationMelange>420 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="2 kg à 2,5 kg">4</dosePoids>
+			<dosePoids categoriePoids="2,5 kg à 3 kg">5</dosePoids>
+			<dosePoids categoriePoids="3 kg à 3,5 kg">6</dosePoids>
+			<dosePoids categoriePoids="3,5 kg à 4 kg">7</dosePoids>
+		</classeAge>
+		<classeAge categorie="2 mois à 6 mois">
+		  <posologie>2 ml/kg IVL</posologie>
+			<concentrationMelange>420 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="4 kg à 5 kg">8</dosePoids>
+			<dosePoids categoriePoids="5 kg à 6 kg">10</dosePoids>
+			<dosePoids categoriePoids="6 kg à 7 kg">12</dosePoids>
+			<dosePoids categoriePoids="7 kg à 8 kg">14</dosePoids>
+		</classeAge>
+		<classeAge categorie="7 mois à 18 mois">
+		  <posologie>2 ml/kg IVL</posologie>
+			<concentrationMelange>420 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="8 kg à 9 kg">16</dosePoids>
+			<dosePoids categoriePoids="9 kg à 10 kg">18</dosePoids>
+			<dosePoids categoriePoids="10 kg à 11 kg">20</dosePoids>
+			<dosePoids categoriePoids="11 kg à 12 kg">22</dosePoids>
+		</classeAge>
+		<classeAge categorie="18 mois à 4 ans">
+		  <posologie>2 ml/kg IVL</posologie>
+			<concentrationMelange>420 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="12 kg à 13 kg">24</dosePoids>
+			<dosePoids categoriePoids="13 kg à 14 kg">26</dosePoids>
+			<dosePoids categoriePoids="14 kg à 15 kg">28</dosePoids>
+			<dosePoids categoriePoids="15 kg à 16 kg">30</dosePoids>
+		</classeAge>
+		<classeAge categorie="5 ans à 7 ans">
+		  <posologie>2 ml/kg IVL</posologie>
+			<concentrationMelange>420 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="16 kg à 18 kg">35</dosePoids>
+			<dosePoids categoriePoids="18 kg à 20 kg">40</dosePoids>
+			<dosePoids categoriePoids="20 kg à 22 kg">40</dosePoids>
+			<dosePoids categoriePoids="22 kg à 24 kg">45</dosePoids>
+		</classeAge>
+		<classeAge categorie="8 ans à 10 ans">
+		  <posologie>2 ml/kg IVL</posologie>
+			<concentrationMelange>420 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="24 kg à 26 kg">50</dosePoids>
+			<dosePoids categoriePoids="26 kg à 28 kg">50</dosePoids>
+			<dosePoids categoriePoids="28 kg à 30 kg">55</dosePoids>
+			<dosePoids categoriePoids="30 kg à 35 kg">60</dosePoids>
+		</classeAge>
+		<classeAge categorie="11 ans à 15 ans">
+		  <posologie>2 ml/kg IVL</posologie>
+			<concentrationMelange>420 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="35 kg à 40 kg">70</dosePoids>
+			<dosePoids categoriePoids="40 kg à 45 kg">80</dosePoids>
+			<dosePoids categoriePoids="45 kg à 50 kg">90</dosePoids>
+			<dosePoids categoriePoids="50 kg à 60 kg">100</dosePoids>
+		</classeAge>
+		<classeAge categorie="15 ans et plus">
+		  <posologie>2 ml/kg IVL</posologie>
+			<concentrationMelange>420 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="60 kg à 70 kg">150</dosePoids>
+			<dosePoids categoriePoids="70 kg à 80 kg">150</dosePoids>
+			<dosePoids categoriePoids="80 kg à 90 kg">150</dosePoids>
+			<dosePoids categoriePoids="90 kg et plus">200</dosePoids>
+		</classeAge>
+	</solution>
+
+	<solution id="s10">
+		<nom>Sugammadex®</nom>
+		<molecule>Bridion</molecule>
+		<infoSup>Décurarisation après rocuronium</infoSup>
+		<concentrationInitiale>100 mg/ml</concentrationInitiale>
+		<couleur>Blue</couleur>
+		<classeAge categorie="0 mois à 1 mois">
+      <posologie></posologie>
+			<concentrationMelange></concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit></uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant>Non Injectable</uniteSolvant>
+			<uniteSolution></uniteSolution>
+			<dosePoids categoriePoids="2 kg à 2,5 kg"></dosePoids>
+			<dosePoids categoriePoids="2,5 kg à 3 kg"></dosePoids>
+			<dosePoids categoriePoids="3 kg à 3,5 kg"></dosePoids>
+			<dosePoids categoriePoids="3,5 kg à 4 kg"></dosePoids>
+		</classeAge>
+		<classeAge categorie="2 mois à 6 mois">
+		  <posologie>16 mg/kg IVD</posologie>
+			<concentrationMelange>10 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>2</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>18</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="4 kg à 5 kg">6.5</dosePoids>
+			<dosePoids categoriePoids="5 kg à 6 kg">8</dosePoids>
+			<dosePoids categoriePoids="6 kg à 7 kg">9.5</dosePoids>
+			<dosePoids categoriePoids="7 kg à 8 kg">11</dosePoids>
+		</classeAge>
+		<classeAge categorie="7 mois à 18 mois">
+		  <posologie>16 mg/kg IVD</posologie>
+			<concentrationMelange>10 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>2</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>18</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="8 kg à 9 kg">13</dosePoids>
+			<dosePoids categoriePoids="9 kg à 10 kg">14</dosePoids>
+			<dosePoids categoriePoids="10 kg à 11 kg">16</dosePoids>
+			<dosePoids categoriePoids="11 kg à 12 kg">18</dosePoids>
+		</classeAge>
+		<classeAge categorie="18 mois à 4 ans">
+		  <posologie>16 mg/kg IVD</posologie>
+			<concentrationMelange>100 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="12 kg à 13 kg">1.9</dosePoids>
+			<dosePoids categoriePoids="13 kg à 14 kg">2.1</dosePoids>
+			<dosePoids categoriePoids="14 kg à 15 kg">2.2</dosePoids>
+			<dosePoids categoriePoids="15 kg à 16 kg">2.4</dosePoids>
+		</classeAge>
+		<classeAge categorie="5 ans à 7 ans">
+		  <posologie>16 mg/kg IVD</posologie>
+			<concentrationMelange>100 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="16 kg à 18 kg">2.6</dosePoids>
+			<dosePoids categoriePoids="18 kg à 20 kg">2.9</dosePoids>
+			<dosePoids categoriePoids="20 kg à 22 kg">3.2</dosePoids>
+			<dosePoids categoriePoids="22 kg à 24 kg">3.5</dosePoids>
+		</classeAge>
+		<classeAge categorie="8 ans à 10 ans">
+		  <posologie>16 mg/kg IVD</posologie>
+			<concentrationMelange>100 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="24 kg à 26 kg">3.8</dosePoids>
+			<dosePoids categoriePoids="26 kg à 28 kg">4.2</dosePoids>
+			<dosePoids categoriePoids="28 kg à 30 kg">4.5</dosePoids>
+			<dosePoids categoriePoids="30 kg à 35 kg">4.8</dosePoids>
+		</classeAge>
+		<classeAge categorie="11 ans à 15 ans">
+		  <posologie>16 mg/kg IVD</posologie>
+			<concentrationMelange>100 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="35 kg à 40 kg">5.6</dosePoids>
+			<dosePoids categoriePoids="40 kg à 45 kg">6.4</dosePoids>
+			<dosePoids categoriePoids="45 kg à 50 kg">7.2</dosePoids>
+			<dosePoids categoriePoids="50 kg à 60 kg">8</dosePoids>
+		</classeAge>
+		<classeAge categorie="15 ans et plus">
+		  <posologie>16 mg/kg IVD</posologie>
+			<concentrationMelange>100 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="60 kg à 70 kg">10</dosePoids>
+			<dosePoids categoriePoids="70 kg à 80 kg">11</dosePoids>
+			<dosePoids categoriePoids="80 kg à 90 kg">13</dosePoids>
+			<dosePoids categoriePoids="90 kg et plus">14</dosePoids>
+		</classeAge>
+	</solution>
+
+	<solution id="s11">
+		<nom>Claforan®</nom>
+		<molecule>Cefotaxime</molecule>
+		<infoSup>Dose de charge + IVSE 200 - 300 mg/kg/j</infoSup>
+		<concentrationInitiale>poudre</concentrationInitiale>
+		<couleur>Red</couleur>
+		<classeAge categorie="0 mois à 1 mois">
+		  <posologie>50 mg/kg IVL 20'</posologie>
+			<concentrationMelange></concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>Dose</qteProduit>
+			<uniteProduit>qsp</uniteProduit>
+			<qteSolvant>5</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>mg</uniteSolution>
+			<dosePoids categoriePoids="2 kg à 2,5 kg">100</dosePoids>
+			<dosePoids categoriePoids="2,5 kg à 3 kg">125</dosePoids>
+			<dosePoids categoriePoids="3 kg à 3,5 kg">150</dosePoids>
+			<dosePoids categoriePoids="3,5 kg à 4 kg">175</dosePoids>
+		</classeAge>
+		<classeAge categorie="2 mois à 6 mois">
+		  <posologie>50 mg/kg IVL 20'</posologie>
+			<concentrationMelange></concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>Dose</qteProduit>
+			<uniteProduit>qsp</uniteProduit>
+			<qteSolvant>5</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>mg</uniteSolution>
+			<dosePoids categoriePoids="4 kg à 5 kg">200</dosePoids>
+			<dosePoids categoriePoids="5 kg à 6 kg">250</dosePoids>
+			<dosePoids categoriePoids="6 kg à 7 kg">300</dosePoids>
+			<dosePoids categoriePoids="7 kg à 8 kg">350</dosePoids>
+		</classeAge>
+		<classeAge categorie="7 mois à 18 mois">
+		  <posologie>50 mg/kg IVL 20'</posologie>
+			<concentrationMelange></concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>Dose</qteProduit>
+			<uniteProduit>qsp</uniteProduit>
+			<qteSolvant>5</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>mg</uniteSolution>
+			<dosePoids categoriePoids="8 kg à 9 kg">400</dosePoids>
+			<dosePoids categoriePoids="9 kg à 10 kg">450</dosePoids>
+			<dosePoids categoriePoids="10 kg à 11 kg">500</dosePoids>
+			<dosePoids categoriePoids="11 kg à 12 kg">550</dosePoids>
+		</classeAge>
+		<classeAge categorie="18 mois à 4 ans">
+		  <posologie>50 mg/kg IVL 20'</posologie>
+			<concentrationMelange></concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>Dose</qteProduit>
+			<uniteProduit>qsp</uniteProduit>
+			<qteSolvant>5</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>mg</uniteSolution>
+			<dosePoids categoriePoids="12 kg à 13 kg">600</dosePoids>
+			<dosePoids categoriePoids="13 kg à 14 kg">650</dosePoids>
+			<dosePoids categoriePoids="14 kg à 15 kg">700</dosePoids>
+			<dosePoids categoriePoids="15 kg à 16 kg">750</dosePoids>
+		</classeAge>
+		<classeAge categorie="5 ans à 7 ans">
+		  <posologie>50 mg/kg IVL 20'</posologie>
+			<concentrationMelange></concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>Dose</qteProduit>
+			<uniteProduit>qsp</uniteProduit>
+			<qteSolvant>5</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>mg</uniteSolution>
+			<dosePoids categoriePoids="16 kg à 18 kg">800</dosePoids>
+			<dosePoids categoriePoids="18 kg à 20 kg">900</dosePoids>
+			<dosePoids categoriePoids="20 kg à 22 kg">1000</dosePoids>
+			<dosePoids categoriePoids="22 kg à 24 kg">1100</dosePoids>
+		</classeAge>
+		<classeAge categorie="8 ans à 10 ans">
+		  <posologie>50 mg/kg IVL 20'</posologie>
+			<concentrationMelange></concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>Dose</qteProduit>
+			<uniteProduit>qsp</uniteProduit>
+			<qteSolvant>5</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>mg</uniteSolution>
+			<dosePoids categoriePoids="24 kg à 26 kg">1200</dosePoids>
+			<dosePoids categoriePoids="26 kg à 28 kg">1300</dosePoids>
+			<dosePoids categoriePoids="28 kg à 30 kg">1400</dosePoids>
+			<dosePoids categoriePoids="30 kg à 35 kg">1500</dosePoids>
+		</classeAge>
+		<classeAge categorie="11 ans à 15 ans">
+		  <posologie>50 mg/kg IVL 20'</posologie>
+			<concentrationMelange></concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>Dose</qteProduit>
+			<uniteProduit>qsp</uniteProduit>
+			<qteSolvant>5</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>mg</uniteSolution>
+			<dosePoids categoriePoids="35 kg à 40 kg">1800</dosePoids>
+			<dosePoids categoriePoids="40 kg à 45 kg">2000</dosePoids>
+			<dosePoids categoriePoids="45 kg à 50 kg">2000</dosePoids>
+			<dosePoids categoriePoids="50 kg à 60 kg">2000</dosePoids>
+		</classeAge>
+		<classeAge categorie="15 ans et plus">
+		  <posologie>2 g IVL 20'</posologie>
+			<concentrationMelange></concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>Dose</qteProduit>
+			<uniteProduit>qsp</uniteProduit>
+			<qteSolvant>5</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>mg</uniteSolution>
+			<dosePoids categoriePoids="60 kg à 70 kg">2000</dosePoids>
+			<dosePoids categoriePoids="70 kg à 80 kg">2000</dosePoids>
+			<dosePoids categoriePoids="80 kg à 90 kg">2000</dosePoids>
+			<dosePoids categoriePoids="90 kg et plus">2000</dosePoids>
+		</classeAge>
+	</solution>
+
+	<solution id="s12">
+		<nom>Nimbex®</nom>
+		<molecule>Cisatracurium</molecule>
+		<infoSup>CI : asthme, myasthénie, intubation difficile</infoSup>
+		<concentrationInitiale>5 mg/ml</concentrationInitiale>
+		<couleur>Blue</couleur>
+		<classeAge categorie="0 mois à 1 mois">
+		  <posologie>0.2 mg/kg IVD</posologie>
+			<concentrationMelange>0.5 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>1</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>9</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="2 kg à 2,5 kg">0.8</dosePoids>
+			<dosePoids categoriePoids="2,5 kg à 3 kg">1</dosePoids>
+			<dosePoids categoriePoids="3 kg à 3,5 kg">1.2</dosePoids>
+			<dosePoids categoriePoids="3,5 kg à 4 kg">1.4</dosePoids>
+		</classeAge>
+		<classeAge categorie="2 mois à 6 mois">
+		  <posologie>0.2 mg/kg IVD</posologie>
+			<concentrationMelange>1 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>1</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>4</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="4 kg à 5 kg">0.8</dosePoids>
+			<dosePoids categoriePoids="5 kg à 6 kg">1</dosePoids>
+			<dosePoids categoriePoids="6 kg à 7 kg">1.2</dosePoids>
+			<dosePoids categoriePoids="7 kg à 8 kg">1.4</dosePoids>
+		</classeAge>
+		<classeAge categorie="7 mois à 18 mois">
+		  <posologie>0.2 mg/kg IVD</posologie>
+			<concentrationMelange>1 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>1</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>4</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="8 kg à 9 kg">1.6</dosePoids>
+			<dosePoids categoriePoids="9 kg à 10 kg">1.8</dosePoids>
+			<dosePoids categoriePoids="10 kg à 11 kg">2</dosePoids>
+			<dosePoids categoriePoids="11 kg à 12 kg">2.2</dosePoids>
+		</classeAge>
+		<classeAge categorie="18 mois à 4 ans">
+		  <posologie>0.2 mg/kg IVD</posologie>
+			<concentrationMelange>1 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>1</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>4</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="12 kg à 13 kg">2.4</dosePoids>
+			<dosePoids categoriePoids="13 kg à 14 kg">2.6</dosePoids>
+			<dosePoids categoriePoids="14 kg à 15 kg">2.8</dosePoids>
+			<dosePoids categoriePoids="15 kg à 16 kg">3</dosePoids>
+		</classeAge>
+		<classeAge categorie="5 ans à 7 ans">
+		  <posologie>0.2 mg/kg IVD</posologie>
+			<concentrationMelange>1 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>1</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>4</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="16 kg à 18 kg">3.2</dosePoids>
+			<dosePoids categoriePoids="18 kg à 20 kg">3.6</dosePoids>
+			<dosePoids categoriePoids="20 kg à 22 kg">4</dosePoids>
+			<dosePoids categoriePoids="22 kg à 24 kg">4.4</dosePoids>
+		</classeAge>
+		<classeAge categorie="8 ans à 10 ans">
+		  <posologie>0.2 mg/kg IVD</posologie>
+			<concentrationMelange>1 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>1</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>4</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="24 kg à 26 kg">4.8</dosePoids>
+			<dosePoids categoriePoids="26 kg à 28 kg">5.2</dosePoids>
+			<dosePoids categoriePoids="28 kg à 30 kg">5.6</dosePoids>
+			<dosePoids categoriePoids="30 kg à 35 kg">6</dosePoids>
+		</classeAge>
+		<classeAge categorie="11 ans à 15 ans">
+		  <posologie>0.2 mg/kg IVD</posologie>
+			<concentrationMelange>1 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>1</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>4</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="35 kg à 40 kg">7</dosePoids>
+			<dosePoids categoriePoids="40 kg à 45 kg">8</dosePoids>
+			<dosePoids categoriePoids="45 kg à 50 kg">9</dosePoids>
+			<dosePoids categoriePoids="50 kg à 60 kg">10</dosePoids>
+		</classeAge>
+		<classeAge categorie="15 ans et plus">
+		  <posologie>0.2 mg/kg IVD</posologie>
+			<concentrationMelange>5 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="60 kg à 70 kg">2.4</dosePoids>
+			<dosePoids categoriePoids="70 kg à 80 kg">2.8</dosePoids>
+			<dosePoids categoriePoids="80 kg à 90 kg">3.2</dosePoids>
+			<dosePoids categoriePoids="90 kg et plus">3.6</dosePoids>
+		</classeAge>
+	</solution>
+
+	<solution id="s13">
+		<nom>Chlorure de calcium</nom>
+		<molecule>Chlorure de calcium</molecule>
+		<infoSup>Hyperkaliémie à complexes sinusoïdaux</infoSup>
+		<concentrationInitiale>100 mg/ml</concentrationInitiale>
+		<couleur>Blue</couleur>
+		<classeAge categorie="0 mois à 1 mois">
+		  <posologie>10 mg/kg IVL</posologie>
+			<concentrationMelange>100 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="2 kg à 2,5 kg">0.2</dosePoids>
+			<dosePoids categoriePoids="2,5 kg à 3 kg">0.2</dosePoids>
+			<dosePoids categoriePoids="3 kg à 3,5 kg">0.3</dosePoids>
+			<dosePoids categoriePoids="3,5 kg à 4 kg">0.3</dosePoids>
+		</classeAge>
+		<classeAge categorie="2 mois à 6 mois">
+		  <posologie>10 mg/kg IVL</posologie>
+			<concentrationMelange>100 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="4 kg à 5 kg">0.4</dosePoids>
+			<dosePoids categoriePoids="5 kg à 6 kg">0.5</dosePoids>
+			<dosePoids categoriePoids="6 kg à 7 kg">0.6</dosePoids>
+			<dosePoids categoriePoids="7 kg à 8 kg">0.7</dosePoids>
+		</classeAge>
+		<classeAge categorie="7 mois à 18 mois">
+		  <posologie>10 mg/kg IVL</posologie>
+			<concentrationMelange>100 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="8 kg à 9 kg">0.8</dosePoids>
+			<dosePoids categoriePoids="9 kg à 10 kg">0.9</dosePoids>
+			<dosePoids categoriePoids="10 kg à 11 kg">1</dosePoids>
+			<dosePoids categoriePoids="11 kg à 12 kg">1.1</dosePoids>
+		</classeAge>
+		<classeAge categorie="18 mois à 4 ans">
+		  <posologie>10 mg/kg IVL</posologie>
+			<concentrationMelange>100 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="12 kg à 13 kg">1.2</dosePoids>
+			<dosePoids categoriePoids="13 kg à 14 kg">1.3</dosePoids>
+			<dosePoids categoriePoids="14 kg à 15 kg">1.4</dosePoids>
+			<dosePoids categoriePoids="15 kg à 16 kg">1.5</dosePoids>
+		</classeAge>
+		<classeAge categorie="5 ans à 7 ans">
+		  <posologie>10 mg/kg IVL</posologie>
+			<concentrationMelange>100 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="16 kg à 18 kg">1.6</dosePoids>
+			<dosePoids categoriePoids="18 kg à 20 kg">1.8</dosePoids>
+			<dosePoids categoriePoids="20 kg à 22 kg">2</dosePoids>
+			<dosePoids categoriePoids="22 kg à 24 kg">2.2</dosePoids>
+		</classeAge>
+		<classeAge categorie="8 ans à 10 ans">
+		  <posologie>10 mg/kg IVL</posologie>
+			<concentrationMelange>100 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="24 kg à 26 kg">2.4</dosePoids>
+			<dosePoids categoriePoids="26 kg à 28 kg">2.6</dosePoids>
+			<dosePoids categoriePoids="28 kg à 30 kg">2.8</dosePoids>
+			<dosePoids categoriePoids="30 kg à 35 kg">3</dosePoids>
+		</classeAge>
+		<classeAge categorie="11 ans à 15 ans">
+		  <posologie>10 mg/kg IVL</posologie>
+			<concentrationMelange>100 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="35 kg à 40 kg">3.5</dosePoids>
+			<dosePoids categoriePoids="40 kg à 45 kg">4</dosePoids>
+			<dosePoids categoriePoids="45 kg à 50 kg">4.5</dosePoids>
+			<dosePoids categoriePoids="50 kg à 60 kg">5</dosePoids>
+		</classeAge>
+		<classeAge categorie="15 ans et plus">
+		  <posologie>10 mg/kg IVL</posologie>
+			<concentrationMelange>100 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="60 kg à 70 kg">6</dosePoids>
+			<dosePoids categoriePoids="70 kg à 80 kg">7</dosePoids>
+			<dosePoids categoriePoids="80 kg à 90 kg">8</dosePoids>
+			<dosePoids categoriePoids="90 kg et plus">9</dosePoids>
+		</classeAge>
+	</solution>
+
+	<solution id="s14">
+		<nom>Rivotril®</nom>
+		<molecule>Clonazepam</molecule>
+		<infoSup>À répéter 1 fois - Entretien 0,05 - 0,1 mg/kg/j</infoSup>
+		<concentrationInitiale>1 mg/ml</concentrationInitiale>
+		<couleur>Blue</couleur>
+		<classeAge categorie="0 mois à 1 mois">
+		  <posologie>0.05 mg/kg IVL</posologie>
+			<concentrationMelange>0.1 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>1</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>9</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="2 kg à 2,5 kg">1</dosePoids>
+			<dosePoids categoriePoids="2,5 kg à 3 kg">1.3</dosePoids>
+			<dosePoids categoriePoids="3 kg à 3,5 kg">1.5</dosePoids>
+			<dosePoids categoriePoids="3,5 kg à 4 kg">1.7</dosePoids>
+		</classeAge>
+		<classeAge categorie="2 mois à 6 mois">
+		  <posologie>0.05 mg/kg IVL</posologie>
+			<concentrationMelange>0.1 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>1</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>9</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="4 kg à 5 kg">2</dosePoids>
+			<dosePoids categoriePoids="5 kg à 6 kg">2.5</dosePoids>
+			<dosePoids categoriePoids="6 kg à 7 kg">3</dosePoids>
+			<dosePoids categoriePoids="7 kg à 8 kg">3.5</dosePoids>
+		</classeAge>
+		<classeAge categorie="7 mois à 18 mois">
+		  <posologie>0.05 mg/kg IVL</posologie>
+			<concentrationMelange>0.5 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>1</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>1</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="8 kg à 9 kg">0.8</dosePoids>
+			<dosePoids categoriePoids="9 kg à 10 kg">0.9</dosePoids>
+			<dosePoids categoriePoids="10 kg à 11 kg">1</dosePoids>
+			<dosePoids categoriePoids="11 kg à 12 kg">1.1</dosePoids>
+		</classeAge>
+		<classeAge categorie="18 mois à 4 ans">
+		  <posologie>0.05 mg/kg IVL</posologie>
+			<concentrationMelange>0.5 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>1</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>1</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="12 kg à 13 kg">1.2</dosePoids>
+			<dosePoids categoriePoids="13 kg à 14 kg">1.3</dosePoids>
+			<dosePoids categoriePoids="14 kg à 15 kg">1.4</dosePoids>
+			<dosePoids categoriePoids="15 kg à 16 kg">1.5</dosePoids>
+		</classeAge>
+		<classeAge categorie="5 ans à 7 ans">
+		  <posologie>0.05 mg/kg IVL</posologie>
+			<concentrationMelange>0.5 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>1</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>1</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="16 kg à 18 kg">1.6</dosePoids>
+			<dosePoids categoriePoids="18 kg à 20 kg">1.8</dosePoids>
+			<dosePoids categoriePoids="20 kg à 22 kg">2</dosePoids>
+			<dosePoids categoriePoids="22 kg à 24 kg">2.2</dosePoids>
+		</classeAge>
+		<classeAge categorie="8 ans à 10 ans">
+		  <posologie>0.05 mg/kg IVL</posologie>
+			<concentrationMelange>0.5 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>2</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>2</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="24 kg à 26 kg">2</dosePoids>
+			<dosePoids categoriePoids="26 kg à 28 kg">2</dosePoids>
+			<dosePoids categoriePoids="28 kg à 30 kg">2</dosePoids>
+			<dosePoids categoriePoids="30 kg à 35 kg">2</dosePoids>
+		</classeAge>
+		<classeAge categorie="11 ans à 15 ans">
+		  <posologie>1 mg IVL</posologie>
+			<concentrationMelange>0.5 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>1</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>1</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="35 kg à 40 kg">2</dosePoids>
+			<dosePoids categoriePoids="40 kg à 45 kg">2</dosePoids>
+			<dosePoids categoriePoids="45 kg à 50 kg">2</dosePoids>
+			<dosePoids categoriePoids="50 kg à 60 kg">2</dosePoids>
+		</classeAge>
+		<classeAge categorie="15 ans et plus">
+		  <posologie>1 mg IVL</posologie>
+			<concentrationMelange>0.5 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>1</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>1</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="60 kg à 70 kg">2</dosePoids>
+			<dosePoids categoriePoids="70 kg à 80 kg">2</dosePoids>
+			<dosePoids categoriePoids="80 kg à 90 kg">2</dosePoids>
+			<dosePoids categoriePoids="90 kg et plus">2</dosePoids>
+		</classeAge>
+	</solution>
+
+	<solution id="s15">
+		<nom>Valium®</nom>
+		<molecule>Diazepam</molecule>
+		<infoSup>À répéter 1x - Dépression respiratoire</infoSup>
+		<concentrationInitiale>5 mg/ml</concentrationInitiale>
+		<couleur>Blue</couleur>
+		<classeAge categorie="0 mois à 1 mois">
+		  <posologie>0.5 mg/kg IV</posologie>
+			<concentrationMelange>1 mg/ml</concentrationMelange>
+			<solvant>EPPI</solvant>
+			<qteProduit>1</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>4</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="2 kg à 2,5 kg">1</dosePoids>
+			<dosePoids categoriePoids="2,5 kg à 3 kg">1.3</dosePoids>
+			<dosePoids categoriePoids="3 kg à 3,5 kg">1.5</dosePoids>
+			<dosePoids categoriePoids="3,5 kg à 4 kg">1.7</dosePoids>
+		</classeAge>
+		<classeAge categorie="2 mois à 6 mois">
+		  <posologie>0.5 mg/kg IV</posologie>
+			<concentrationMelange>1 mg/ml</concentrationMelange>
+			<solvant>EPPI</solvant>
+			<qteProduit>1</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>4</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="4 kg à 5 kg">2</dosePoids>
+			<dosePoids categoriePoids="5 kg à 6 kg">2.5</dosePoids>
+			<dosePoids categoriePoids="6 kg à 7 kg">3</dosePoids>
+			<dosePoids categoriePoids="7 kg à 8 kg">3.5</dosePoids>
+		</classeAge>
+		<classeAge categorie="7 mois à 18 mois">
+		  <posologie>0.5 mg/kg IV</posologie>
+			<concentrationMelange>2.5 mg/ml</concentrationMelange>
+			<solvant>EPPI</solvant>
+			<qteProduit>2</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>2</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="8 kg à 9 kg">1.6</dosePoids>
+			<dosePoids categoriePoids="9 kg à 10 kg">1.8</dosePoids>
+			<dosePoids categoriePoids="10 kg à 11 kg">2</dosePoids>
+			<dosePoids categoriePoids="11 kg à 12 kg">2.2</dosePoids>
+		</classeAge>
+		<classeAge categorie="18 mois à 4 ans">
+		  <posologie>0.3 mg/kg IV</posologie>
+			<concentrationMelange>2.5 mg/ml</concentrationMelange>
+			<solvant>EPPI</solvant>
+			<qteProduit>1</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>1</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="12 kg à 13 kg">1.4</dosePoids>
+			<dosePoids categoriePoids="13 kg à 14 kg">1.6</dosePoids>
+			<dosePoids categoriePoids="14 kg à 15 kg">1.7</dosePoids>
+			<dosePoids categoriePoids="15 kg à 16 kg">1.8</dosePoids>
+		</classeAge>
+		<classeAge categorie="5 ans à 7 ans">
+		  <posologie>0.3 mg/kg IV</posologie>
+			<concentrationMelange>2.5 mg/ml</concentrationMelange>
+			<solvant>EPPI</solvant>
+			<qteProduit>2</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>2</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="16 kg à 18 kg">1.9</dosePoids>
+			<dosePoids categoriePoids="18 kg à 20 kg">2.2</dosePoids>
+			<dosePoids categoriePoids="20 kg à 22 kg">2.4</dosePoids>
+			<dosePoids categoriePoids="22 kg à 24 kg">2.6</dosePoids>
+		</classeAge>
+		<classeAge categorie="8 ans à 10 ans">
+		  <posologie>0.3 mg/kg IV</posologie>
+			<concentrationMelange>2.5 mg/ml</concentrationMelange>
+			<solvant>EPPI</solvant>
+			<qteProduit>2</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>2</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="24 kg à 26 kg">2.9</dosePoids>
+			<dosePoids categoriePoids="26 kg à 28 kg">3.1</dosePoids>
+			<dosePoids categoriePoids="28 kg à 30 kg">3.4</dosePoids>
+			<dosePoids categoriePoids="30 kg à 35 kg">3.6</dosePoids>
+		</classeAge>
+		<classeAge categorie="11 ans à 15 ans">
+		  <posologie>10 mg IV</posologie>
+			<concentrationMelange>5 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="35 kg à 40 kg">2</dosePoids>
+			<dosePoids categoriePoids="40 kg à 45 kg">2</dosePoids>
+			<dosePoids categoriePoids="45 kg à 50 kg">2</dosePoids>
+			<dosePoids categoriePoids="50 kg à 60 kg">2</dosePoids>
+		</classeAge>
+		<classeAge categorie="15 ans et plus">
+		  <posologie>10 mg IV</posologie>
+			<concentrationMelange>5 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="60 kg à 70 kg">2</dosePoids>
+			<dosePoids categoriePoids="70 kg à 80 kg">2</dosePoids>
+			<dosePoids categoriePoids="80 kg à 90 kg">2</dosePoids>
+			<dosePoids categoriePoids="90 kg et plus">2</dosePoids>
+		</classeAge>
+	</solution>
+
+	<solution id="s16">
+		<nom>Dobutamine</nom>
+		<molecule>Dobutamine</molecule>
+		<infoSup>insuffisance cardiaque</infoSup>
+		<concentrationInitiale>250 mg/20ml</concentrationInitiale>
+		<couleur>Green</couleur>
+		<classeAge categorie="0 mois à 1 mois">
+		  <posologie>10 μg/kg/' IVSE</posologie>
+			<concentrationMelange>2.5 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>10</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>40</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml/h</uniteSolution>
+			<dosePoids categoriePoids="2 kg à 2,5 kg">0.5</dosePoids>
+			<dosePoids categoriePoids="2,5 kg à 3 kg">0.6</dosePoids>
+			<dosePoids categoriePoids="3 kg à 3,5 kg">0.7</dosePoids>
+			<dosePoids categoriePoids="3,5 kg à 4 kg">0.8</dosePoids>
+		</classeAge>
+		<classeAge categorie="2 mois à 6 mois">
+		  <posologie>10 μg/kg/' IVSE</posologie>
+			<concentrationMelange>2.5 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>10</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>40</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml/h</uniteSolution>
+			<dosePoids categoriePoids="4 kg à 5 kg">1</dosePoids>
+			<dosePoids categoriePoids="5 kg à 6 kg">1.2</dosePoids>
+			<dosePoids categoriePoids="6 kg à 7 kg">1.4</dosePoids>
+			<dosePoids categoriePoids="7 kg à 8 kg">1.6</dosePoids>
+		</classeAge>
+		<classeAge categorie="7 mois à 18 mois">
+		  <posologie>10 μg/kg/' IVSE</posologie>
+			<concentrationMelange>4.2 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>10</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>20</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml/h</uniteSolution>
+			<dosePoids categoriePoids="8 kg à 9 kg">1.1</dosePoids>
+			<dosePoids categoriePoids="9 kg à 10 kg">1.3</dosePoids>
+			<dosePoids categoriePoids="10 kg à 11 kg">1.5</dosePoids>
+			<dosePoids categoriePoids="11 kg à 12 kg">1.6</dosePoids>
+		</classeAge>
+		<classeAge categorie="18 mois à 4 ans">
+		  <posologie>10 μg/kg/' IVSE</posologie>
+			<concentrationMelange>4.2 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>10</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>20</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml/h</uniteSolution>
+			<dosePoids categoriePoids="12 kg à 13 kg">1.7</dosePoids>
+			<dosePoids categoriePoids="13 kg à 14 kg">1.9</dosePoids>
+			<dosePoids categoriePoids="14 kg à 15 kg">2</dosePoids>
+			<dosePoids categoriePoids="15 kg à 16 kg">2.2</dosePoids>
+		</classeAge>
+		<classeAge categorie="5 ans à 7 ans">
+		  <posologie>10 μg/kg/' IVSE</posologie>
+			<concentrationMelange>5 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>20</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>30</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml/h</uniteSolution>
+			<dosePoids categoriePoids="16 kg à 18 kg">1.9</dosePoids>
+			<dosePoids categoriePoids="18 kg à 20 kg">2.2</dosePoids>
+			<dosePoids categoriePoids="20 kg à 22 kg">2.4</dosePoids>
+			<dosePoids categoriePoids="22 kg à 24 kg">2.6</dosePoids>
+		</classeAge>
+		<classeAge categorie="8 ans à 10 ans">
+		  <posologie>10 μg/kg/' IVSE</posologie>
+			<concentrationMelange>5 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>20</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>30</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml/h</uniteSolution>
+			<dosePoids categoriePoids="24 kg à 26 kg">2.9</dosePoids>
+			<dosePoids categoriePoids="26 kg à 28 kg">3.1</dosePoids>
+			<dosePoids categoriePoids="28 kg à 30 kg">3.4</dosePoids>
+			<dosePoids categoriePoids="30 kg à 35 kg">3.6</dosePoids>
+		</classeAge>
+		<classeAge categorie="11 ans à 15 ans">
+		  <posologie>10 μg/kg/' IVSE</posologie>
+			<concentrationMelange>5 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>20</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>30</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml/h</uniteSolution>
+			<dosePoids categoriePoids="35 kg à 40 kg">4.2</dosePoids>
+			<dosePoids categoriePoids="40 kg à 45 kg">4.8</dosePoids>
+			<dosePoids categoriePoids="45 kg à 50 kg">5.4</dosePoids>
+			<dosePoids categoriePoids="50 kg à 60 kg">6</dosePoids>
+		</classeAge>
+		<classeAge categorie="15 ans et plus">
+		  <posologie>10 μg/kg/' IVSE</posologie>
+			<concentrationMelange>5 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>20</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>30</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml/h</uniteSolution>
+			<dosePoids categoriePoids="60 kg à 70 kg">7.2</dosePoids>
+			<dosePoids categoriePoids="70 kg à 80 kg">8.4</dosePoids>
+			<dosePoids categoriePoids="80 kg à 90 kg">9.6</dosePoids>
+			<dosePoids categoriePoids="90 kg et plus">10.8</dosePoids>
+		</classeAge>
+	</solution>
+
+	<solution id="s17">
+		<nom>Flumazenil</nom>
+		<molecule>Flumazenil</molecule>
+		<infoSup>À répéter toutes les min (max 4x)</infoSup>
+		<concentrationInitiale>0.1 mg/ml</concentrationInitiale>
+		<couleur>Blue</couleur>
+		<classeAge categorie="0 mois à 1 mois">
+		  <posologie>0.01 mg/kg IVL</posologie>
+			<concentrationMelange>0.02 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>1</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>4</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="2 kg à 2,5 kg">1</dosePoids>
+			<dosePoids categoriePoids="2,5 kg à 3 kg">1.2</dosePoids>
+			<dosePoids categoriePoids="3 kg à 3,5 kg">1.5</dosePoids>
+			<dosePoids categoriePoids="3,5 kg à 4 kg">1.7</dosePoids>
+		</classeAge>
+		<classeAge categorie="2 mois à 6 mois">
+		  <posologie>0.01 mg/kg IVL</posologie>
+			<concentrationMelange>0.02 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>1</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>4</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="4 kg à 5 kg">2</dosePoids>
+			<dosePoids categoriePoids="5 kg à 6 kg">2.5</dosePoids>
+			<dosePoids categoriePoids="6 kg à 7 kg">3</dosePoids>
+			<dosePoids categoriePoids="7 kg à 8 kg">3.5</dosePoids>
+		</classeAge>
+		<classeAge categorie="7 mois à 18 mois">
+		  <posologie>0.01 mg/kg IVL</posologie>
+			<concentrationMelange>0.05 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>5</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>5</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="8 kg à 9 kg">1.6</dosePoids>
+			<dosePoids categoriePoids="9 kg à 10 kg">1.8</dosePoids>
+			<dosePoids categoriePoids="10 kg à 11 kg">2</dosePoids>
+			<dosePoids categoriePoids="11 kg à 12 kg">2.2</dosePoids>
+		</classeAge>
+		<classeAge categorie="18 mois à 4 ans">
+		  <posologie>0.01 mg/kg IVL</posologie>
+			<concentrationMelange>0.05 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>5</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>5</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="12 kg à 13 kg">2.4</dosePoids>
+			<dosePoids categoriePoids="13 kg à 14 kg">2.6</dosePoids>
+			<dosePoids categoriePoids="14 kg à 15 kg">2.8</dosePoids>
+			<dosePoids categoriePoids="15 kg à 16 kg">3</dosePoids>
+		</classeAge>
+		<classeAge categorie="5 ans à 7 ans">
+		  <posologie>0.01 mg/kg IVL</posologie>
+			<concentrationMelange>0.1 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="16 kg à 18 kg">1.6</dosePoids>
+			<dosePoids categoriePoids="18 kg à 20 kg">1.8</dosePoids>
+			<dosePoids categoriePoids="20 kg à 22 kg">2</dosePoids>
+			<dosePoids categoriePoids="22 kg à 24 kg">2</dosePoids>
+		</classeAge>
+		<classeAge categorie="8 ans à 10 ans">
+		  <posologie>0.01 mg/kg IVL</posologie>
+			<concentrationMelange>0.1 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="24 kg à 26 kg">2</dosePoids>
+			<dosePoids categoriePoids="26 kg à 28 kg">2</dosePoids>
+			<dosePoids categoriePoids="28 kg à 30 kg">2</dosePoids>
+			<dosePoids categoriePoids="30 kg à 35 kg">2</dosePoids>
+		</classeAge>
+		<classeAge categorie="11 ans à 15 ans">
+		  <posologie>2 mg IVL</posologie>
+			<concentrationMelange>0.1 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="35 kg à 40 kg">2</dosePoids>
+			<dosePoids categoriePoids="40 kg à 45 kg">2</dosePoids>
+			<dosePoids categoriePoids="45 kg à 50 kg">2</dosePoids>
+			<dosePoids categoriePoids="50 kg à 60 kg">2</dosePoids>
+		</classeAge>
+		<classeAge categorie="15 ans et plus">
+		  <posologie>2 mg IVL</posologie>
+			<concentrationMelange>0.1 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="60 kg à 70 kg">2</dosePoids>
+			<dosePoids categoriePoids="70 kg à 80 kg">2</dosePoids>
+			<dosePoids categoriePoids="80 kg à 90 kg">2</dosePoids>
+			<dosePoids categoriePoids="90 kg et plus">2</dosePoids>
+		</classeAge>
+	</solution>
+
+	<solution id="s18">
+		<nom>Prodilantin®</nom>
+		<molecule>Fosphénitoïne</molecule>
+		<infoSup>Dose de charge EME - Allongement du QT</infoSup>
+		<concentrationInitiale>75 mg/ml</concentrationInitiale>
+		<couleur>Blue</couleur>
+		<classeAge categorie="0 mois à 1 mois">
+		  <posologie>15 mg/kg IVL 20'</posologie>
+			<concentrationMelange>25 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>1</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>2</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="2 kg à 2,5 kg">1.2</dosePoids>
+			<dosePoids categoriePoids="2,5 kg à 3 kg">1.5</dosePoids>
+			<dosePoids categoriePoids="3 kg à 3,5 kg">1.8</dosePoids>
+			<dosePoids categoriePoids="3,5 kg à 4 kg">2.1</dosePoids>
+		</classeAge>
+		<classeAge categorie="2 mois à 6 mois">
+		  <posologie>15 mg/kg IVL 20'</posologie>
+			<concentrationMelange>25 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>2</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>4</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="4 kg à 5 kg">2.4</dosePoids>
+			<dosePoids categoriePoids="5 kg à 6 kg">3</dosePoids>
+			<dosePoids categoriePoids="6 kg à 7 kg">3.6</dosePoids>
+			<dosePoids categoriePoids="7 kg à 8 kg">4.2</dosePoids>
+		</classeAge>
+		<classeAge categorie="7 mois à 18 mois">
+		  <posologie>15 mg/kg IVL 20'</posologie>
+			<concentrationMelange>25 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>5</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>10</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="8 kg à 9 kg">4.8</dosePoids>
+			<dosePoids categoriePoids="9 kg à 10 kg">5.4</dosePoids>
+			<dosePoids categoriePoids="10 kg à 11 kg">6</dosePoids>
+			<dosePoids categoriePoids="11 kg à 12 kg">6.6</dosePoids>
+		</classeAge>
+		<classeAge categorie="18 mois à 4 ans">
+		  <posologie>15 mg/kg IVL 20'</posologie>
+			<concentrationMelange>25 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>5</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>10</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="12 kg à 13 kg">7.2</dosePoids>
+			<dosePoids categoriePoids="13 kg à 14 kg">7.8</dosePoids>
+			<dosePoids categoriePoids="14 kg à 15 kg">8.4</dosePoids>
+			<dosePoids categoriePoids="15 kg à 16 kg">9</dosePoids>
+		</classeAge>
+		<classeAge categorie="5 ans à 7 ans">
+		  <posologie>15 mg/kg IVL 20'</posologie>
+			<concentrationMelange>25 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>5</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>10</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="16 kg à 18 kg">10</dosePoids>
+			<dosePoids categoriePoids="18 kg à 20 kg">11</dosePoids>
+			<dosePoids categoriePoids="20 kg à 22 kg">12</dosePoids>
+			<dosePoids categoriePoids="22 kg à 24 kg">13</dosePoids>
+		</classeAge>
+		<classeAge categorie="8 ans à 10 ans">
+		  <posologie>15 mg/kg IVL 20'</posologie>
+			<concentrationMelange>25 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>5</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>10</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="24 kg à 26 kg">14</dosePoids>
+			<dosePoids categoriePoids="26 kg à 28 kg">16</dosePoids>
+			<dosePoids categoriePoids="28 kg à 30 kg">17</dosePoids>
+			<dosePoids categoriePoids="30 kg à 35 kg">18</dosePoids>
+		</classeAge>
+		<classeAge categorie="11 ans à 15 ans">
+		  <posologie>15 mg/kg IVL 20'</posologie>
+			<concentrationMelange>37 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>10</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>10</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="35 kg à 40 kg">14</dosePoids>
+			<dosePoids categoriePoids="40 kg à 45 kg">16</dosePoids>
+			<dosePoids categoriePoids="45 kg à 50 kg">18</dosePoids>
+			<dosePoids categoriePoids="50 kg à 60 kg">20</dosePoids>
+		</classeAge>
+		<classeAge categorie="15 ans et plus">
+		  <posologie>15 mg/kg IVL 20'</posologie>
+			<concentrationMelange>37 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>10</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>10</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="60 kg à 70 kg">18</dosePoids>
+			<dosePoids categoriePoids="70 kg à 80 kg">21</dosePoids>
+			<dosePoids categoriePoids="80 kg à 90 kg">24</dosePoids>
+			<dosePoids categoriePoids="90 kg et plus">27</dosePoids>
+		</classeAge>
+	</solution>
+
+	<!-- Tableau n°2 -->
+
+	<solution id="s19">
+		<nom>Hydratation de base</nom>
+		<molecule>Hydratation de base</molecule>
+		<infoSup>Débit à adapter à l'état clinique et diurèse</infoSup>
+		<concentrationInitiale>soluté massif</concentrationInitiale>
+		<couleur>Green</couleur>
+		<classeAge categorie="0 mois à 1 mois">
+		  <posologie>IV Continu</posologie>
+			<concentrationMelange></concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml/h</uniteSolution>
+			<dosePoids categoriePoids="2 kg à 2,5 kg">8</dosePoids>
+			<dosePoids categoriePoids="2,5 kg à 3 kg">10</dosePoids>
+			<dosePoids categoriePoids="3 kg à 3,5 kg">12</dosePoids>
+			<dosePoids categoriePoids="3,5 kg à 4 kg">14</dosePoids>
+		</classeAge>
+		<classeAge categorie="2 mois à 6 mois">
+		  <posologie>IV Continu</posologie>
+			<concentrationMelange></concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml/h</uniteSolution>
+			<dosePoids categoriePoids="4 kg à 5 kg">16</dosePoids>
+			<dosePoids categoriePoids="5 kg à 6 kg">20</dosePoids>
+			<dosePoids categoriePoids="6 kg à 7 kg">24</dosePoids>
+			<dosePoids categoriePoids="7 kg à 8 kg">28</dosePoids>
+		</classeAge>
+		<classeAge categorie="7 mois à 18 mois">
+		  <posologie>IV Continu</posologie>
+			<concentrationMelange></concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml/h</uniteSolution>
+			<dosePoids categoriePoids="8 kg à 9 kg">32</dosePoids>
+			<dosePoids categoriePoids="9 kg à 10 kg">36</dosePoids>
+			<dosePoids categoriePoids="10 kg à 11 kg">40</dosePoids>
+			<dosePoids categoriePoids="11 kg à 12 kg">42</dosePoids>
+		</classeAge>
+		<classeAge categorie="18 mois à 4 ans">
+		  <posologie>IV Continu</posologie>
+			<concentrationMelange></concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml/h</uniteSolution>
+			<dosePoids categoriePoids="12 kg à 13 kg">44</dosePoids>
+			<dosePoids categoriePoids="13 kg à 14 kg">46</dosePoids>
+			<dosePoids categoriePoids="14 kg à 15 kg">48</dosePoids>
+			<dosePoids categoriePoids="15 kg à 16 kg">50</dosePoids>
+		</classeAge>
+		<classeAge categorie="5 ans à 7 ans">
+		  <posologie>IV Continu</posologie>
+			<concentrationMelange></concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml/h</uniteSolution>
+			<dosePoids categoriePoids="16 kg à 18 kg">52</dosePoids>
+			<dosePoids categoriePoids="18 kg à 20 kg">56</dosePoids>
+			<dosePoids categoriePoids="20 kg à 22 kg">60</dosePoids>
+			<dosePoids categoriePoids="22 kg à 24 kg">62</dosePoids>
+		</classeAge>
+		<classeAge categorie="8 ans à 10 ans">
+		  <posologie>IV Continu</posologie>
+			<concentrationMelange></concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml/h</uniteSolution>
+			<dosePoids categoriePoids="24 kg à 26 kg">64</dosePoids>
+			<dosePoids categoriePoids="26 kg à 28 kg">66</dosePoids>
+			<dosePoids categoriePoids="28 kg à 30 kg">68</dosePoids>
+			<dosePoids categoriePoids="30 kg à 35 kg">70</dosePoids>
+		</classeAge>
+		<classeAge categorie="11 ans à 15 ans">
+		  <posologie>IV Continu</posologie>
+			<concentrationMelange></concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml/h</uniteSolution>
+			<dosePoids categoriePoids="35 kg à 40 kg">75</dosePoids>
+			<dosePoids categoriePoids="40 kg à 45 kg">80</dosePoids>
+			<dosePoids categoriePoids="45 kg à 50 kg">80</dosePoids>
+			<dosePoids categoriePoids="50 kg à 60 kg">80</dosePoids>
+		</classeAge>
+		<classeAge categorie="15 ans et plus">
+		  <posologie>IV Continu</posologie>
+			<concentrationMelange></concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml/h</uniteSolution>
+			<dosePoids categoriePoids="60 kg à 70 kg">80</dosePoids>
+			<dosePoids categoriePoids="70 kg à 80 kg">80</dosePoids>
+			<dosePoids categoriePoids="80 kg à 90 kg">80</dosePoids>
+			<dosePoids categoriePoids="90 kg et plus">80</dosePoids>
+		</classeAge>
+	</solution>
+
+	<solution id="s20">
+		<nom>Hydrocortisone</nom>
+		<molecule>Hydrocortisone</molecule>
+		<infoSup>Choc septique réfractaire à répéter x3/j</infoSup>
+		<concentrationInitiale>poudre</concentrationInitiale>
+		<couleur>Red</couleur>
+		<classeAge categorie="0 mois à 1 mois">
+		  <posologie>50 mg/m2 IVD</posologie>
+			<concentrationMelange></concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>Dose</qteProduit>
+			<uniteProduit>qsp</uniteProduit>
+			<qteSolvant>5</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>mg</uniteSolution>
+			<dosePoids categoriePoids="2 kg à 2,5 kg">8</dosePoids>
+			<dosePoids categoriePoids="2,5 kg à 3 kg">9</dosePoids>
+			<dosePoids categoriePoids="3 kg à 3,5 kg">10</dosePoids>
+			<dosePoids categoriePoids="3,5 kg à 4 kg">11</dosePoids>
+		</classeAge>
+		<classeAge categorie="2 mois à 6 mois">
+		  <posologie>50 mg/m2 IVD</posologie>
+			<concentrationMelange></concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>Dose</qteProduit>
+			<uniteProduit>qsp</uniteProduit>
+			<qteSolvant>5</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>mg</uniteSolution>
+			<dosePoids categoriePoids="4 kg à 5 kg">12</dosePoids>
+			<dosePoids categoriePoids="5 kg à 6 kg">14</dosePoids>
+			<dosePoids categoriePoids="6 kg à 7 kg">16</dosePoids>
+			<dosePoids categoriePoids="7 kg à 8 kg">18</dosePoids>
+		</classeAge>
+		<classeAge categorie="7 mois à 18 mois">
+		  <posologie>50 mg/m2 IVD</posologie>
+			<concentrationMelange></concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>Dose</qteProduit>
+			<uniteProduit>qsp</uniteProduit>
+			<qteSolvant>5</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>mg</uniteSolution>
+			<dosePoids categoriePoids="8 kg à 9 kg">20</dosePoids>
+			<dosePoids categoriePoids="9 kg à 10 kg">20</dosePoids>
+			<dosePoids categoriePoids="10 kg à 11 kg">25</dosePoids>
+			<dosePoids categoriePoids="11 kg à 12 kg">25</dosePoids>
+		</classeAge>
+		<classeAge categorie="18 mois à 4 ans">
+		  <posologie>50 mg/m2 IVD</posologie>
+			<concentrationMelange></concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>Dose</qteProduit>
+			<uniteProduit>qsp</uniteProduit>
+			<qteSolvant>5</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>mg</uniteSolution>
+			<dosePoids categoriePoids="12 kg à 13 kg">9</dosePoids>
+			<dosePoids categoriePoids="13 kg à 14 kg">10</dosePoids>
+			<dosePoids categoriePoids="14 kg à 15 kg">10</dosePoids>
+			<dosePoids categoriePoids="15 kg à 16 kg">11</dosePoids>
+		</classeAge>
+		<classeAge categorie="5 ans à 7 ans">
+		  <posologie>50 mg/m2 IVD</posologie>
+			<concentrationMelange></concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>Dose</qteProduit>
+			<uniteProduit>qsp</uniteProduit>
+			<qteSolvant>5</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>mg</uniteSolution>
+			<dosePoids categoriePoids="16 kg à 18 kg">35</dosePoids>
+			<dosePoids categoriePoids="18 kg à 20 kg">40</dosePoids>
+			<dosePoids categoriePoids="20 kg à 22 kg">40</dosePoids>
+			<dosePoids categoriePoids="22 kg à 24 kg">45</dosePoids>
+		</classeAge>
+		<classeAge categorie="8 ans à 10 ans">
+		  <posologie>50 mg/m2 IVD</posologie>
+			<concentrationMelange></concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>Dose</qteProduit>
+			<uniteProduit>qsp</uniteProduit>
+			<qteSolvant>5</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>mg</uniteSolution>
+			<dosePoids categoriePoids="24 kg à 26 kg">45</dosePoids>
+			<dosePoids categoriePoids="26 kg à 28 kg">45</dosePoids>
+			<dosePoids categoriePoids="28 kg à 30 kg">45</dosePoids>
+			<dosePoids categoriePoids="30 kg à 35 kg">50</dosePoids>
+		</classeAge>
+		<classeAge categorie="11 ans à 15 ans">
+		  <posologie>50 mg/m2 IVD</posologie>
+			<concentrationMelange></concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>Dose</qteProduit>
+			<uniteProduit>qsp</uniteProduit>
+			<qteSolvant>5</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>mg</uniteSolution>
+			<dosePoids categoriePoids="35 kg à 40 kg">50</dosePoids>
+			<dosePoids categoriePoids="40 kg à 45 kg">50</dosePoids>
+			<dosePoids categoriePoids="45 kg à 50 kg">75</dosePoids>
+			<dosePoids categoriePoids="50 kg à 60 kg">75</dosePoids>
+		</classeAge>
+		<classeAge categorie="15 ans et plus">
+		  <posologie>1000 mg IVD</posologie>
+			<concentrationMelange></concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>Dose</qteProduit>
+			<uniteProduit>qsp</uniteProduit>
+			<qteSolvant>5</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>mg</uniteSolution>
+			<dosePoids categoriePoids="60 kg à 70 kg">100</dosePoids>
+			<dosePoids categoriePoids="70 kg à 80 kg">100</dosePoids>
+			<dosePoids categoriePoids="80 kg à 90 kg">100</dosePoids>
+			<dosePoids categoriePoids="90 kg et plus">100</dosePoids>
+		</classeAge>
+	</solution>
+
+	<solution id="s21">
+		<nom>Etomidate®</nom>
+		<molecule>Hypnomidate</molecule>
+		<infoSup>Induction anesthésique - risque de trismus</infoSup>
+		<concentrationInitiale>2 mg/ml</concentrationInitiale>
+		<couleur>Blue</couleur>
+		<classeAge categorie="0 mois à 1 mois">
+      <posologie></posologie>
+			<concentrationMelange></concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit></uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant>Non Injectable</uniteSolvant>
+			<uniteSolution></uniteSolution>
+			<dosePoids categoriePoids="2 kg à 2,5 kg"></dosePoids>
+			<dosePoids categoriePoids="2,5 kg à 3 kg"></dosePoids>
+			<dosePoids categoriePoids="3 kg à 3,5 kg"></dosePoids>
+			<dosePoids categoriePoids="3,5 kg à 4 kg"></dosePoids>
+		</classeAge>
+		<classeAge categorie="2 mois à 6 mois">
+      <posologie></posologie>
+			<concentrationMelange></concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit></uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant>Non Injectable</uniteSolvant>
+			<uniteSolution></uniteSolution>
+			<dosePoids categoriePoids="4 kg à 5 kg"></dosePoids>
+			<dosePoids categoriePoids="5 kg à 6 kg"></dosePoids>
+			<dosePoids categoriePoids="6 kg à 7 kg"></dosePoids>
+			<dosePoids categoriePoids="7 kg à 8 kg"></dosePoids>
+		</classeAge>
+		<classeAge categorie="7 mois à 18 mois">
+      <posologie></posologie>
+			<concentrationMelange></concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit></uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant>Non Injectable</uniteSolvant>
+			<uniteSolution></uniteSolution>
+			<dosePoids categoriePoids="8 kg à 9 kg"></dosePoids>
+			<dosePoids categoriePoids="9 kg à 10 kg"></dosePoids>
+			<dosePoids categoriePoids="10 kg à 11 kg"></dosePoids>
+			<dosePoids categoriePoids="11 kg à 12 kg"></dosePoids>
+		</classeAge>
+		<classeAge categorie="18 mois à 4 ans">
+      <posologie>0.4 mg/kg</posologie>
+			<concentrationMelange>2 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="12 kg à 13 kg">2.4</dosePoids>
+			<dosePoids categoriePoids="13 kg à 14 kg">2.6</dosePoids>
+			<dosePoids categoriePoids="14 kg à 15 kg">2.8</dosePoids>
+			<dosePoids categoriePoids="15 kg à 16 kg">3</dosePoids>
+		</classeAge>
+		<classeAge categorie="5 ans à 7 ans">
+      <posologie>0.4 mg/kg</posologie>
+			<concentrationMelange>2 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="16 kg à 18 kg">3.2</dosePoids>
+			<dosePoids categoriePoids="18 kg à 20 kg">3.6</dosePoids>
+			<dosePoids categoriePoids="20 kg à 22 kg">4</dosePoids>
+			<dosePoids categoriePoids="22 kg à 24 kg">4.4</dosePoids>
+		</classeAge>
+		<classeAge categorie="8 ans à 10 ans">
+      <posologie>0.4 mg/kg</posologie>
+			<concentrationMelange>2 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="24 kg à 26 kg">4.8</dosePoids>
+			<dosePoids categoriePoids="26 kg à 28 kg">5.2</dosePoids>
+			<dosePoids categoriePoids="28 kg à 30 kg">5.6</dosePoids>
+			<dosePoids categoriePoids="30 kg à 35 kg">6</dosePoids>
+		</classeAge>
+		<classeAge categorie="11 ans à 15 ans">
+      <posologie>0.4 mg/kg</posologie>
+			<concentrationMelange>2 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="35 kg à 40 kg">7</dosePoids>
+			<dosePoids categoriePoids="40 kg à 45 kg">8</dosePoids>
+			<dosePoids categoriePoids="45 kg à 50 kg">9</dosePoids>
+			<dosePoids categoriePoids="50 kg à 60 kg">10</dosePoids>
+		</classeAge>
+		<classeAge categorie="15 ans et plus">
+      <posologie>20 mg</posologie>
+			<concentrationMelange>2 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="60 kg à 70 kg">10</dosePoids>
+			<dosePoids categoriePoids="70 kg à 80 kg">10</dosePoids>
+			<dosePoids categoriePoids="80 kg à 90 kg">10</dosePoids>
+			<dosePoids categoriePoids="90 kg et plus">10</dosePoids>
+		</classeAge>
+	</solution>
+
+	<solution id="s22">
+		<nom>Ketamine</nom>
+		<molecule>Ketamine</molecule>
+		<infoSup>Induction anesthésique</infoSup>
+		<posologie>2 mg/kg IVD</posologie>
+		<concentrationInitiale>10 mg/ml</concentrationInitiale>
+		<couleur>Blue</couleur>
+		<classeAge categorie="0 mois à 1 mois">
+		  <posologie>4 mg/kg IVD</posologie>
+			<concentrationMelange>2 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>1</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>4</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="2 kg à 2,5 kg">4</dosePoids>
+			<dosePoids categoriePoids="2,5 kg à 3 kg">5</dosePoids>
+			<dosePoids categoriePoids="3 kg à 3,5 kg">6</dosePoids>
+			<dosePoids categoriePoids="3,5 kg à 4 kg">7</dosePoids>
+		</classeAge>
+		<classeAge categorie="2 mois à 6 mois">
+		  <posologie>4 mg/kg IVD</posologie>
+			<concentrationMelange>5 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>5</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>5</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="4 kg à 5 kg">3</dosePoids>
+			<dosePoids categoriePoids="5 kg à 6 kg">4</dosePoids>
+			<dosePoids categoriePoids="6 kg à 7 kg">5</dosePoids>
+			<dosePoids categoriePoids="7 kg à 8 kg">6</dosePoids>
+		</classeAge>
+		<classeAge categorie="7 mois à 18 mois">
+		  <posologie>4 mg/kg IVD</posologie>
+			<concentrationMelange>5 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>5</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>5</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="8 kg à 9 kg">6</dosePoids>
+			<dosePoids categoriePoids="9 kg à 10 kg">7</dosePoids>
+			<dosePoids categoriePoids="10 kg à 11 kg">8</dosePoids>
+			<dosePoids categoriePoids="11 kg à 12 kg">9</dosePoids>
+		</classeAge>
+		<classeAge categorie="18 mois à 4 ans">
+		  <posologie>2 mg/kg IVD</posologie>
+			<concentrationMelange>5 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>5</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>5</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="12 kg à 13 kg">5</dosePoids>
+			<dosePoids categoriePoids="13 kg à 14 kg">5</dosePoids>
+			<dosePoids categoriePoids="14 kg à 15 kg">5.5</dosePoids>
+			<dosePoids categoriePoids="15 kg à 16 kg">6</dosePoids>
+		</classeAge>
+		<classeAge categorie="5 ans à 7 ans">
+		  <posologie>2 mg/kg IVD</posologie>
+			<concentrationMelange>5 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>5</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>5</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="16 kg à 18 kg">3.5</dosePoids>
+			<dosePoids categoriePoids="18 kg à 20 kg">3.5</dosePoids>
+			<dosePoids categoriePoids="20 kg à 22 kg">4</dosePoids>
+			<dosePoids categoriePoids="22 kg à 24 kg">4.5</dosePoids>
+		</classeAge>
+		<classeAge categorie="8 ans à 10 ans">
+		  <posologie>2 mg/kg IVD</posologie>
+			<concentrationMelange>10 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="24 kg à 26 kg">5</dosePoids>
+			<dosePoids categoriePoids="26 kg à 28 kg">5</dosePoids>
+			<dosePoids categoriePoids="28 kg à 30 kg">5.5</dosePoids>
+			<dosePoids categoriePoids="30 kg à 35 kg">6</dosePoids>
+		</classeAge>
+		<classeAge categorie="11 ans à 15 ans">
+		  <posologie>2 mg/kg IVD</posologie>
+			<concentrationMelange>10 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="35 kg à 40 kg">7</dosePoids>
+			<dosePoids categoriePoids="40 kg à 45 kg">8</dosePoids>
+			<dosePoids categoriePoids="45 kg à 50 kg">9</dosePoids>
+			<dosePoids categoriePoids="50 kg à 60 kg">10</dosePoids>
+		</classeAge>
+		<classeAge categorie="15 ans et plus">
+		  <posologie>2 mg/kg IVD</posologie>
+			<concentrationMelange>10 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="60 kg à 70 kg">12</dosePoids>
+			<dosePoids categoriePoids="70 kg à 80 kg">14</dosePoids>
+			<dosePoids categoriePoids="80 kg à 90 kg">16</dosePoids>
+			<dosePoids categoriePoids="90 kg et plus">18</dosePoids>
+		</classeAge>
+	</solution>
+
+	<solution id="s23">
+		<nom>MgSO4</nom>
+		<molecule>Magnesium</molecule>
+		<infoSup>Torsade de pointe - en IVL</infoSup>
+		<concentrationInitiale>1.5 g/10ml</concentrationInitiale>
+		<couleur>Blue</couleur>
+		<classeAge categorie="0 mois à 1 mois">
+		  <posologie>50 mg/kg IVL</posologie>
+			<concentrationMelange>150 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="2 kg à 2,5 kg">0.7</dosePoids>
+			<dosePoids categoriePoids="2,5 kg à 3 kg">0.8</dosePoids>
+			<dosePoids categoriePoids="3 kg à 3,5 kg">1</dosePoids>
+			<dosePoids categoriePoids="3,5 kg à 4 kg">1.2</dosePoids>
+		</classeAge>
+		<classeAge categorie="2 mois à 6 mois">
+		  <posologie>50 mg/kg IVL</posologie>
+			<concentrationMelange>150 mg/ml</concentrationMelange>
+			<solvant> </solvant>
+			<qteProduit>5</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>5</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="4 kg à 5 kg">1.3</dosePoids>
+			<dosePoids categoriePoids="5 kg à 6 kg">1.7</dosePoids>
+			<dosePoids categoriePoids="6 kg à 7 kg">2</dosePoids>
+			<dosePoids categoriePoids="7 kg à 8 kg">2.3</dosePoids>
+		</classeAge>
+		<classeAge categorie="7 mois à 18 mois">
+		  <posologie>50 mg/kg IVL</posologie>
+			<concentrationMelange>150 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="8 kg à 9 kg">2.5</dosePoids>
+			<dosePoids categoriePoids="9 kg à 10 kg">3</dosePoids>
+			<dosePoids categoriePoids="10 kg à 11 kg">3.5</dosePoids>
+			<dosePoids categoriePoids="11 kg à 12 kg">3.5</dosePoids>
+		</classeAge>
+		<classeAge categorie="18 mois à 4 ans">
+		  <posologie>50 mg/kg IVL</posologie>
+			<concentrationMelange>150 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="12 kg à 13 kg">4</dosePoids>
+			<dosePoids categoriePoids="13 kg à 14 kg">4.5</dosePoids>
+			<dosePoids categoriePoids="14 kg à 15 kg">4.5</dosePoids>
+			<dosePoids categoriePoids="15 kg à 16 kg">5</dosePoids>
+		</classeAge>
+		<classeAge categorie="5 ans à 7 ans">
+		  <posologie>50 mg/kg IVL</posologie>
+			<concentrationMelange>150 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="16 kg à 18 kg">5.5</dosePoids>
+			<dosePoids categoriePoids="18 kg à 20 kg">6</dosePoids>
+			<dosePoids categoriePoids="20 kg à 22 kg">6.5</dosePoids>
+			<dosePoids categoriePoids="22 kg à 24 kg">7.5</dosePoids>
+		</classeAge>
+		<classeAge categorie="8 ans à 10 ans">
+		  <posologie>50 mg/kg IVL</posologie>
+			<concentrationMelange>150 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="24 kg à 26 kg">8</dosePoids>
+			<dosePoids categoriePoids="26 kg à 28 kg">8.5</dosePoids>
+			<dosePoids categoriePoids="28 kg à 30 kg">9.5</dosePoids>
+			<dosePoids categoriePoids="30 kg à 35 kg">10</dosePoids>
+		</classeAge>
+		<classeAge categorie="11 ans à 15 ans">
+		  <posologie>1.5 g IVL</posologie>
+			<concentrationMelange>150 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="35 kg à 40 kg">10</dosePoids>
+			<dosePoids categoriePoids="40 kg à 45 kg">10</dosePoids>
+			<dosePoids categoriePoids="45 kg à 50 kg">10</dosePoids>
+			<dosePoids categoriePoids="50 kg à 60 kg">10</dosePoids>
+		</classeAge>
+		<classeAge categorie="15 ans et plus">
+		  <posologie>1.5 g IVL</posologie>
+			<concentrationMelange>150 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="60 kg à 70 kg">10</dosePoids>
+			<dosePoids categoriePoids="70 kg à 80 kg">10</dosePoids>
+			<dosePoids categoriePoids="80 kg à 90 kg">10</dosePoids>
+			<dosePoids categoriePoids="90 kg et plus">10</dosePoids>
+		</classeAge>
+	</solution>
+
+	<solution id="s24">
+		<nom>Mannitol 20%</nom>
+		<molecule>Mannitol 20%</molecule>
+		<infoSup>HTIC</infoSup>
+		<concentrationInitiale>20 g/100ml</concentrationInitiale>
+		<couleur>Blue</couleur>
+		<classeAge categorie="0 mois à 1 mois">
+		  <posologie>0.5 g/kg IVL</posologie>
+			<concentrationMelange>200 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="2 kg à 2,5 kg">5</dosePoids>
+			<dosePoids categoriePoids="2,5 kg à 3 kg">6</dosePoids>
+			<dosePoids categoriePoids="3 kg à 3,5 kg">8</dosePoids>
+			<dosePoids categoriePoids="3,5 kg à 4 kg">9</dosePoids>
+		</classeAge>
+		<classeAge categorie="2 mois à 6 mois">
+		  <posologie>0.5 g/kg IVL</posologie>
+			<concentrationMelange>200 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="4 kg à 5 kg">10</dosePoids>
+			<dosePoids categoriePoids="5 kg à 6 kg">13</dosePoids>
+			<dosePoids categoriePoids="6 kg à 7 kg">15</dosePoids>
+			<dosePoids categoriePoids="7 kg à 8 kg">18</dosePoids>
+		</classeAge>
+		<classeAge categorie="7 mois à 18 mois">
+		  <posologie>0.5 g/kg IVL</posologie>
+			<concentrationMelange>200 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="8 kg à 9 kg">20</dosePoids>
+			<dosePoids categoriePoids="9 kg à 10 kg">25</dosePoids>
+			<dosePoids categoriePoids="10 kg à 11 kg">25</dosePoids>
+			<dosePoids categoriePoids="11 kg à 12 kg">30</dosePoids>
+		</classeAge>
+		<classeAge categorie="18 mois à 4 ans">
+		  <posologie>0.5 g/kg IVL</posologie>
+			<concentrationMelange>200 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="12 kg à 13 kg">30</dosePoids>
+			<dosePoids categoriePoids="13 kg à 14 kg">35</dosePoids>
+			<dosePoids categoriePoids="14 kg à 15 kg">35</dosePoids>
+			<dosePoids categoriePoids="15 kg à 16 kg">40</dosePoids>
+		</classeAge>
+		<classeAge categorie="5 ans à 7 ans">
+		  <posologie>0.5 g/kg IVL</posologie>
+			<concentrationMelange>200 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="16 kg à 18 kg">40</dosePoids>
+			<dosePoids categoriePoids="18 kg à 20 kg">45</dosePoids>
+			<dosePoids categoriePoids="20 kg à 22 kg">50</dosePoids>
+			<dosePoids categoriePoids="22 kg à 24 kg">55</dosePoids>
+		</classeAge>
+		<classeAge categorie="8 ans à 10 ans">
+		  <posologie>0.5 g/kg IVL</posologie>
+			<concentrationMelange>200 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="24 kg à 26 kg">60</dosePoids>
+			<dosePoids categoriePoids="26 kg à 28 kg">65</dosePoids>
+			<dosePoids categoriePoids="28 kg à 30 kg">70</dosePoids>
+			<dosePoids categoriePoids="30 kg à 35 kg">75</dosePoids>
+		</classeAge>
+		<classeAge categorie="11 ans à 15 ans">
+		  <posologie>0.5 g/kg IVL</posologie>
+			<concentrationMelange>200 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="35 kg à 40 kg">90</dosePoids>
+			<dosePoids categoriePoids="40 kg à 45 kg">100</dosePoids>
+			<dosePoids categoriePoids="45 kg à 50 kg">115</dosePoids>
+			<dosePoids categoriePoids="50 kg à 60 kg">125</dosePoids>
+		</classeAge>
+		<classeAge categorie="15 ans et plus">
+		  <posologie>0.5 g/kg IVL</posologie>
+			<concentrationMelange>200 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="60 kg à 70 kg">90</dosePoids>
+			<dosePoids categoriePoids="70 kg à 80 kg">100</dosePoids>
+			<dosePoids categoriePoids="80 kg à 90 kg">115</dosePoids>
+			<dosePoids categoriePoids="90 kg et plus">125</dosePoids>
+		</classeAge>
+	</solution>
+
+	<solution id="s25">
+		<nom>Hypnovel®</nom>
+		<molecule>Midazolam</molecule>
+		<infoSup>Entretient de sédation</infoSup>
+		<concentrationInitiale>5 mg/ml</concentrationInitiale>
+		<couleur>Green</couleur>
+		<classeAge categorie="0 mois à 1 mois">
+		  <posologie>0.2 mg/kg/h IVSE</posologie>
+			<concentrationMelange>1 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>10</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>40</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml/h</uniteSolution>
+			<dosePoids categoriePoids="2 kg à 2,5 kg">0.4</dosePoids>
+			<dosePoids categoriePoids="2,5 kg à 3 kg">0.5</dosePoids>
+			<dosePoids categoriePoids="3 kg à 3,5 kg">0.6</dosePoids>
+			<dosePoids categoriePoids="3,5 kg à 4 kg">0.7</dosePoids>
+		</classeAge>
+		<classeAge categorie="2 mois à 6 mois">
+		  <posologie>0.2 mg/kg/h IVSE</posologie>
+			<concentrationMelange>1 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>10</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>40</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml/h</uniteSolution>
+			<dosePoids categoriePoids="4 kg à 5 kg">0.8</dosePoids>
+			<dosePoids categoriePoids="5 kg à 6 kg">1</dosePoids>
+			<dosePoids categoriePoids="6 kg à 7 kg">1.2</dosePoids>
+			<dosePoids categoriePoids="7 kg à 8 kg">1.4</dosePoids>
+		</classeAge>
+		<classeAge categorie="7 mois à 18 mois">
+		  <posologie>0.2 mg/kg/h IVSE</posologie>
+			<concentrationMelange>1 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>10</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>40</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml/h</uniteSolution>
+			<dosePoids categoriePoids="8 kg à 9 kg">1.6</dosePoids>
+			<dosePoids categoriePoids="9 kg à 10 kg">1.8</dosePoids>
+			<dosePoids categoriePoids="10 kg à 11 kg">2</dosePoids>
+			<dosePoids categoriePoids="11 kg à 12 kg">2.2</dosePoids>
+		</classeAge>
+		<classeAge categorie="18 mois à 4 ans">
+		  <posologie>0.2 mg/kg/h IVSE</posologie>
+			<concentrationMelange>1 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>10</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>40</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml/h</uniteSolution>
+			<dosePoids categoriePoids="12 kg à 13 kg">2.4</dosePoids>
+			<dosePoids categoriePoids="13 kg à 14 kg">2.6</dosePoids>
+			<dosePoids categoriePoids="14 kg à 15 kg">2.8</dosePoids>
+			<dosePoids categoriePoids="15 kg à 16 kg">3</dosePoids>
+		</classeAge>
+		<classeAge categorie="5 ans à 7 ans">
+		  <posologie>0.2 mg/kg/h IVSE</posologie>
+			<concentrationMelange>5 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml/h</uniteSolution>
+			<dosePoids categoriePoids="16 kg à 18 kg">0.6</dosePoids>
+			<dosePoids categoriePoids="18 kg à 20 kg">0.7</dosePoids>
+			<dosePoids categoriePoids="20 kg à 22 kg">0.8</dosePoids>
+			<dosePoids categoriePoids="22 kg à 24 kg">0.9</dosePoids>
+		</classeAge>
+		<classeAge categorie="8 ans à 10 ans">
+		  <posologie>0.2 mg/kg/h IVSE</posologie>
+			<concentrationMelange>5 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml/h</uniteSolution>
+			<dosePoids categoriePoids="24 kg à 26 kg">1</dosePoids>
+			<dosePoids categoriePoids="26 kg à 28 kg">1</dosePoids>
+			<dosePoids categoriePoids="28 kg à 30 kg">1.1</dosePoids>
+			<dosePoids categoriePoids="30 kg à 35 kg">1.2</dosePoids>
+		</classeAge>
+		<classeAge categorie="11 ans à 15 ans">
+		  <posologie>0.2 mg/kg/h IVSE</posologie>
+			<concentrationMelange>5 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml/h</uniteSolution>
+			<dosePoids categoriePoids="35 kg à 40 kg">1.4</dosePoids>
+			<dosePoids categoriePoids="40 kg à 45 kg">1.6</dosePoids>
+			<dosePoids categoriePoids="45 kg à 50 kg">1.8</dosePoids>
+			<dosePoids categoriePoids="50 kg à 60 kg">2</dosePoids>
+		</classeAge>
+		<classeAge categorie="15 ans et plus">
+		  <posologie>0.2 mg/kg/h IVSE</posologie>
+			<concentrationMelange>5 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml/h</uniteSolution>
+			<dosePoids categoriePoids="60 kg à 70 kg">2.4</dosePoids>
+			<dosePoids categoriePoids="70 kg à 80 kg">2.8</dosePoids>
+			<dosePoids categoriePoids="80 kg à 90 kg">3.2</dosePoids>
+			<dosePoids categoriePoids="90 kg et plus">3.6</dosePoids>
+		</classeAge>
+	</solution>
+
+	<solution id="s26">
+		<nom>Morphine</nom>
+		<molecule>Morphine</molecule>
+		<infoSup>Antalgie</infoSup>
+		<concentrationInitiale>1 mg/ml</concentrationInitiale>
+		<couleur>Blue</couleur>
+		<classeAge categorie="0 mois à 1 mois">
+		  <posologie>0.03 mg/kg IVL 5'</posologie>
+			<concentrationMelange>0.05 mg/ml</concentrationMelange>
+			<solvant> </solvant>
+			<qteProduit>1</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>19</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="2 kg à 2,5 kg">1.2</dosePoids>
+			<dosePoids categoriePoids="2,5 kg à 3 kg">1.5</dosePoids>
+			<dosePoids categoriePoids="3 kg à 3,5 kg">1.8</dosePoids>
+			<dosePoids categoriePoids="3,5 kg à 4 kg">2.1</dosePoids>
+		</classeAge>
+		<classeAge categorie="2 mois à 6 mois">
+		  <posologie>0.03 mg/kg IVL 5'</posologie>
+			<concentrationMelange>0.1 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>1</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>9</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="4 kg à 5 kg">1.2</dosePoids>
+			<dosePoids categoriePoids="5 kg à 6 kg">1.5</dosePoids>
+			<dosePoids categoriePoids="6 kg à 7 kg">1.8</dosePoids>
+			<dosePoids categoriePoids="7 kg à 8 kg">2.1</dosePoids>
+		</classeAge>
+		<classeAge categorie="7 mois à 18 mois">
+		  <posologie>0.03 mg/kg IVL 5'</posologie>
+			<concentrationMelange>0.1 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>1</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>9</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="8 kg à 9 kg">2.4</dosePoids>
+			<dosePoids categoriePoids="9 kg à 10 kg">2.7</dosePoids>
+			<dosePoids categoriePoids="10 kg à 11 kg">3</dosePoids>
+			<dosePoids categoriePoids="11 kg à 12 kg">3.3</dosePoids>
+		</classeAge>
+		<classeAge categorie="18 mois à 4 ans">
+		  <posologie>0.03 mg/kg IVL 5'</posologie>
+			<concentrationMelange>0.1 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>1</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>9</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="12 kg à 13 kg">3.6</dosePoids>
+			<dosePoids categoriePoids="13 kg à 14 kg">3.9</dosePoids>
+			<dosePoids categoriePoids="14 kg à 15 kg">4.2</dosePoids>
+			<dosePoids categoriePoids="15 kg à 16 kg">4.5</dosePoids>
+		</classeAge>
+		<classeAge categorie="5 ans à 7 ans">
+		  <posologie>0.03 mg/kg IVL 5'</posologie>
+			<concentrationMelange>0.2 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>2</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>8</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="16 kg à 18 kg">2.5</dosePoids>
+			<dosePoids categoriePoids="18 kg à 20 kg">2.5</dosePoids>
+			<dosePoids categoriePoids="20 kg à 22 kg">3</dosePoids>
+			<dosePoids categoriePoids="22 kg à 24 kg">3</dosePoids>
+		</classeAge>
+		<classeAge categorie="8 ans à 10 ans">
+		  <posologie>0.03 mg/kg IVL 5'</posologie>
+			<concentrationMelange>1 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="24 kg à 26 kg">0.7</dosePoids>
+			<dosePoids categoriePoids="26 kg à 28 kg">0.7</dosePoids>
+			<dosePoids categoriePoids="28 kg à 30 kg">0.8</dosePoids>
+			<dosePoids categoriePoids="30 kg à 35 kg">0.9</dosePoids>
+		</classeAge>
+		<classeAge categorie="11 ans à 15 ans">
+		  <posologie>0.03 mg/kg IVL 5'</posologie>
+			<concentrationMelange>1 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="35 kg à 40 kg">1</dosePoids>
+			<dosePoids categoriePoids="40 kg à 45 kg">1</dosePoids>
+			<dosePoids categoriePoids="45 kg à 50 kg">1.5</dosePoids>
+			<dosePoids categoriePoids="50 kg à 60 kg">1.5</dosePoids>
+		</classeAge>
+		<classeAge categorie="15 ans et plus">
+		  <posologie>0.03 mg/kg IVL 5'</posologie>
+			<concentrationMelange>1 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="60 kg à 70 kg">2</dosePoids>
+			<dosePoids categoriePoids="70 kg à 80 kg">2</dosePoids>
+			<dosePoids categoriePoids="80 kg à 90 kg">2</dosePoids>
+			<dosePoids categoriePoids="90 kg et plus">3</dosePoids>
+		</classeAge>
+	</solution>
+
+	<solution id="s27">
+		<nom>Narcan®</nom>
+		<molecule>Naloxone</molecule>
+		<infoSup>A répéter toutes les 3' si besoin (max 3x)</infoSup>
+		<concentrationInitiale>0.4 mg/ml</concentrationInitiale>
+		<couleur>Blue</couleur>
+		<classeAge categorie="0 mois à 1 mois">
+		  <posologie>1 μg/kg IVL</posologie>
+			<concentrationMelange>0.008 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>1</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>49</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="2 kg à 2,5 kg">0.3</dosePoids>
+			<dosePoids categoriePoids="2,5 kg à 3 kg">0.3</dosePoids>
+			<dosePoids categoriePoids="3 kg à 3,5 kg">0.4</dosePoids>
+			<dosePoids categoriePoids="3,5 kg à 4 kg">0.4</dosePoids>
+		</classeAge>
+		<classeAge categorie="2 mois à 6 mois">
+		  <posologie>1 μg/kg IVL</posologie>
+			<concentrationMelange>0.008 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>1</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>49</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="4 kg à 5 kg">0.6</dosePoids>
+			<dosePoids categoriePoids="5 kg à 6 kg">0.7</dosePoids>
+			<dosePoids categoriePoids="6 kg à 7 kg">0.8</dosePoids>
+			<dosePoids categoriePoids="7 kg à 8 kg">0.9</dosePoids>
+		</classeAge>
+		<classeAge categorie="7 mois à 18 mois">
+		  <posologie>1 μg/kg IVL</posologie>
+			<concentrationMelange>0.02 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>1</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>19</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="8 kg à 9 kg">0.4</dosePoids>
+			<dosePoids categoriePoids="9 kg à 10 kg">0.5</dosePoids>
+			<dosePoids categoriePoids="10 kg à 11 kg">0.5</dosePoids>
+			<dosePoids categoriePoids="11 kg à 12 kg">0.6</dosePoids>
+		</classeAge>
+		<classeAge categorie="18 mois à 4 ans">
+		  <posologie>1 μg/kg IVL</posologie>
+			<concentrationMelange>0.02 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>1</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>19</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="12 kg à 13 kg">0.6</dosePoids>
+			<dosePoids categoriePoids="13 kg à 14 kg">0.7</dosePoids>
+			<dosePoids categoriePoids="14 kg à 15 kg">0.7</dosePoids>
+			<dosePoids categoriePoids="15 kg à 16 kg">0.8</dosePoids>
+		</classeAge>
+		<classeAge categorie="5 ans à 7 ans">
+		  <posologie>1 μg/kg IVL</posologie>
+			<concentrationMelange>0.02 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>1</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>19</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="16 kg à 18 kg">0.8</dosePoids>
+			<dosePoids categoriePoids="18 kg à 20 kg">0.9</dosePoids>
+			<dosePoids categoriePoids="20 kg à 22 kg">1</dosePoids>
+			<dosePoids categoriePoids="22 kg à 24 kg">1.1</dosePoids>
+		</classeAge>
+		<classeAge categorie="8 ans à 10 ans">
+		  <posologie>1 μg/kg IVL</posologie>
+			<concentrationMelange>0.02 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>1</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>19</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="24 kg à 26 kg">1.2</dosePoids>
+			<dosePoids categoriePoids="26 kg à 28 kg">1.3</dosePoids>
+			<dosePoids categoriePoids="28 kg à 30 kg">1.4</dosePoids>
+			<dosePoids categoriePoids="30 kg à 35 kg">1.5</dosePoids>
+		</classeAge>
+		<classeAge categorie="11 ans à 15 ans">
+		  <posologie>1 μg/kg IVL</posologie>
+			<concentrationMelange>0.02 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>1</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>19</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="35 kg à 40 kg">1.8</dosePoids>
+			<dosePoids categoriePoids="40 kg à 45 kg">2</dosePoids>
+			<dosePoids categoriePoids="45 kg à 50 kg">2.2</dosePoids>
+			<dosePoids categoriePoids="50 kg à 60 kg">2.5</dosePoids>
+		</classeAge>
+		<classeAge categorie="15 ans et plus">
+		  <posologie>1 μg/kg IVL</posologie>
+			<concentrationMelange>0.02 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>1</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>19</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="60 kg à 70 kg">2.5</dosePoids>
+			<dosePoids categoriePoids="70 kg à 80 kg">2.5</dosePoids>
+			<dosePoids categoriePoids="80 kg à 90 kg">2.5</dosePoids>
+			<dosePoids categoriePoids="90 kg et plus">2.5</dosePoids>
+		</classeAge>
+	</solution>
+
+	<solution id="s28">
+		<nom>NaCl 9%.</nom>
+		<molecule>NaCl 9%.</molecule>
+		<infoSup>Expansion volémique - renouvelable</infoSup>
+		<concentrationInitiale>9 g/100ml</concentrationInitiale>
+		<couleur>Blue</couleur>
+		<classeAge categorie="0 mois à 1 mois">
+		  <posologie>20 ml/kg IVD-IVL</posologie>
+			<concentrationMelange>90 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="2 kg à 2,5 kg">40</dosePoids>
+			<dosePoids categoriePoids="2,5 kg à 3 kg">50</dosePoids>
+			<dosePoids categoriePoids="3 kg à 3,5 kg">60</dosePoids>
+			<dosePoids categoriePoids="3,5 kg à 4 kg">70</dosePoids>
+		</classeAge>
+		<classeAge categorie="2 mois à 6 mois">
+		  <posologie>20 ml/kg IVD-IVL</posologie>
+			<concentrationMelange>90 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="4 kg à 5 kg">80</dosePoids>
+			<dosePoids categoriePoids="5 kg à 6 kg">100</dosePoids>
+			<dosePoids categoriePoids="6 kg à 7 kg">120</dosePoids>
+			<dosePoids categoriePoids="7 kg à 8 kg">140</dosePoids>
+		</classeAge>
+		<classeAge categorie="7 mois à 18 mois">
+		  <posologie>20 ml/kg IVD-IVL</posologie>
+			<concentrationMelange>90 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="8 kg à 9 kg">160</dosePoids>
+			<dosePoids categoriePoids="9 kg à 10 kg">180</dosePoids>
+			<dosePoids categoriePoids="10 kg à 11 kg">200</dosePoids>
+			<dosePoids categoriePoids="11 kg à 12 kg">220</dosePoids>
+		</classeAge>
+		<classeAge categorie="18 mois à 4 ans">
+		  <posologie>20 ml/kg IVD-IVL</posologie>
+			<concentrationMelange>90 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="12 kg à 13 kg">240</dosePoids>
+			<dosePoids categoriePoids="13 kg à 14 kg">260</dosePoids>
+			<dosePoids categoriePoids="14 kg à 15 kg">280</dosePoids>
+			<dosePoids categoriePoids="15 kg à 16 kg">300</dosePoids>
+		</classeAge>
+		<classeAge categorie="5 ans à 7 ans">
+		  <posologie>20 ml/kg IVD-IVL</posologie>
+			<concentrationMelange>90 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="16 kg à 18 kg">350</dosePoids>
+			<dosePoids categoriePoids="18 kg à 20 kg">350</dosePoids>
+			<dosePoids categoriePoids="20 kg à 22 kg">400</dosePoids>
+			<dosePoids categoriePoids="22 kg à 24 kg">450</dosePoids>
+		</classeAge>
+		<classeAge categorie="8 ans à 10 ans">
+		  <posologie>20 ml/kg IVD-IVL</posologie>
+			<concentrationMelange>90 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="24 kg à 26 kg">500</dosePoids>
+			<dosePoids categoriePoids="26 kg à 28 kg">500</dosePoids>
+			<dosePoids categoriePoids="28 kg à 30 kg">500</dosePoids>
+			<dosePoids categoriePoids="30 kg à 35 kg">500</dosePoids>
+		</classeAge>
+		<classeAge categorie="11 ans à 15 ans">
+		  <posologie>500 ml IVL</posologie>
+			<concentrationMelange>90 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="35 kg à 40 kg">500</dosePoids>
+			<dosePoids categoriePoids="40 kg à 45 kg">500</dosePoids>
+			<dosePoids categoriePoids="45 kg à 50 kg">500</dosePoids>
+			<dosePoids categoriePoids="50 kg à 60 kg">500</dosePoids>
+		</classeAge>
+		<classeAge categorie="15 ans et plus">
+		  <posologie>500 ml IVL</posologie>
+			<concentrationMelange>90 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="60 kg à 70 kg">500</dosePoids>
+			<dosePoids categoriePoids="70 kg à 80 kg">500</dosePoids>
+			<dosePoids categoriePoids="80 kg à 90 kg">500</dosePoids>
+			<dosePoids categoriePoids="90 kg et plus">500</dosePoids>
+		</classeAge>
+	</solution>
+
+	<solution id="s29">
+		<nom>Propofol 1%</nom>
+		<molecule>Propofol 1%</molecule>
+		<infoSup>Dose max 5 mg/kg et 4 mg/kg/h</infoSup>
+		<concentrationInitiale>10 mg/ml</concentrationInitiale>
+		<couleur>Blue</couleur>
+		<classeAge categorie="0 mois à 1 mois">
+		  <posologie>2 mg/kg IVD</posologie>
+			<concentrationMelange>5 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>5</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>5</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="2 kg à 2,5 kg">0.8</dosePoids>
+			<dosePoids categoriePoids="2,5 kg à 3 kg">1</dosePoids>
+			<dosePoids categoriePoids="3 kg à 3,5 kg">1.2</dosePoids>
+			<dosePoids categoriePoids="3,5 kg à 4 kg">1.4</dosePoids>
+		</classeAge>
+		<classeAge categorie="2 mois à 6 mois">
+		  <posologie>2 mg/kg IVD</posologie>
+			<concentrationMelange>5 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>5</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>5</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="4 kg à 5 kg">1.6</dosePoids>
+			<dosePoids categoriePoids="5 kg à 6 kg">2</dosePoids>
+			<dosePoids categoriePoids="6 kg à 7 kg">2.4</dosePoids>
+			<dosePoids categoriePoids="7 kg à 8 kg">2.8</dosePoids>
+		</classeAge>
+		<classeAge categorie="7 mois à 18 mois">
+		  <posologie>2 mg/kg IVD</posologie>
+			<concentrationMelange>10 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="8 kg à 9 kg">1.5</dosePoids>
+			<dosePoids categoriePoids="9 kg à 10 kg">2</dosePoids>
+			<dosePoids categoriePoids="10 kg à 11 kg">2</dosePoids>
+			<dosePoids categoriePoids="11 kg à 12 kg">2</dosePoids>
+		</classeAge>
+		<classeAge categorie="18 mois à 4 ans">
+		  <posologie>2 mg/kg IVD</posologie>
+			<concentrationMelange>10 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="12 kg à 13 kg">2.5</dosePoids>
+			<dosePoids categoriePoids="13 kg à 14 kg">2.5</dosePoids>
+			<dosePoids categoriePoids="14 kg à 15 kg">3</dosePoids>
+			<dosePoids categoriePoids="15 kg à 16 kg">3</dosePoids>
+		</classeAge>
+		<classeAge categorie="5 ans à 7 ans">
+		  <posologie>2 mg/kg IVD</posologie>
+			<concentrationMelange>10 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="16 kg à 18 kg">3</dosePoids>
+			<dosePoids categoriePoids="18 kg à 20 kg">3.5</dosePoids>
+			<dosePoids categoriePoids="20 kg à 22 kg">4</dosePoids>
+			<dosePoids categoriePoids="22 kg à 24 kg">4.5</dosePoids>
+		</classeAge>
+		<classeAge categorie="8 ans à 10 ans">
+		  <posologie>2 mg/kg IVD</posologie>
+			<concentrationMelange>10 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="24 kg à 26 kg">5</dosePoids>
+			<dosePoids categoriePoids="26 kg à 28 kg">5</dosePoids>
+			<dosePoids categoriePoids="28 kg à 30 kg">5.5</dosePoids>
+			<dosePoids categoriePoids="30 kg à 35 kg">6</dosePoids>
+		</classeAge>
+		<classeAge categorie="11 ans à 15 ans">
+		  <posologie>2 mg/kg IVD</posologie>
+			<concentrationMelange>10 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="35 kg à 40 kg">7</dosePoids>
+			<dosePoids categoriePoids="40 kg à 45 kg">8</dosePoids>
+			<dosePoids categoriePoids="45 kg à 50 kg">9.5</dosePoids>
+			<dosePoids categoriePoids="50 kg à 60 kg">10</dosePoids>
+		</classeAge>
+		<classeAge categorie="15 ans et plus">
+		  <posologie>2 mg/kg IVD</posologie>
+			<concentrationMelange>10 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="60 kg à 70 kg">7</dosePoids>
+			<dosePoids categoriePoids="70 kg à 80 kg">8</dosePoids>
+			<dosePoids categoriePoids="80 kg à 90 kg">9.5</dosePoids>
+			<dosePoids categoriePoids="90 kg et plus">10</dosePoids>
+		</classeAge>
+	</solution>
+
+	<solution id="s30">
+		<nom>Noradrénaline</nom>
+		<molecule>Noradrénaline</molecule>
+		<infoSup>A titrer en fonction de l'hémodynamique</infoSup>
+		<concentrationInitiale>2 mg/ml</concentrationInitiale>
+		<couleur>Green</couleur>
+		<classeAge categorie="0 mois à 1 mois">
+		  <posologie>0.1 μg/kg/' IVSE</posologie>
+			<concentrationMelange>0.04 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>1</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>49</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml/h</uniteSolution>
+			<dosePoids categoriePoids="2 kg à 2,5 kg">0.3</dosePoids>
+			<dosePoids categoriePoids="2,5 kg à 3 kg">0.4</dosePoids>
+			<dosePoids categoriePoids="3 kg à 3,5 kg">0.5</dosePoids>
+			<dosePoids categoriePoids="3,5 kg à 4 kg">0.5</dosePoids>
+		</classeAge>
+		<classeAge categorie="2 mois à 6 mois">
+		  <posologie>0.1 μg/kg/' IVSE</posologie>
+			<concentrationMelange>0.04 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>1</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>49</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml/h</uniteSolution>
+			<dosePoids categoriePoids="4 kg à 5 kg">0.6</dosePoids>
+			<dosePoids categoriePoids="5 kg à 6 kg">0.8</dosePoids>
+			<dosePoids categoriePoids="6 kg à 7 kg">0.9</dosePoids>
+			<dosePoids categoriePoids="7 kg à 8 kg">1</dosePoids>
+		</classeAge>
+		<classeAge categorie="7 mois à 18 mois">
+		  <posologie>0.1 μg/kg/' IVSE</posologie>
+			<concentrationMelange>0.04 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>1</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>49</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml/h</uniteSolution>
+			<dosePoids categoriePoids="8 kg à 9 kg">1.2</dosePoids>
+			<dosePoids categoriePoids="9 kg à 10 kg">1.4</dosePoids>
+			<dosePoids categoriePoids="10 kg à 11 kg">1.5</dosePoids>
+			<dosePoids categoriePoids="11 kg à 12 kg">1.6</dosePoids>
+		</classeAge>
+		<classeAge categorie="18 mois à 4 ans">
+		  <posologie>0.1 μg/kg/' IVSE</posologie>
+			<concentrationMelange>0.04 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>1</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>49</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml/h</uniteSolution>
+			<dosePoids categoriePoids="12 kg à 13 kg">1.8</dosePoids>
+			<dosePoids categoriePoids="13 kg à 14 kg">2</dosePoids>
+			<dosePoids categoriePoids="14 kg à 15 kg">2.1</dosePoids>
+			<dosePoids categoriePoids="15 kg à 16 kg">2.2</dosePoids>
+		</classeAge>
+		<classeAge categorie="5 ans à 7 ans">
+		  <posologie>0.1 μg/kg/' IVSE</posologie>
+			<concentrationMelange>0.04 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>1</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>49</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml/h</uniteSolution>
+			<dosePoids categoriePoids="16 kg à 18 kg">2.4</dosePoids>
+			<dosePoids categoriePoids="18 kg à 20 kg">2.7</dosePoids>
+			<dosePoids categoriePoids="20 kg à 22 kg">3</dosePoids>
+			<dosePoids categoriePoids="22 kg à 24 kg">3.3</dosePoids>
+		</classeAge>
+		<classeAge categorie="8 ans à 10 ans">
+		  <posologie>0.1 μg/kg/' IVSE</posologie>
+			<concentrationMelange>0.08 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>2</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>48</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml/h</uniteSolution>
+			<dosePoids categoriePoids="24 kg à 26 kg">1.8</dosePoids>
+			<dosePoids categoriePoids="26 kg à 28 kg">2</dosePoids>
+			<dosePoids categoriePoids="28 kg à 30 kg">2.1</dosePoids>
+			<dosePoids categoriePoids="30 kg à 35 kg">2.2</dosePoids>
+		</classeAge>
+		<classeAge categorie="11 ans à 15 ans">
+		  <posologie>0.1 μg/kg/' IVSE</posologie>
+			<concentrationMelange>0.08 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>2</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>48</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml/h</uniteSolution>
+			<dosePoids categoriePoids="35 kg à 40 kg">2.6</dosePoids>
+			<dosePoids categoriePoids="40 kg à 45 kg">3</dosePoids>
+			<dosePoids categoriePoids="45 kg à 50 kg">3.4</dosePoids>
+			<dosePoids categoriePoids="50 kg à 60 kg">3.8</dosePoids>
+		</classeAge>
+		<classeAge categorie="15 ans et plus">
+		  <posologie>0.1 μg/kg/' IVSE</posologie>
+			<concentrationMelange>0.16 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>4</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>44</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml/h</uniteSolution>
+			<dosePoids categoriePoids="60 kg à 70 kg">2.2</dosePoids>
+			<dosePoids categoriePoids="70 kg à 80 kg">2.6</dosePoids>
+			<dosePoids categoriePoids="80 kg à 90 kg">3</dosePoids>
+			<dosePoids categoriePoids="90 kg et plus">3.4</dosePoids>
+		</classeAge>
+	</solution>
+
+	<solution id="s31">
+		<nom>Gardenal®</nom>
+		<molecule>Phenobarbital</molecule>
+		<infoSup>Dose de charge EME - risque apnée</infoSup>
+		<concentrationInitiale>poudre</concentrationInitiale>
+		<couleur>Red</couleur>
+		<classeAge categorie="0 mois à 1 mois">
+		  <posologie>20 mg/kg IVL 20'</posologie>
+			<concentrationMelange></concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>Dose</qteProduit>
+			<uniteProduit>qsp</uniteProduit>
+			<qteSolvant>5</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>mg</uniteSolution>
+			<dosePoids categoriePoids="2 kg à 2,5 kg">40</dosePoids>
+			<dosePoids categoriePoids="2,5 kg à 3 kg">50</dosePoids>
+			<dosePoids categoriePoids="3 kg à 3,5 kg">60</dosePoids>
+			<dosePoids categoriePoids="3,5 kg à 4 kg">70</dosePoids>
+		</classeAge>
+		<classeAge categorie="2 mois à 6 mois">
+		  <posologie>20 mg/kg IVL 20'</posologie>
+			<concentrationMelange></concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>Dose</qteProduit>
+			<uniteProduit>qsp</uniteProduit>
+			<qteSolvant>5</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>mg</uniteSolution>
+			<dosePoids categoriePoids="4 kg à 5 kg">80</dosePoids>
+			<dosePoids categoriePoids="5 kg à 6 kg">100</dosePoids>
+			<dosePoids categoriePoids="6 kg à 7 kg">120</dosePoids>
+			<dosePoids categoriePoids="7 kg à 8 kg">140</dosePoids>
+		</classeAge>
+		<classeAge categorie="7 mois à 18 mois">
+		  <posologie>20 mg/kg IVL 20'</posologie>
+			<concentrationMelange></concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>Dose</qteProduit>
+			<uniteProduit>qsp</uniteProduit>
+			<qteSolvant>5</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>mg</uniteSolution>
+			<dosePoids categoriePoids="8 kg à 9 kg">160</dosePoids>
+			<dosePoids categoriePoids="9 kg à 10 kg">180</dosePoids>
+			<dosePoids categoriePoids="10 kg à 11 kg">200</dosePoids>
+			<dosePoids categoriePoids="11 kg à 12 kg">220</dosePoids>
+		</classeAge>
+		<classeAge categorie="18 mois à 4 ans">
+		  <posologie>20 mg/kg IVL 20'</posologie>
+			<concentrationMelange></concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>Dose</qteProduit>
+			<uniteProduit>qsp</uniteProduit>
+			<qteSolvant>5</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>mg</uniteSolution>
+			<dosePoids categoriePoids="12 kg à 13 kg">240</dosePoids>
+			<dosePoids categoriePoids="13 kg à 14 kg">260</dosePoids>
+			<dosePoids categoriePoids="14 kg à 15 kg">280</dosePoids>
+			<dosePoids categoriePoids="15 kg à 16 kg">300</dosePoids>
+		</classeAge>
+		<classeAge categorie="5 ans à 7 ans">
+		  <posologie>20 mg/kg IVL 20'</posologie>
+			<concentrationMelange></concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>Dose</qteProduit>
+			<uniteProduit>qsp</uniteProduit>
+			<qteSolvant>5</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>mg</uniteSolution>
+			<dosePoids categoriePoids="16 kg à 18 kg">300</dosePoids>
+			<dosePoids categoriePoids="18 kg à 20 kg">350</dosePoids>
+			<dosePoids categoriePoids="20 kg à 22 kg">400</dosePoids>
+			<dosePoids categoriePoids="22 kg à 24 kg">450</dosePoids>
+		</classeAge>
+		<classeAge categorie="8 ans à 10 ans">
+		  <posologie>20 mg/kg IVL 20'</posologie>
+			<concentrationMelange></concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>Dose</qteProduit>
+			<uniteProduit>qsp</uniteProduit>
+			<qteSolvant>5</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>mg</uniteSolution>
+			<dosePoids categoriePoids="24 kg à 26 kg">500</dosePoids>
+			<dosePoids categoriePoids="26 kg à 28 kg">500</dosePoids>
+			<dosePoids categoriePoids="28 kg à 30 kg">550</dosePoids>
+			<dosePoids categoriePoids="30 kg à 35 kg">600</dosePoids>
+		</classeAge>
+		<classeAge categorie="11 ans à 15 ans">
+		  <posologie>20 mg/kg IVL 20'</posologie>
+			<concentrationMelange></concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>Dose</qteProduit>
+			<uniteProduit>qsp</uniteProduit>
+			<qteSolvant>5</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>mg</uniteSolution>
+			<dosePoids categoriePoids="35 kg à 40 kg">600</dosePoids>
+			<dosePoids categoriePoids="40 kg à 45 kg">600</dosePoids>
+			<dosePoids categoriePoids="45 kg à 50 kg">600</dosePoids>
+			<dosePoids categoriePoids="50 kg à 60 kg">600</dosePoids>
+		</classeAge>
+		<classeAge categorie="15 ans et plus">
+		  <posologie>600 mg IVL 20'</posologie>
+			<concentrationMelange></concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>Dose</qteProduit>
+			<uniteProduit>qsp</uniteProduit>
+			<qteSolvant>5</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>mg</uniteSolution>
+			<dosePoids categoriePoids="60 kg à 70 kg">600</dosePoids>
+			<dosePoids categoriePoids="70 kg à 80 kg">600</dosePoids>
+			<dosePoids categoriePoids="80 kg à 90 kg">600</dosePoids>
+			<dosePoids categoriePoids="90 kg et plus">600</dosePoids>
+		</classeAge>
+	</solution>
+
+	<solution id="s32">
+		<nom>NaCl 6%</nom>
+		<molecule>SSH</molecule>
+		<infoSup>HTIC réfractaire</infoSup>
+		<concentrationInitiale>60 g/100ml</concentrationInitiale>
+		<couleur>Blue</couleur>
+		<classeAge categorie="0 mois à 1 mois">
+		  <posologie>2 ml/kg IVL</posologie>
+			<concentrationMelange>600 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="2 kg à 2,5 kg">4</dosePoids>
+			<dosePoids categoriePoids="2,5 kg à 3 kg">5</dosePoids>
+			<dosePoids categoriePoids="3 kg à 3,5 kg">6</dosePoids>
+			<dosePoids categoriePoids="3,5 kg à 4 kg">7</dosePoids>
+		</classeAge>
+		<classeAge categorie="2 mois à 6 mois">
+		  <posologie>2 ml/kg IVL</posologie>
+			<concentrationMelange>600 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="4 kg à 5 kg">8</dosePoids>
+			<dosePoids categoriePoids="5 kg à 6 kg">10</dosePoids>
+			<dosePoids categoriePoids="6 kg à 7 kg">12</dosePoids>
+			<dosePoids categoriePoids="7 kg à 8 kg">14</dosePoids>
+		</classeAge>
+		<classeAge categorie="7 mois à 18 mois">
+		  <posologie>2 ml/kg IVL</posologie>
+			<concentrationMelange>600 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="8 kg à 9 kg">15</dosePoids>
+			<dosePoids categoriePoids="9 kg à 10 kg">20</dosePoids>
+			<dosePoids categoriePoids="10 kg à 11 kg">20</dosePoids>
+			<dosePoids categoriePoids="11 kg à 12 kg">20</dosePoids>
+		</classeAge>
+		<classeAge categorie="18 mois à 4 ans">
+		  <posologie>2 ml/kg IVL</posologie>
+			<concentrationMelange>600 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="12 kg à 13 kg">25</dosePoids>
+			<dosePoids categoriePoids="13 kg à 14 kg">25</dosePoids>
+			<dosePoids categoriePoids="14 kg à 15 kg">30</dosePoids>
+			<dosePoids categoriePoids="15 kg à 16 kg">30</dosePoids>
+		</classeAge>
+		<classeAge categorie="5 ans à 7 ans">
+		  <posologie>2 ml/kg IVL</posologie>
+			<concentrationMelange>600 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="16 kg à 18 kg">30</dosePoids>
+			<dosePoids categoriePoids="18 kg à 20 kg">35</dosePoids>
+			<dosePoids categoriePoids="20 kg à 22 kg">40</dosePoids>
+			<dosePoids categoriePoids="22 kg à 24 kg">45</dosePoids>
+		</classeAge>
+		<classeAge categorie="8 ans à 10 ans">
+		  <posologie>2 ml/kg IVL</posologie>
+			<concentrationMelange>600 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="24 kg à 26 kg">50</dosePoids>
+			<dosePoids categoriePoids="26 kg à 28 kg">50</dosePoids>
+			<dosePoids categoriePoids="28 kg à 30 kg">55</dosePoids>
+			<dosePoids categoriePoids="30 kg à 35 kg">60</dosePoids>
+		</classeAge>
+		<classeAge categorie="11 ans à 15 ans">
+		  <posologie>2 ml/kg IVL</posologie>
+			<concentrationMelange>600 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="35 kg à 40 kg">70</dosePoids>
+			<dosePoids categoriePoids="40 kg à 45 kg">80</dosePoids>
+			<dosePoids categoriePoids="45 kg à 50 kg">90</dosePoids>
+			<dosePoids categoriePoids="50 kg à 60 kg">100</dosePoids>
+		</classeAge>
+		<classeAge categorie="15 ans et plus">
+		  <posologie>2 ml/kg IVL</posologie>
+			<concentrationMelange>600 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="60 kg à 70 kg">70</dosePoids>
+			<dosePoids categoriePoids="70 kg à 80 kg">80</dosePoids>
+			<dosePoids categoriePoids="80 kg à 90 kg">90</dosePoids>
+			<dosePoids categoriePoids="90 kg et plus">100</dosePoids>
+		</classeAge>
+	</solution>
+
+	<solution id="s33">
+		<nom>Celocurine®</nom>
+		<molecule>Succinylcholine</molecule>
+		<infoSup>Risque d'hyparkaliémie</infoSup>
+		<concentrationInitiale>50 mg/ml</concentrationInitiale>
+		<couleur>Blue</couleur>
+		<classeAge categorie="0 mois à 1 mois">
+		  <posologie>2 mg/kg IVD</posologie>
+			<concentrationMelange>5 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>1</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>10</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="2 kg à 2,5 kg">0.8</dosePoids>
+			<dosePoids categoriePoids="2,5 kg à 3 kg">1</dosePoids>
+			<dosePoids categoriePoids="3 kg à 3,5 kg">1.2</dosePoids>
+			<dosePoids categoriePoids="3,5 kg à 4 kg">1.4</dosePoids>
+		</classeAge>
+		<classeAge categorie="2 mois à 6 mois">
+		  <posologie>2 mg/kg IVD</posologie>
+			<concentrationMelange>5 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>1</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>9</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="4 kg à 5 kg">1.6</dosePoids>
+			<dosePoids categoriePoids="5 kg à 6 kg">2</dosePoids>
+			<dosePoids categoriePoids="6 kg à 7 kg">2.4</dosePoids>
+			<dosePoids categoriePoids="7 kg à 8 kg">2.8</dosePoids>
+		</classeAge>
+		<classeAge categorie="7 mois à 18 mois">
+		  <posologie>2 mg/kg IVD</posologie>
+			<concentrationMelange>5 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>1</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>9</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="8 kg à 9 kg">3</dosePoids>
+			<dosePoids categoriePoids="9 kg à 10 kg">3.5</dosePoids>
+			<dosePoids categoriePoids="10 kg à 11 kg">4</dosePoids>
+			<dosePoids categoriePoids="11 kg à 12 kg">4.5</dosePoids>
+		</classeAge>
+		<classeAge categorie="18 mois à 4 ans">
+		  <posologie>1 mg/kg IVD</posologie>
+			<concentrationMelange>5 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>1</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>9</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="12 kg à 13 kg">2.5</dosePoids>
+			<dosePoids categoriePoids="13 kg à 14 kg">2.5</dosePoids>
+			<dosePoids categoriePoids="14 kg à 15 kg">2.5</dosePoids>
+			<dosePoids categoriePoids="15 kg à 16 kg">3</dosePoids>
+		</classeAge>
+		<classeAge categorie="5 ans à 7 ans">
+		  <posologie>1 mg/kg IVD</posologie>
+			<concentrationMelange>5 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>1</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>9</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="16 kg à 18 kg">3</dosePoids>
+			<dosePoids categoriePoids="18 kg à 20 kg">3.5</dosePoids>
+			<dosePoids categoriePoids="20 kg à 22 kg">4</dosePoids>
+			<dosePoids categoriePoids="22 kg à 24 kg">4.5</dosePoids>
+		</classeAge>
+		<classeAge categorie="8 ans à 10 ans">
+		  <posologie>1 mg/kg IVD</posologie>
+			<concentrationMelange>5 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>1</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>9</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="24 kg à 26 kg">5</dosePoids>
+			<dosePoids categoriePoids="26 kg à 28 kg">5</dosePoids>
+			<dosePoids categoriePoids="28 kg à 30 kg">5.5</dosePoids>
+			<dosePoids categoriePoids="30 kg à 35 kg">6</dosePoids>
+		</classeAge>
+		<classeAge categorie="11 ans à 15 ans">
+		  <posologie>1 mg/kg IVD</posologie>
+			<concentrationMelange>10 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>2</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>8</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="35 kg à 40 kg">3.5</dosePoids>
+			<dosePoids categoriePoids="40 kg à 45 kg">4</dosePoids>
+			<dosePoids categoriePoids="45 kg à 50 kg">4.5</dosePoids>
+			<dosePoids categoriePoids="50 kg à 60 kg">5</dosePoids>
+		</classeAge>
+		<classeAge categorie="15 ans et plus">
+		  <posologie>1 mg/kg IVD</posologie>
+			<concentrationMelange>10 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>2</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>8</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="60 kg à 70 kg">6</dosePoids>
+			<dosePoids categoriePoids="70 kg à 80 kg">7</dosePoids>
+			<dosePoids categoriePoids="80 kg à 90 kg">8</dosePoids>
+			<dosePoids categoriePoids="90 kg et plus">9</dosePoids>
+		</classeAge>
+	</solution>
+
+	<solution id="s34">
+		<nom>Sufenta®</nom>
+		<molecule>Sufentanil</molecule>
+		<infoSup>A titrer en fonction de l'hémodynamique</infoSup>
+		<concentrationInitiale>5 μg/ml</concentrationInitiale>
+		<couleur>Green</couleur>
+		<classeAge categorie="0 mois à 1 mois">
+		  <posologie>0.2 μg/kg/h IVSE</posologie>
+			<concentrationMelange>1 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>10</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>40</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml/h</uniteSolution>
+			<dosePoids categoriePoids="2 kg à 2,5 kg">0.4</dosePoids>
+			<dosePoids categoriePoids="2,5 kg à 3 kg">0.5</dosePoids>
+			<dosePoids categoriePoids="3 kg à 3,5 kg">0.6</dosePoids>
+			<dosePoids categoriePoids="3,5 kg à 4 kg">0.7</dosePoids>
+		</classeAge>
+		<classeAge categorie="2 mois à 6 mois">
+		  <posologie>0.2 μg/kg/h IVSE</posologie>
+			<concentrationMelange>1 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>10</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>40</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml/h</uniteSolution>
+			<dosePoids categoriePoids="4 kg à 5 kg">0.8</dosePoids>
+			<dosePoids categoriePoids="5 kg à 6 kg">1</dosePoids>
+			<dosePoids categoriePoids="6 kg à 7 kg">1.2</dosePoids>
+			<dosePoids categoriePoids="7 kg à 8 kg">1.4</dosePoids>
+		</classeAge>
+		<classeAge categorie="7 mois à 18 mois">
+		  <posologie>0.2 μg/kg/h IVSE</posologie>
+			<concentrationMelange>1 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>10</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>40</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml/h</uniteSolution>
+			<dosePoids categoriePoids="8 kg à 9 kg">1.6</dosePoids>
+			<dosePoids categoriePoids="9 kg à 10 kg">1.8</dosePoids>
+			<dosePoids categoriePoids="10 kg à 11 kg">2</dosePoids>
+			<dosePoids categoriePoids="11 kg à 12 kg">2.2</dosePoids>
+		</classeAge>
+		<classeAge categorie="18 mois à 4 ans">
+		  <posologie>0.2 μg/kg/h IVSE</posologie>
+			<concentrationMelange>1 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>10</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>40</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml/h</uniteSolution>
+			<dosePoids categoriePoids="12 kg à 13 kg">2.4</dosePoids>
+			<dosePoids categoriePoids="13 kg à 14 kg">2.6</dosePoids>
+			<dosePoids categoriePoids="14 kg à 15 kg">2.8</dosePoids>
+			<dosePoids categoriePoids="15 kg à 16 kg">3</dosePoids>
+		</classeAge>
+		<classeAge categorie="5 ans à 7 ans">
+		  <posologie>0.2 μg/kg/h IVSE</posologie>
+			<concentrationMelange>1 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>10</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>40</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml/h</uniteSolution>
+			<dosePoids categoriePoids="16 kg à 18 kg">3</dosePoids>
+			<dosePoids categoriePoids="18 kg à 20 kg">3.5</dosePoids>
+			<dosePoids categoriePoids="20 kg à 22 kg">4</dosePoids>
+			<dosePoids categoriePoids="22 kg à 24 kg">4.5</dosePoids>
+		</classeAge>
+		<classeAge categorie="8 ans à 10 ans">
+		  <posologie>0.2 μg/kg/h IVSE</posologie>
+			<concentrationMelange>1 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>10</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>40</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml/h</uniteSolution>
+			<dosePoids categoriePoids="24 kg à 26 kg">5</dosePoids>
+			<dosePoids categoriePoids="26 kg à 28 kg">5</dosePoids>
+			<dosePoids categoriePoids="28 kg à 30 kg">5.5</dosePoids>
+			<dosePoids categoriePoids="30 kg à 35 kg">6</dosePoids>
+		</classeAge>
+		<classeAge categorie="11 ans à 15 ans">
+		  <posologie>0.2 μg/kg/h IVSE</posologie>
+			<concentrationMelange>1 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>10</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>40</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml/h</uniteSolution>
+			<dosePoids categoriePoids="35 kg à 40 kg">7</dosePoids>
+			<dosePoids categoriePoids="40 kg à 45 kg">8</dosePoids>
+			<dosePoids categoriePoids="45 kg à 50 kg">9</dosePoids>
+			<dosePoids categoriePoids="50 kg à 60 kg">10</dosePoids>
+		</classeAge>
+		<classeAge categorie="15 ans et plus">
+		  <posologie>0.2 μg/kg/h IVSE</posologie>
+			<concentrationMelange>1 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>10</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>40</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml/h</uniteSolution>
+			<dosePoids categoriePoids="60 kg à 70 kg">12</dosePoids>
+			<dosePoids categoriePoids="70 kg à 80 kg">14</dosePoids>
+			<dosePoids categoriePoids="80 kg à 90 kg">16</dosePoids>
+			<dosePoids categoriePoids="90 kg et plus">18</dosePoids>
+		</classeAge>
+	</solution>
+
+	<solution id="s35">
+		<nom>Esmeron</nom>
+		<molecule>Rocuronium</molecule>
+		<infoSup>Curarisation pour induction</infoSup>
+		<concentrationInitiale>10 mg/ml</concentrationInitiale>
+		<couleur>Blue</couleur>
+		<classeAge categorie="0 mois à 1 mois">
+      <posologie></posologie>
+			<concentrationMelange></concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit></uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant>Non Injectable</uniteSolvant>
+			<uniteSolution></uniteSolution>
+			<dosePoids categoriePoids="2 kg à 2,5 kg"></dosePoids>
+			<dosePoids categoriePoids="2,5 kg à 3 kg"></dosePoids>
+			<dosePoids categoriePoids="3 kg à 3,5 kg"></dosePoids>
+			<dosePoids categoriePoids="3,5 kg à 4 kg"></dosePoids>
+		</classeAge>
+		<classeAge categorie="2 mois à 6 mois">
+		  <posologie>1.2 mg/kg IVD</posologie>
+			<concentrationMelange>1 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>1</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>9</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="4 kg à 5 kg">5</dosePoids>
+			<dosePoids categoriePoids="5 kg à 6 kg">6</dosePoids>
+			<dosePoids categoriePoids="6 kg à 7 kg">7</dosePoids>
+			<dosePoids categoriePoids="7 kg à 8 kg">8.5</dosePoids>
+		</classeAge>
+		<classeAge categorie="7 mois à 18 mois">
+		  <posologie>1.2 mg/kg IVD</posologie>
+			<concentrationMelange>5 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>5</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>5</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="8 kg à 9 kg">2</dosePoids>
+			<dosePoids categoriePoids="9 kg à 10 kg">2.2</dosePoids>
+			<dosePoids categoriePoids="10 kg à 11 kg">2.4</dosePoids>
+			<dosePoids categoriePoids="11 kg à 12 kg">2.6</dosePoids>
+		</classeAge>
+		<classeAge categorie="18 mois à 4 ans">
+		  <posologie>1.2 mg/kg IVD</posologie>
+			<concentrationMelange>5 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>5</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>5</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="12 kg à 13 kg">2.9</dosePoids>
+			<dosePoids categoriePoids="13 kg à 14 kg">3.1</dosePoids>
+			<dosePoids categoriePoids="14 kg à 15 kg">3.4</dosePoids>
+			<dosePoids categoriePoids="15 kg à 16 kg">3.6</dosePoids>
+		</classeAge>
+		<classeAge categorie="5 ans à 7 ans">
+		  <posologie>1.2 mg/kg IVD</posologie>
+			<concentrationMelange>5 mg/ml</concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>5</qteProduit>
+			<uniteProduit>ml</uniteProduit>
+			<qteSolvant>5</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="16 kg à 18 kg">3.8</dosePoids>
+			<dosePoids categoriePoids="18 kg à 20 kg">4.3</dosePoids>
+			<dosePoids categoriePoids="20 kg à 22 kg">4.8</dosePoids>
+			<dosePoids categoriePoids="22 kg à 24 kg">5.3</dosePoids>
+		</classeAge>
+		<classeAge categorie="8 ans à 10 ans">
+		  <posologie>1.2 mg/kg IVD</posologie>
+			<concentrationMelange>10 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="24 kg à 26 kg">2.9</dosePoids>
+			<dosePoids categoriePoids="26 kg à 28 kg">3.1</dosePoids>
+			<dosePoids categoriePoids="28 kg à 30 kg">3.4</dosePoids>
+			<dosePoids categoriePoids="30 kg à 35 kg">3.6</dosePoids>
+		</classeAge>
+		<classeAge categorie="11 ans à 15 ans">
+		  <posologie>1.2 mg/kg IVD</posologie>
+			<concentrationMelange>10 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="35 kg à 40 kg">4</dosePoids>
+			<dosePoids categoriePoids="40 kg à 45 kg">5</dosePoids>
+			<dosePoids categoriePoids="45 kg à 50 kg">5</dosePoids>
+			<dosePoids categoriePoids="50 kg à 60 kg">6</dosePoids>
+		</classeAge>
+		<classeAge categorie="15 ans et plus">
+		  <posologie>1.2 mg/kg IVD</posologie>
+			<concentrationMelange>10 mg/ml</concentrationMelange>
+			<solvant></solvant>
+			<qteProduit></qteProduit>
+			<uniteProduit>Pur</uniteProduit>
+			<qteSolvant></qteSolvant>
+			<uniteSolvant></uniteSolvant>
+			<uniteSolution>ml</uniteSolution>
+			<dosePoids categoriePoids="60 kg à 70 kg">7</dosePoids>
+			<dosePoids categoriePoids="70 kg à 80 kg">8</dosePoids>
+			<dosePoids categoriePoids="80 kg à 90 kg">10</dosePoids>
+			<dosePoids categoriePoids="90 kg et plus">10</dosePoids>
+		</classeAge>
+	</solution>
+
+	<solution id="s36">
+		<nom>Nesdonal</nom>
+		<molecule>Thiopental</molecule>
+		<infoSup>Induction anesthésique</infoSup>
+		<concentrationInitiale>poudre</concentrationInitiale>
+		<couleur>Red</couleur>
+		<classeAge categorie="0 mois à 1 mois">
+		  <posologie>4 mg/kg IVD</posologie>
+			<concentrationMelange></concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>Dose</qteProduit>
+			<uniteProduit>qsp</uniteProduit>
+			<qteSolvant>5</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>mg</uniteSolution>
+			<dosePoids categoriePoids="2 kg à 2,5 kg">8</dosePoids>
+			<dosePoids categoriePoids="2,5 kg à 3 kg">10</dosePoids>
+			<dosePoids categoriePoids="3 kg à 3,5 kg">12</dosePoids>
+			<dosePoids categoriePoids="3,5 kg à 4 kg">14</dosePoids>
+		</classeAge>
+		<classeAge categorie="2 mois à 6 mois">
+		  <posologie>4 mg/kg IVD</posologie>
+			<concentrationMelange></concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>Dose</qteProduit>
+			<uniteProduit>qsp</uniteProduit>
+			<qteSolvant>5</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>mg</uniteSolution>
+			<dosePoids categoriePoids="4 kg à 5 kg">16</dosePoids>
+			<dosePoids categoriePoids="5 kg à 6 kg">20</dosePoids>
+			<dosePoids categoriePoids="6 kg à 7 kg">24</dosePoids>
+			<dosePoids categoriePoids="7 kg à 8 kg">28</dosePoids>
+		</classeAge>
+		<classeAge categorie="7 mois à 18 mois">
+		  <posologie>4 mg/kg IVD</posologie>
+			<concentrationMelange></concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>Dose</qteProduit>
+			<uniteProduit>qsp</uniteProduit>
+			<qteSolvant>5</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>mg</uniteSolution>
+			<dosePoids categoriePoids="8 kg à 9 kg">30</dosePoids>
+			<dosePoids categoriePoids="9 kg à 10 kg">35</dosePoids>
+			<dosePoids categoriePoids="10 kg à 11 kg">40</dosePoids>
+			<dosePoids categoriePoids="11 kg à 12 kg">45</dosePoids>
+		</classeAge>
+		<classeAge categorie="18 mois à 4 ans">
+		  <posologie>4 mg/kg IVD</posologie>
+			<concentrationMelange></concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>Dose</qteProduit>
+			<uniteProduit>qsp</uniteProduit>
+			<qteSolvant>5</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>mg</uniteSolution>
+			<dosePoids categoriePoids="12 kg à 13 kg">50</dosePoids>
+			<dosePoids categoriePoids="13 kg à 14 kg">50</dosePoids>
+			<dosePoids categoriePoids="14 kg à 15 kg">55</dosePoids>
+			<dosePoids categoriePoids="15 kg à 16 kg">60</dosePoids>
+		</classeAge>
+		<classeAge categorie="5 ans à 7 ans">
+		  <posologie>4 mg/kg IVD</posologie>
+			<concentrationMelange></concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>Dose</qteProduit>
+			<uniteProduit>qsp</uniteProduit>
+			<qteSolvant>5</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>mg</uniteSolution>
+			<dosePoids categoriePoids="16 kg à 18 kg">65</dosePoids>
+			<dosePoids categoriePoids="18 kg à 20 kg">70</dosePoids>
+			<dosePoids categoriePoids="20 kg à 22 kg">80</dosePoids>
+			<dosePoids categoriePoids="22 kg à 24 kg">90</dosePoids>
+		</classeAge>
+		<classeAge categorie="8 ans à 10 ans">
+		  <posologie>4 mg/kg IVD</posologie>
+			<concentrationMelange></concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>Dose</qteProduit>
+			<uniteProduit>qsp</uniteProduit>
+			<qteSolvant>5</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>mg</uniteSolution>
+			<dosePoids categoriePoids="24 kg à 26 kg">95</dosePoids>
+			<dosePoids categoriePoids="26 kg à 28 kg">105</dosePoids>
+			<dosePoids categoriePoids="28 kg à 30 kg">110</dosePoids>
+			<dosePoids categoriePoids="30 kg à 35 kg">120</dosePoids>
+		</classeAge>
+		<classeAge categorie="11 ans à 15 ans">
+		  <posologie>4 mg/kg IVD</posologie>
+			<concentrationMelange></concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>Dose</qteProduit>
+			<uniteProduit>qsp</uniteProduit>
+			<qteSolvant>5</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>mg</uniteSolution>
+			<dosePoids categoriePoids="35 kg à 40 kg">140</dosePoids>
+			<dosePoids categoriePoids="40 kg à 45 kg">160</dosePoids>
+			<dosePoids categoriePoids="45 kg à 50 kg">180</dosePoids>
+			<dosePoids categoriePoids="50 kg à 60 kg">200</dosePoids>
+		</classeAge>
+		<classeAge categorie="15 ans et plus">
+		  <posologie>250 mg IVD</posologie>
+			<concentrationMelange></concentrationMelange>
+			<solvant>SPHI</solvant>
+			<qteProduit>Dose</qteProduit>
+			<uniteProduit>qsp</uniteProduit>
+			<qteSolvant>5</qteSolvant>
+			<uniteSolvant>ml</uniteSolvant>
+			<uniteSolution>mg</uniteSolution>
+			<dosePoids categoriePoids="60 kg à 70 kg">250</dosePoids>
+			<dosePoids categoriePoids="70 kg à 80 kg">250</dosePoids>
+			<dosePoids categoriePoids="80 kg à 90 kg">250</dosePoids>
+			<dosePoids categoriePoids="90 kg et plus">250</dosePoids>
+		</classeAge>
+	</solution>
+</tableau>

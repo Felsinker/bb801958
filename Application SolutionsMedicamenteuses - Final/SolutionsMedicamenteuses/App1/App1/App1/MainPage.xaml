@@ -1,0 +1,160 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="App1.MainPage"
+             BackgroundColor="White"
+             Title="Solutions Médicamenteuses" >
+
+    <ScrollView >
+
+        <StackLayout Orientation="Vertical" >
+            <StackLayout.Padding>
+                <OnPlatform x:TypeArguments="Thickness">
+                    <On Platform="Android" Value="0, 0, 0, 0"/>
+                    <On Platform="WinPhone" Value="0, 0, 0, 0"/>
+                    <On Platform="iOS" Value="0, 20, 0, 0"/>
+                </OnPlatform>
+            </StackLayout.Padding>
+            <Label Text="Caractéristiques du patient" Margin="10,10,0,0" TextColor="Black" FontSize="Large" HorizontalOptions="Start" VerticalOptions="Center" FontFamily="serif"/>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" />
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto" />
+                    <ColumnDefinition Width="Auto" />
+                </Grid.ColumnDefinitions>
+                <Label Text="Âge :" Margin="10,0,0,0" TextColor="Black" FontSize="Medium" HorizontalOptions="Start" VerticalOptions="Center" Grid.Row="0" Grid.Column="0"/>
+                <Picker x:Name="selectAge" Title="Sélectionnez une tranche d'âge" ItemDisplayBinding="{Binding Name}" HorizontalOptions="Start" VerticalOptions="Center" Grid.Row="0" Grid.Column="1" SelectedIndexChanged="SelectAge_SelectedIndexChanged" />
+            </Grid>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" />
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto" />
+                    <ColumnDefinition Width="Auto" />
+                </Grid.ColumnDefinitions>
+                <Label Text="Poids :" Margin="10,0,0,0" TextColor="Black" FontSize="Medium" HorizontalOptions="Start" VerticalOptions="Center" Grid.Row="0" Grid.Column="0"/>
+                <Picker x:Name="selectPoids" Title="Sélectionnez une tranche de poids" ItemDisplayBinding="{Binding Name}" HorizontalOptions="Start" VerticalOptions="Center" Grid.Row="0" Grid.Column="1" SelectedIndexChanged="SelectPoids_SelectedIndexChanged"/>
+            </Grid>
+
+            <BoxView HeightRequest="1" Margin="0,10,0,10" HorizontalOptions="FillAndExpand" BackgroundColor="DimGray"></BoxView>
+            <Label Text="Caractéristiques de la substance" Margin="10,10,0,0" TextColor="Black" FontSize="Large"  HorizontalOptions="Start" VerticalOptions="Center" FontFamily="serif"/>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto" />
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Label Text="Substance à injecter :" Margin="10,0,0,0" TextColor="Black" FontSize="Medium" HorizontalOptions="Start" VerticalOptions="Center"  Grid.Row="1" Grid.Column="0"/>
+                <!-- autocomplete-->
+                <Entry x:Name="entrySubstance" Placeholder="(Saisir une substance)" Keyboard="Plain" FontSize="Medium" HorizontalOptions="StartAndExpand" VerticalOptions="Center" Grid.Row="1" Grid.Column="1" TextChanged="Entry_TextChanged" Unfocused="entrySubstance_Unfocused" Focused="entrySubstance_Focused"></Entry>
+
+                <BoxView x:Name="contours"  BackgroundColor="Black" IsVisible="False"  Grid.Row="0" Grid.Column="1"></BoxView>
+                <ListView x:Name="listView"   Margin=" 1,1,1,1" BackgroundColor="White" RowHeight="40" Grid.Row="0" Grid.Column="1" SeparatorVisibility="None" IsVisible="False" ItemTapped="listView_ItemTapped">
+
+                    <ListView.ItemTemplate>
+
+                        <DataTemplate>
+
+                            <ViewCell>
+
+                                <StackLayout x:Name="stack"  BackgroundColor="White" Orientation="Vertical"  VerticalOptions="FillAndExpand" >
+                                    <Label Text="{Binding Name}" FontSize="Medium" TextColor="Black" VerticalOptions="Center"></Label>
+                                </StackLayout>
+
+                            </ViewCell>
+
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+            </Grid>
+           
+            <BoxView HeightRequest="1" Margin="0,10,0,0" HorizontalOptions="FillAndExpand" BackgroundColor="DimGray"></BoxView>
+            <Label Text="Préparation de la solution" Margin="10,10,0,0" TextColor="Black" FontSize="Large" HorizontalOptions="Start" VerticalOptions="Center" FontFamily="serif"/>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" />
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto" />
+                    <ColumnDefinition Width="Auto" />
+                    <ColumnDefinition Width="Auto" />
+                    <ColumnDefinition Width="Auto" />
+                </Grid.ColumnDefinitions>
+                <Label x:Name="LabelTitreSolvant" Text="Quantité de solvant :" Margin="10,10,0,0" TextColor="Black" FontSize="Medium" HorizontalOptions="Start" VerticalOptions="Center" Grid.Row="0" Grid.Column="0"/>
+                <Label x:Name="labelQteSolvant" Text="?" Margin="10,10,0,0" TextColor="Black" FontSize="Medium" HorizontalOptions="Start" VerticalOptions="Center" Grid.Row="0" Grid.Column="1"/>
+                <Label x:Name="labelTypeSolvant" Text="?" Margin="10,10,0,0" TextColor="Black" FontSize="Medium" HorizontalOptions="Start" VerticalOptions="Center" Grid.Row="0" Grid.Column="3"/>
+                <Label x:Name="labelUniteSolvant" Text="?" Margin="10,10,0,0" TextColor="Black" FontSize="Medium" HorizontalOptions="Start" VerticalOptions="Center" Grid.Row="0" Grid.Column="2"/>
+            </Grid>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" />
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto" />
+                    <ColumnDefinition Width="Auto" />
+                    <ColumnDefinition Width="Auto" />
+                </Grid.ColumnDefinitions>
+                <Label x:Name="LabelTitreProduit" Text="Quantité de produit :" Margin="10,10,0,0" TextColor="Black" FontSize="Medium" HorizontalOptions="Start" VerticalOptions="Center" Grid.Row="0" Grid.Column="0"/>
+                <Label x:Name="labelQteProduit" Text="?" Margin="10,10,0,0" TextColor="Black" FontSize="Medium" HorizontalOptions="Start" VerticalOptions="Center" Grid.Row="0" Grid.Column="1"/>
+                <Label x:Name="labelUniteProduit"  Text="?" Margin="10,10,0,0" TextColor="Black" FontSize="Medium" HorizontalOptions="Start" VerticalOptions="Center" Grid.Row="0" Grid.Column="2"/>
+            </Grid>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" />
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto" />
+                    <ColumnDefinition Width="Auto" />
+                    <ColumnDefinition Width="Auto" />
+                </Grid.ColumnDefinitions>
+                <Label x:Name="LabelTitreMelange" Text="Quantité du mélange à injecter :" Margin="10,10,0,0" TextColor="Black" FontSize="Medium" HorizontalOptions="Start" VerticalOptions="Center" Grid.Row="0" Grid.Column="0"/>
+                <Label  x:Name="labelQteMelange"  Text="?" Margin="10,10,0,0" TextColor="Black" FontSize="Medium" HorizontalOptions="Start" VerticalOptions="Center" Grid.Row="0" Grid.Column="1"/>
+                <Label x:Name="labelUniteSolution" Text="?" Margin="10,10,0,0" TextColor="Black" FontSize="Medium" HorizontalOptions="Start" VerticalOptions="Center" Grid.Row="0" Grid.Column="2"/>
+            </Grid>
+            <Label x:Name="LabelError" Text="Données Invalides" TextColor="Red" Margin="10,10,0,0" FontSize="Medium" />
+            <BoxView HeightRequest="1" Margin="0,10,0,0" HorizontalOptions="FillAndExpand" BackgroundColor="DimGray"></BoxView>
+            <Label Text="Informations Complémentaires" Margin="10,10,0,0" TextColor="Black" FontSize="Large" HorizontalOptions="Start" VerticalOptions="Center" FontFamily="serif"/>
+            <Label x:Name="LabelInfos" Text="?" Margin="10,0,0,10" TextColor="Black" FontSize="Medium" HorizontalOptions="Start" VerticalOptions="Center" Grid.Row="0" Grid.Column="0"/>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto" />
+                    <ColumnDefinition Width="Auto" />
+                </Grid.ColumnDefinitions>
+                <Label x:Name="LabelTitrePosologie" Text="Posologie : "  Margin="10,10,0,0" TextColor="Black" FontSize="Medium" HorizontalOptions="Start" VerticalOptions="Center" Grid.Row="0" Grid.Column="0" />
+                <Label x:Name="LabelPosologie"  Text="?" Margin="10,10,0,0" TextColor="Black" FontSize="Medium" HorizontalOptions="Start" VerticalOptions="Center" Grid.Row="0" Grid.Column="1"/>
+            </Grid>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto" />
+                    <ColumnDefinition Width="Auto" />
+                </Grid.ColumnDefinitions>
+                <Label Text="Concentration Initiale : " Margin="10,10,0,0" TextColor="Black" FontSize="Medium" HorizontalOptions="Start" VerticalOptions="Center" Grid.Row="0" Grid.Column="0" />
+                <Label x:Name="LabelConcentrationInit"  Text="?" Margin="10,10,0,0" TextColor="Black" FontSize="Medium" HorizontalOptions="Start" VerticalOptions="Center" Grid.Row="0" Grid.Column="1" />
+
+            </Grid>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto" />
+                    <ColumnDefinition Width="Auto" />
+                </Grid.ColumnDefinitions>
+                <Label x:Name="LabelTitreConcentrationMelange" Text="Concentration du Mélange : " Margin="10,10,0,0" TextColor="Black" FontSize="Medium" HorizontalOptions="Start" VerticalOptions="Center" Grid.Row="0" Grid.Column="0" />
+                <Label x:Name="LabelConcentrationMelange"  Text="?" Margin="10,10,0,0" TextColor="Black" FontSize="Medium" HorizontalOptions="Start" VerticalOptions="Center" Grid.Row="0" Grid.Column="1"/>
+            </Grid>
+        </StackLayout>
+    </ScrollView>
+</ContentPage>

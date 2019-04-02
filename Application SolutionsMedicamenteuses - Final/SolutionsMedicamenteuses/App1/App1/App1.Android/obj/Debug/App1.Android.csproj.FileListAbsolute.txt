@@ -1,0 +1,2 @@
+C:\Users\lk365606\Desktop\V2\App1\App1\App1.Android\obj\Debug\App1.Android.csprojAssemblyReference.cache
+C:\Users\lk365606\Desktop\V2\App1\App1\App1.Android\obj\Debug\App1.Android.csproj.CoreCompileInputs.cache

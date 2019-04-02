@@ -1,0 +1,12 @@
+﻿/ref:"C:\Users\lk365606\Desktop\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1.UWP\obj\x64\Release\ilc\intermediate\PreMergeILTransformed"
+/ref:"C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.native.sharedlibrary\2.1.8\tools\SharedLibrary\ret\AnalysisILToc"
+/ref:"C:\Users\lk365606\Desktop\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1.UWP\obj\x64\Release\ilc\intermediate\PreMergeILTransformed"
+/ref:"C:\Users\lk365606\Desktop\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1.UWP\obj\x64\Release\ilc\in\\"
+/ref:"C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.native.compiler\2.1.8\tools\x64\ilc\lib\Private\\"
+/ref:"C:\Users\lk365606\Desktop\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1.UWP\obj\x64\Release\ilc\in"
+/ref:"C:\Users\lk365606\Desktop\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1.UWP\obj\x64\Release\ilc\in\WinMetadata"
+/ca:System.Private.CoreLib
+/cscpath:"C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\microsoft.net.native.compiler\2.1.8\tools\csc"
+/out:"C:\Users\lk365606\Desktop\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1.UWP\obj\x64\Release\ilc\intermediate\SgGenerated\\"
+/int:"C:\Users\lk365606\Desktop\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1.UWP\obj\x64\Release\ilc\intermediate\App1.UWP.Sg"
+"@C:\Users\lk365606\Desktop\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1.UWP\obj\x64\Release\ilc\intermediate\App1.UWP.Sg\ComputedSerializationInput.txt"

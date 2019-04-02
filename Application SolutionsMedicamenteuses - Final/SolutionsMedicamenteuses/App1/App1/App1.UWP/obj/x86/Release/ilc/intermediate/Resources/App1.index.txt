@@ -1,0 +1,3 @@
+App1, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  App1.Resource1.resources
+  App1.testDB.xml

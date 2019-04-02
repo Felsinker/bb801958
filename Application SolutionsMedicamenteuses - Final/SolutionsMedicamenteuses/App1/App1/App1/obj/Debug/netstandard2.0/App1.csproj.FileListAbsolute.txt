@@ -1,0 +1,166 @@
+A:\Documents\Travail\DUT\S3\App1\App1\App1\bin\Debug\netstandard2.0\App1.deps.json
+A:\Documents\Travail\DUT\S3\App1\App1\App1\bin\Debug\netstandard2.0\App1.dll
+A:\Documents\Travail\DUT\S3\App1\App1\App1\bin\Debug\netstandard2.0\App1.pdb
+A:\Documents\Travail\DUT\S3\App1\App1\App1\obj\Debug\netstandard2.0\App1.Resource1.resources
+A:\Documents\Travail\DUT\S3\App1\App1\App1\obj\Debug\netstandard2.0\App1.csproj.GenerateResource.cache
+A:\Documents\Travail\DUT\S3\App1\App1\App1\obj\Debug\netstandard2.0\App.xaml.g.cs
+A:\Documents\Travail\DUT\S3\App1\App1\App1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+A:\Documents\Travail\DUT\S3\App1\App1\App1\obj\Debug\netstandard2.0\App1.csproj.CoreCompileInputs.cache
+A:\Documents\Travail\DUT\S3\App1\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfoInputs.cache
+A:\Documents\Travail\DUT\S3\App1\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfo.cs
+A:\Documents\Travail\DUT\S3\App1\App1\App1\obj\Debug\netstandard2.0\XamlC.stamp
+A:\Documents\Travail\DUT\S3\App1\App1\App1\obj\Debug\netstandard2.0\App1.dll
+A:\Documents\Travail\DUT\S3\App1\App1\App1\obj\Debug\netstandard2.0\App1.pdb
+A:\Documents\Travail\DUT\S3\App1\App1\App1\obj\Debug\netstandard2.0\App1.csprojAssemblyReference.cache
+C:\Users\lk365606\Desktop\App1\App1\App1\bin\Debug\netstandard2.0\App1.deps.json
+C:\Users\lk365606\Desktop\App1\App1\App1\bin\Debug\netstandard2.0\App1.dll
+C:\Users\lk365606\Desktop\App1\App1\App1\bin\Debug\netstandard2.0\App1.pdb
+C:\Users\lk365606\Desktop\App1\App1\App1\obj\Debug\netstandard2.0\App1.csprojAssemblyReference.cache
+C:\Users\lk365606\Desktop\App1\App1\App1\obj\Debug\netstandard2.0\App1.Resource1.resources
+C:\Users\lk365606\Desktop\App1\App1\App1\obj\Debug\netstandard2.0\App1.csproj.GenerateResource.cache
+C:\Users\lk365606\Desktop\App1\App1\App1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\lk365606\Desktop\App1\App1\App1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\lk365606\Desktop\App1\App1\App1\obj\Debug\netstandard2.0\App1.csproj.CoreCompileInputs.cache
+C:\Users\lk365606\Desktop\App1\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfoInputs.cache
+C:\Users\lk365606\Desktop\App1\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfo.cs
+C:\Users\lk365606\Desktop\App1\App1\App1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\lk365606\Desktop\App1\App1\App1\obj\Debug\netstandard2.0\App1.dll
+C:\Users\lk365606\Desktop\App1\App1\App1\obj\Debug\netstandard2.0\App1.pdb
+A:\Bureau\V2\App1\App1\App1\bin\Debug\netstandard2.0\App1.deps.json
+A:\Bureau\V2\App1\App1\App1\bin\Debug\netstandard2.0\App1.dll
+A:\Bureau\V2\App1\App1\App1\bin\Debug\netstandard2.0\App1.pdb
+A:\Bureau\V2\App1\App1\App1\obj\Debug\netstandard2.0\App1.csprojAssemblyReference.cache
+A:\Bureau\V2\App1\App1\App1\obj\Debug\netstandard2.0\App1.Resource1.resources
+A:\Bureau\V2\App1\App1\App1\obj\Debug\netstandard2.0\App1.csproj.GenerateResource.cache
+A:\Bureau\V2\App1\App1\App1\obj\Debug\netstandard2.0\App.xaml.g.cs
+A:\Bureau\V2\App1\App1\App1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+A:\Bureau\V2\App1\App1\App1\obj\Debug\netstandard2.0\App1.csproj.CoreCompileInputs.cache
+A:\Bureau\V2\App1\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfoInputs.cache
+A:\Bureau\V2\App1\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfo.cs
+A:\Bureau\V2\App1\App1\App1\obj\Debug\netstandard2.0\XamlC.stamp
+A:\Bureau\V2\App1\App1\App1\obj\Debug\netstandard2.0\App1.dll
+A:\Bureau\V2\App1\App1\App1\obj\Debug\netstandard2.0\App1.pdb
+E:\V2\App1\App1\App1\bin\Debug\netstandard2.0\App1.deps.json
+E:\V2\App1\App1\App1\bin\Debug\netstandard2.0\App1.dll
+E:\V2\App1\App1\App1\bin\Debug\netstandard2.0\App1.pdb
+E:\V2\App1\App1\App1\obj\Debug\netstandard2.0\App1.csprojAssemblyReference.cache
+E:\V2\App1\App1\App1\obj\Debug\netstandard2.0\App1.Resource1.resources
+E:\V2\App1\App1\App1\obj\Debug\netstandard2.0\App1.csproj.GenerateResource.cache
+E:\V2\App1\App1\App1\obj\Debug\netstandard2.0\App.xaml.g.cs
+E:\V2\App1\App1\App1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+E:\V2\App1\App1\App1\obj\Debug\netstandard2.0\App1.csproj.CoreCompileInputs.cache
+E:\V2\App1\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfoInputs.cache
+E:\V2\App1\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfo.cs
+E:\V2\App1\App1\App1\obj\Debug\netstandard2.0\XamlC.stamp
+E:\V2\App1\App1\App1\obj\Debug\netstandard2.0\App1.dll
+E:\V2\App1\App1\App1\obj\Debug\netstandard2.0\App1.pdb
+C:\Users\lk365606\Desktop\V2\App1\App1\App1\bin\Debug\netstandard2.0\App1.deps.json
+C:\Users\lk365606\Desktop\V2\App1\App1\App1\bin\Debug\netstandard2.0\App1.dll
+C:\Users\lk365606\Desktop\V2\App1\App1\App1\bin\Debug\netstandard2.0\App1.pdb
+C:\Users\lk365606\Desktop\V2\App1\App1\App1\obj\Debug\netstandard2.0\App1.Resource1.resources
+C:\Users\lk365606\Desktop\V2\App1\App1\App1\obj\Debug\netstandard2.0\App1.csproj.GenerateResource.cache
+C:\Users\lk365606\Desktop\V2\App1\App1\App1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\lk365606\Desktop\V2\App1\App1\App1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\lk365606\Desktop\V2\App1\App1\App1\obj\Debug\netstandard2.0\App1.csproj.CoreCompileInputs.cache
+C:\Users\lk365606\Desktop\V2\App1\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfoInputs.cache
+C:\Users\lk365606\Desktop\V2\App1\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfo.cs
+C:\Users\lk365606\Desktop\V2\App1\App1\App1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\lk365606\Desktop\V2\App1\App1\App1\obj\Debug\netstandard2.0\App1.dll
+C:\Users\lk365606\Desktop\V2\App1\App1\App1\obj\Debug\netstandard2.0\App1.pdb
+A:\Bureau\V3\App1\App1\App1\bin\Debug\netstandard2.0\App1.deps.json
+A:\Bureau\V3\App1\App1\App1\bin\Debug\netstandard2.0\App1.dll
+A:\Bureau\V3\App1\App1\App1\bin\Debug\netstandard2.0\App1.pdb
+A:\Bureau\V3\App1\App1\App1\obj\Debug\netstandard2.0\App1.Resource1.resources
+A:\Bureau\V3\App1\App1\App1\obj\Debug\netstandard2.0\App1.csproj.GenerateResource.cache
+A:\Bureau\V3\App1\App1\App1\obj\Debug\netstandard2.0\App.xaml.g.cs
+A:\Bureau\V3\App1\App1\App1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+A:\Bureau\V3\App1\App1\App1\obj\Debug\netstandard2.0\App1.csproj.CoreCompileInputs.cache
+A:\Bureau\V3\App1\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfoInputs.cache
+A:\Bureau\V3\App1\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfo.cs
+A:\Bureau\V3\App1\App1\App1\obj\Debug\netstandard2.0\XamlC.stamp
+A:\Bureau\V3\App1\App1\App1\obj\Debug\netstandard2.0\App1.dll
+A:\Bureau\V3\App1\App1\App1\obj\Debug\netstandard2.0\App1.pdb
+A:\Bureau\V3\App1\App1\App1\obj\Debug\netstandard2.0\App1.csprojAssemblyReference.cache
+\\iut21.u-bourgogne.fr\racine\dijon\enseignement\etudiants\IQ\IQ-2\yg215814\S3D\Projet Tut\SolutionsMedicamenteuses\App1\App1\App1\bin\Debug\netstandard2.0\App1.deps.json
+\\iut21.u-bourgogne.fr\racine\dijon\enseignement\etudiants\IQ\IQ-2\yg215814\S3D\Projet Tut\SolutionsMedicamenteuses\App1\App1\App1\bin\Debug\netstandard2.0\App1.dll
+\\iut21.u-bourgogne.fr\racine\dijon\enseignement\etudiants\IQ\IQ-2\yg215814\S3D\Projet Tut\SolutionsMedicamenteuses\App1\App1\App1\bin\Debug\netstandard2.0\App1.pdb
+\\iut21.u-bourgogne.fr\racine\dijon\enseignement\etudiants\IQ\IQ-2\yg215814\S3D\Projet Tut\SolutionsMedicamenteuses\App1\App1\App1\obj\Debug\netstandard2.0\App1.csprojAssemblyReference.cache
+\\iut21.u-bourgogne.fr\racine\dijon\enseignement\etudiants\IQ\IQ-2\yg215814\S3D\Projet Tut\SolutionsMedicamenteuses\App1\App1\App1\obj\Debug\netstandard2.0\App1.Resource1.resources
+\\iut21.u-bourgogne.fr\racine\dijon\enseignement\etudiants\IQ\IQ-2\yg215814\S3D\Projet Tut\SolutionsMedicamenteuses\App1\App1\App1\obj\Debug\netstandard2.0\App1.csproj.GenerateResource.cache
+\\iut21.u-bourgogne.fr\racine\dijon\enseignement\etudiants\IQ\IQ-2\yg215814\S3D\Projet Tut\SolutionsMedicamenteuses\App1\App1\App1\obj\Debug\netstandard2.0\App.xaml.g.cs
+\\iut21.u-bourgogne.fr\racine\dijon\enseignement\etudiants\IQ\IQ-2\yg215814\S3D\Projet Tut\SolutionsMedicamenteuses\App1\App1\App1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+\\iut21.u-bourgogne.fr\racine\dijon\enseignement\etudiants\IQ\IQ-2\yg215814\S3D\Projet Tut\SolutionsMedicamenteuses\App1\App1\App1\obj\Debug\netstandard2.0\App1.csproj.CoreCompileInputs.cache
+\\iut21.u-bourgogne.fr\racine\dijon\enseignement\etudiants\IQ\IQ-2\yg215814\S3D\Projet Tut\SolutionsMedicamenteuses\App1\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfoInputs.cache
+\\iut21.u-bourgogne.fr\racine\dijon\enseignement\etudiants\IQ\IQ-2\yg215814\S3D\Projet Tut\SolutionsMedicamenteuses\App1\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfo.cs
+\\iut21.u-bourgogne.fr\racine\dijon\enseignement\etudiants\IQ\IQ-2\yg215814\S3D\Projet Tut\SolutionsMedicamenteuses\App1\App1\App1\obj\Debug\netstandard2.0\XamlC.stamp
+\\iut21.u-bourgogne.fr\racine\dijon\enseignement\etudiants\IQ\IQ-2\yg215814\S3D\Projet Tut\SolutionsMedicamenteuses\App1\App1\App1\obj\Debug\netstandard2.0\App1.dll
+\\iut21.u-bourgogne.fr\racine\dijon\enseignement\etudiants\IQ\IQ-2\yg215814\S3D\Projet Tut\SolutionsMedicamenteuses\App1\App1\App1\obj\Debug\netstandard2.0\App1.pdb
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\App1\App1\App1\bin\Debug\netstandard2.0\App1.deps.json
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\App1\App1\App1\bin\Debug\netstandard2.0\App1.dll
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\App1\App1\App1\bin\Debug\netstandard2.0\App1.pdb
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\App1\App1\App1\obj\Debug\netstandard2.0\App1.Resource1.resources
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\App1\App1\App1\obj\Debug\netstandard2.0\App1.csproj.GenerateResource.cache
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\App1\App1\App1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\App1\App1\App1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\App1\App1\App1\obj\Debug\netstandard2.0\App1.csproj.CoreCompileInputs.cache
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\App1\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfoInputs.cache
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\App1\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfo.cs
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\App1\App1\App1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\App1\App1\App1\obj\Debug\netstandard2.0\App1.dll
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\App1\App1\App1\obj\Debug\netstandard2.0\App1.pdb
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\App1\App1\App1\obj\Debug\netstandard2.0\App1.csprojAssemblyReference.cache
+A:\Bureau\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1\bin\Debug\netstandard2.0\App1.deps.json
+A:\Bureau\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1\bin\Debug\netstandard2.0\App1.dll
+A:\Bureau\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1\bin\Debug\netstandard2.0\App1.pdb
+A:\Bureau\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1\obj\Debug\netstandard2.0\App1.Resource1.resources
+A:\Bureau\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1\obj\Debug\netstandard2.0\App1.csproj.GenerateResource.cache
+A:\Bureau\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1\obj\Debug\netstandard2.0\App.xaml.g.cs
+A:\Bureau\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+A:\Bureau\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1\obj\Debug\netstandard2.0\App1.csproj.CoreCompileInputs.cache
+A:\Bureau\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfoInputs.cache
+A:\Bureau\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfo.cs
+A:\Bureau\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1\obj\Debug\netstandard2.0\XamlC.stamp
+A:\Bureau\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1\obj\Debug\netstandard2.0\App1.dll
+A:\Bureau\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1\obj\Debug\netstandard2.0\App1.pdb
+A:\Bureau\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1\obj\Debug\netstandard2.0\App1.csprojAssemblyReference.cache
+C:\Users\lk365606\Desktop\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1\bin\Debug\netstandard2.0\App1.deps.json
+C:\Users\lk365606\Desktop\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1\bin\Debug\netstandard2.0\App1.dll
+C:\Users\lk365606\Desktop\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1\bin\Debug\netstandard2.0\App1.pdb
+C:\Users\lk365606\Desktop\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1\obj\Debug\netstandard2.0\App1.csprojAssemblyReference.cache
+C:\Users\lk365606\Desktop\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1\obj\Debug\netstandard2.0\App1.Resource1.resources
+C:\Users\lk365606\Desktop\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1\obj\Debug\netstandard2.0\App1.csproj.GenerateResource.cache
+C:\Users\lk365606\Desktop\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\lk365606\Desktop\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\lk365606\Desktop\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1\obj\Debug\netstandard2.0\App1.csproj.CoreCompileInputs.cache
+C:\Users\lk365606\Desktop\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfoInputs.cache
+C:\Users\lk365606\Desktop\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfo.cs
+C:\Users\lk365606\Desktop\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\lk365606\Desktop\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1\obj\Debug\netstandard2.0\App1.dll
+C:\Users\lk365606\Desktop\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1\obj\Debug\netstandard2.0\App1.pdb
+A:\Documents\Travail\DUT\S3\Solutions Médicamenteuses\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1\bin\Debug\netstandard2.0\App1.deps.json
+A:\Documents\Travail\DUT\S3\Solutions Médicamenteuses\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1\bin\Debug\netstandard2.0\App1.dll
+A:\Documents\Travail\DUT\S3\Solutions Médicamenteuses\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1\bin\Debug\netstandard2.0\App1.pdb
+A:\Documents\Travail\DUT\S3\Solutions Médicamenteuses\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1\obj\Debug\netstandard2.0\App1.Resource1.resources
+A:\Documents\Travail\DUT\S3\Solutions Médicamenteuses\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1\obj\Debug\netstandard2.0\App1.csproj.GenerateResource.cache
+A:\Documents\Travail\DUT\S3\Solutions Médicamenteuses\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1\obj\Debug\netstandard2.0\App.xaml.g.cs
+A:\Documents\Travail\DUT\S3\Solutions Médicamenteuses\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+A:\Documents\Travail\DUT\S3\Solutions Médicamenteuses\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1\obj\Debug\netstandard2.0\App1.csproj.CoreCompileInputs.cache
+A:\Documents\Travail\DUT\S3\Solutions Médicamenteuses\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfoInputs.cache
+A:\Documents\Travail\DUT\S3\Solutions Médicamenteuses\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfo.cs
+A:\Documents\Travail\DUT\S3\Solutions Médicamenteuses\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1\obj\Debug\netstandard2.0\XamlC.stamp
+A:\Documents\Travail\DUT\S3\Solutions Médicamenteuses\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1\obj\Debug\netstandard2.0\App1.dll
+A:\Documents\Travail\DUT\S3\Solutions Médicamenteuses\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1\obj\Debug\netstandard2.0\App1.pdb
+A:\Documents\Travail\DUT\S3\Solutions Médicamenteuses\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1\obj\Debug\netstandard2.0\App1.csprojAssemblyReference.cache
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1\bin\Debug\netstandard2.0\App1.deps.json
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1\bin\Debug\netstandard2.0\App1.dll
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1\bin\Debug\netstandard2.0\App1.pdb
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1\obj\Debug\netstandard2.0\App1.Resource1.resources
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1\obj\Debug\netstandard2.0\App1.csproj.GenerateResource.cache
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1\obj\Debug\netstandard2.0\App1.csproj.CoreCompileInputs.cache
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfoInputs.cache
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1\obj\Debug\netstandard2.0\App1.AssemblyInfo.cs
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1\obj\Debug\netstandard2.0\App1.dll
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1\obj\Debug\netstandard2.0\App1.pdb

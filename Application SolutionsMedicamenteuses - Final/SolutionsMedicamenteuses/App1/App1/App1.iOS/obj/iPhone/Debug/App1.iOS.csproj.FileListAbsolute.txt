@@ -1,0 +1,250 @@
+A:\Documents\Travail\DUT\S3\App1\App1\App1.iOS\bin\iPhone\Debug\App1.iOS.exe
+A:\Documents\Travail\DUT\S3\App1\App1\App1.iOS\bin\iPhone\Debug\App1.iOS.pdb
+A:\Documents\Travail\DUT\S3\App1\App1\App1.iOS\bin\iPhone\Debug\RadioButtonListView.dll
+A:\Documents\Travail\DUT\S3\App1\App1\App1.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+A:\Documents\Travail\DUT\S3\App1\App1\App1.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
+A:\Documents\Travail\DUT\S3\App1\App1\App1.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+A:\Documents\Travail\DUT\S3\App1\App1\App1.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+A:\Documents\Travail\DUT\S3\App1\App1\App1.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
+A:\Documents\Travail\DUT\S3\App1\App1\App1.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+A:\Documents\Travail\DUT\S3\App1\App1\App1.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.pdb
+A:\Documents\Travail\DUT\S3\App1\App1\App1.iOS\bin\iPhone\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+A:\Documents\Travail\DUT\S3\App1\App1\App1.iOS\bin\iPhone\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+A:\Documents\Travail\DUT\S3\App1\App1\App1.iOS\bin\iPhone\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+A:\Documents\Travail\DUT\S3\App1\App1\App1.iOS\bin\iPhone\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+A:\Documents\Travail\DUT\S3\App1\App1\App1.iOS\bin\iPhone\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+A:\Documents\Travail\DUT\S3\App1\App1\App1.iOS\bin\iPhone\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+A:\Documents\Travail\DUT\S3\App1\App1\App1.iOS\bin\iPhone\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+A:\Documents\Travail\DUT\S3\App1\App1\App1.iOS\bin\iPhone\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+A:\Documents\Travail\DUT\S3\App1\App1\App1.iOS\bin\iPhone\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+A:\Documents\Travail\DUT\S3\App1\App1\App1.iOS\bin\iPhone\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+A:\Documents\Travail\DUT\S3\App1\App1\App1.iOS\bin\iPhone\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+A:\Documents\Travail\DUT\S3\App1\App1\App1.iOS\bin\iPhone\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+A:\Documents\Travail\DUT\S3\App1\App1\App1.iOS\bin\iPhone\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+A:\Documents\Travail\DUT\S3\App1\App1\App1.iOS\bin\iPhone\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+A:\Documents\Travail\DUT\S3\App1\App1\App1.iOS\bin\iPhone\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+A:\Documents\Travail\DUT\S3\App1\App1\App1.iOS\bin\iPhone\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+A:\Documents\Travail\DUT\S3\App1\App1\App1.iOS\bin\iPhone\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+A:\Documents\Travail\DUT\S3\App1\App1\App1.iOS\bin\iPhone\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+A:\Documents\Travail\DUT\S3\App1\App1\App1.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+A:\Documents\Travail\DUT\S3\App1\App1\App1.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+A:\Documents\Travail\DUT\S3\App1\App1\App1.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+A:\Documents\Travail\DUT\S3\App1\App1\App1.iOS\bin\iPhone\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+A:\Documents\Travail\DUT\S3\App1\App1\App1.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+A:\Documents\Travail\DUT\S3\App1\App1\App1.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+A:\Documents\Travail\DUT\S3\App1\App1\App1.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+A:\Documents\Travail\DUT\S3\App1\App1\App1.iOS\bin\iPhone\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+A:\Documents\Travail\DUT\S3\App1\App1\App1.iOS\bin\iPhone\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+A:\Documents\Travail\DUT\S3\App1\App1\App1.iOS\bin\iPhone\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+A:\Documents\Travail\DUT\S3\App1\App1\App1.iOS\bin\iPhone\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+A:\Documents\Travail\DUT\S3\App1\App1\App1.iOS\bin\iPhone\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+A:\Documents\Travail\DUT\S3\App1\App1\App1.iOS\bin\iPhone\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+A:\Documents\Travail\DUT\S3\App1\App1\App1.iOS\bin\iPhone\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+A:\Documents\Travail\DUT\S3\App1\App1\App1.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+A:\Documents\Travail\DUT\S3\App1\App1\App1.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+A:\Documents\Travail\DUT\S3\App1\App1\App1.iOS\bin\iPhone\Debug\App1.dll
+A:\Documents\Travail\DUT\S3\App1\App1\App1.iOS\bin\iPhone\Debug\App1.pdb
+A:\Documents\Travail\DUT\S3\App1\App1\App1.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+A:\Documents\Travail\DUT\S3\App1\App1\App1.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+A:\Documents\Travail\DUT\S3\App1\App1\App1.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+A:\Documents\Travail\DUT\S3\App1\App1\App1.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+A:\Documents\Travail\DUT\S3\App1\App1\App1.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+A:\Documents\Travail\DUT\S3\App1\App1\App1.iOS\obj\iPhone\Debug\optimized\
+A:\Documents\Travail\DUT\S3\App1\App1\App1.iOS\obj\iPhone\Debug\App1.iOS.csprojAssemblyReference.cache
+A:\Documents\Travail\DUT\S3\App1\App1\App1.iOS\obj\iPhone\Debug\App1.iOS.csproj.CoreCompileInputs.cache
+A:\Documents\Travail\DUT\S3\App1\App1\App1.iOS\obj\iPhone\Debug\XamlC.stamp
+A:\Documents\Travail\DUT\S3\App1\App1\App1.iOS\obj\iPhone\Debug\App1.iOS.csproj.CopyComplete
+A:\Documents\Travail\DUT\S3\App1\App1\App1.iOS\obj\iPhone\Debug\App1.iOS.exe
+A:\Documents\Travail\DUT\S3\App1\App1\App1.iOS\obj\iPhone\Debug\App1.iOS.pdb
+A:\Bureau\V2\App1\App1\App1.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+A:\Bureau\V2\App1\App1\App1.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+A:\Bureau\V2\App1\App1\App1.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+A:\Bureau\V2\App1\App1\App1.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+A:\Bureau\V2\App1\App1\App1.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+A:\Bureau\V2\App1\App1\App1.iOS\obj\iPhone\Debug\optimized\
+A:\Bureau\V2\App1\App1\App1.iOS\obj\iPhone\Debug\App1.iOS.csprojAssemblyReference.cache
+A:\Bureau\V2\App1\App1\App1.iOS\obj\iPhone\Debug\App1.iOS.csproj.CoreCompileInputs.cache
+C:\Users\lk365606\Desktop\V2\App1\App1\App1.iOS\bin\iPhone\Debug\App1.iOS.exe
+C:\Users\lk365606\Desktop\V2\App1\App1\App1.iOS\bin\iPhone\Debug\App1.iOS.pdb
+C:\Users\lk365606\Desktop\V2\App1\App1\App1.iOS\bin\iPhone\Debug\RadioButtonListView.dll
+C:\Users\lk365606\Desktop\V2\App1\App1\App1.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+C:\Users\lk365606\Desktop\V2\App1\App1\App1.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
+C:\Users\lk365606\Desktop\V2\App1\App1\App1.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+C:\Users\lk365606\Desktop\V2\App1\App1\App1.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\Users\lk365606\Desktop\V2\App1\App1\App1.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
+C:\Users\lk365606\Desktop\V2\App1\App1\App1.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\lk365606\Desktop\V2\App1\App1\App1.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\lk365606\Desktop\V2\App1\App1\App1.iOS\bin\iPhone\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\lk365606\Desktop\V2\App1\App1\App1.iOS\bin\iPhone\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\lk365606\Desktop\V2\App1\App1\App1.iOS\bin\iPhone\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\lk365606\Desktop\V2\App1\App1\App1.iOS\bin\iPhone\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\lk365606\Desktop\V2\App1\App1\App1.iOS\bin\iPhone\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\lk365606\Desktop\V2\App1\App1\App1.iOS\bin\iPhone\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\lk365606\Desktop\V2\App1\App1\App1.iOS\bin\iPhone\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\lk365606\Desktop\V2\App1\App1\App1.iOS\bin\iPhone\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\lk365606\Desktop\V2\App1\App1\App1.iOS\bin\iPhone\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\lk365606\Desktop\V2\App1\App1\App1.iOS\bin\iPhone\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\lk365606\Desktop\V2\App1\App1\App1.iOS\bin\iPhone\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\lk365606\Desktop\V2\App1\App1\App1.iOS\bin\iPhone\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\lk365606\Desktop\V2\App1\App1\App1.iOS\bin\iPhone\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\lk365606\Desktop\V2\App1\App1\App1.iOS\bin\iPhone\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\lk365606\Desktop\V2\App1\App1\App1.iOS\bin\iPhone\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\lk365606\Desktop\V2\App1\App1\App1.iOS\bin\iPhone\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\lk365606\Desktop\V2\App1\App1\App1.iOS\bin\iPhone\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\lk365606\Desktop\V2\App1\App1\App1.iOS\bin\iPhone\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\lk365606\Desktop\V2\App1\App1\App1.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\lk365606\Desktop\V2\App1\App1\App1.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\lk365606\Desktop\V2\App1\App1\App1.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\lk365606\Desktop\V2\App1\App1\App1.iOS\bin\iPhone\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\lk365606\Desktop\V2\App1\App1\App1.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\lk365606\Desktop\V2\App1\App1\App1.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\lk365606\Desktop\V2\App1\App1\App1.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\lk365606\Desktop\V2\App1\App1\App1.iOS\bin\iPhone\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\lk365606\Desktop\V2\App1\App1\App1.iOS\bin\iPhone\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\lk365606\Desktop\V2\App1\App1\App1.iOS\bin\iPhone\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\lk365606\Desktop\V2\App1\App1\App1.iOS\bin\iPhone\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\lk365606\Desktop\V2\App1\App1\App1.iOS\bin\iPhone\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\lk365606\Desktop\V2\App1\App1\App1.iOS\bin\iPhone\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\lk365606\Desktop\V2\App1\App1\App1.iOS\bin\iPhone\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\lk365606\Desktop\V2\App1\App1\App1.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\lk365606\Desktop\V2\App1\App1\App1.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\lk365606\Desktop\V2\App1\App1\App1.iOS\bin\iPhone\Debug\App1.dll
+C:\Users\lk365606\Desktop\V2\App1\App1\App1.iOS\bin\iPhone\Debug\App1.pdb
+C:\Users\lk365606\Desktop\V2\App1\App1\App1.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\lk365606\Desktop\V2\App1\App1\App1.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Users\lk365606\Desktop\V2\App1\App1\App1.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\lk365606\Desktop\V2\App1\App1\App1.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+C:\Users\lk365606\Desktop\V2\App1\App1\App1.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\lk365606\Desktop\V2\App1\App1\App1.iOS\obj\iPhone\Debug\optimized\
+C:\Users\lk365606\Desktop\V2\App1\App1\App1.iOS\obj\iPhone\Debug\App1.iOS.csprojAssemblyReference.cache
+C:\Users\lk365606\Desktop\V2\App1\App1\App1.iOS\obj\iPhone\Debug\App1.iOS.csproj.CoreCompileInputs.cache
+C:\Users\lk365606\Desktop\V2\App1\App1\App1.iOS\obj\iPhone\Debug\XamlC.stamp
+C:\Users\lk365606\Desktop\V2\App1\App1\App1.iOS\obj\iPhone\Debug\App1.iOS.csproj.CopyComplete
+C:\Users\lk365606\Desktop\V2\App1\App1\App1.iOS\obj\iPhone\Debug\App1.iOS.exe
+C:\Users\lk365606\Desktop\V2\App1\App1\App1.iOS\obj\iPhone\Debug\App1.iOS.pdb
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\App1.iOS.exe
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\App1.iOS.pdb
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\RadioButtonListView.dll
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\App1.dll
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\App1.pdb
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\App1\App1\App1.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\App1\App1\App1.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\App1\App1\App1.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\App1\App1\App1.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\App1\App1\App1.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\App1\App1\App1.iOS\obj\iPhone\Debug\optimized\
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\App1\App1\App1.iOS\obj\iPhone\Debug\App1.iOS.csprojAssemblyReference.cache
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\App1\App1\App1.iOS\obj\iPhone\Debug\App1.iOS.csproj.CoreCompileInputs.cache
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\App1\App1\App1.iOS\obj\iPhone\Debug\XamlC.stamp
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\App1\App1\App1.iOS\obj\iPhone\Debug\App1.iOS.csproj.CopyComplete
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\App1\App1\App1.iOS\obj\iPhone\Debug\App1.iOS.exe
+C:\Users\basti\Desktop\SolutionsMedicamenteuses\App1\App1\App1.iOS\obj\iPhone\Debug\App1.iOS.pdb
+A:\Bureau\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+A:\Bureau\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+A:\Bureau\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+A:\Bureau\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+A:\Bureau\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+A:\Bureau\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1.iOS\obj\iPhone\Debug\optimized\
+A:\Bureau\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1.iOS\obj\iPhone\Debug\App1.iOS.csprojAssemblyReference.cache
+A:\Bureau\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1.iOS\obj\iPhone\Debug\App1.iOS.csproj.CoreCompileInputs.cache
+A:\Bureau\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1.iOS\obj\iPhone\Debug\App1.iOS.exe
+A:\Bureau\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1.iOS\obj\iPhone\Debug\App1.iOS.pdb
+A:\Documents\Travail\DUT\S3\Solutions Médicamenteuses\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\App1.iOS.exe
+A:\Documents\Travail\DUT\S3\Solutions Médicamenteuses\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\App1.iOS.pdb
+A:\Documents\Travail\DUT\S3\Solutions Médicamenteuses\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\RadioButtonListView.dll
+A:\Documents\Travail\DUT\S3\Solutions Médicamenteuses\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+A:\Documents\Travail\DUT\S3\Solutions Médicamenteuses\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.pdb
+A:\Documents\Travail\DUT\S3\Solutions Médicamenteuses\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.dll
+A:\Documents\Travail\DUT\S3\Solutions Médicamenteuses\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+A:\Documents\Travail\DUT\S3\Solutions Médicamenteuses\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.pdb
+A:\Documents\Travail\DUT\S3\Solutions Médicamenteuses\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+A:\Documents\Travail\DUT\S3\Solutions Médicamenteuses\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.pdb
+A:\Documents\Travail\DUT\S3\Solutions Médicamenteuses\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\ar\Xamarin.Forms.Platform.iOS.resources.dll
+A:\Documents\Travail\DUT\S3\Solutions Médicamenteuses\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\ca\Xamarin.Forms.Platform.iOS.resources.dll
+A:\Documents\Travail\DUT\S3\Solutions Médicamenteuses\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\cs\Xamarin.Forms.Platform.iOS.resources.dll
+A:\Documents\Travail\DUT\S3\Solutions Médicamenteuses\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\da\Xamarin.Forms.Platform.iOS.resources.dll
+A:\Documents\Travail\DUT\S3\Solutions Médicamenteuses\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\de\Xamarin.Forms.Platform.iOS.resources.dll
+A:\Documents\Travail\DUT\S3\Solutions Médicamenteuses\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\el\Xamarin.Forms.Platform.iOS.resources.dll
+A:\Documents\Travail\DUT\S3\Solutions Médicamenteuses\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\es\Xamarin.Forms.Platform.iOS.resources.dll
+A:\Documents\Travail\DUT\S3\Solutions Médicamenteuses\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\fi\Xamarin.Forms.Platform.iOS.resources.dll
+A:\Documents\Travail\DUT\S3\Solutions Médicamenteuses\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\fr\Xamarin.Forms.Platform.iOS.resources.dll
+A:\Documents\Travail\DUT\S3\Solutions Médicamenteuses\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\he\Xamarin.Forms.Platform.iOS.resources.dll
+A:\Documents\Travail\DUT\S3\Solutions Médicamenteuses\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\hi\Xamarin.Forms.Platform.iOS.resources.dll
+A:\Documents\Travail\DUT\S3\Solutions Médicamenteuses\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\hr\Xamarin.Forms.Platform.iOS.resources.dll
+A:\Documents\Travail\DUT\S3\Solutions Médicamenteuses\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\hu\Xamarin.Forms.Platform.iOS.resources.dll
+A:\Documents\Travail\DUT\S3\Solutions Médicamenteuses\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\id\Xamarin.Forms.Platform.iOS.resources.dll
+A:\Documents\Travail\DUT\S3\Solutions Médicamenteuses\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\it\Xamarin.Forms.Platform.iOS.resources.dll
+A:\Documents\Travail\DUT\S3\Solutions Médicamenteuses\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\ja\Xamarin.Forms.Platform.iOS.resources.dll
+A:\Documents\Travail\DUT\S3\Solutions Médicamenteuses\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\ko\Xamarin.Forms.Platform.iOS.resources.dll
+A:\Documents\Travail\DUT\S3\Solutions Médicamenteuses\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\ms\Xamarin.Forms.Platform.iOS.resources.dll
+A:\Documents\Travail\DUT\S3\Solutions Médicamenteuses\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\nb\Xamarin.Forms.Platform.iOS.resources.dll
+A:\Documents\Travail\DUT\S3\Solutions Médicamenteuses\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\nl\Xamarin.Forms.Platform.iOS.resources.dll
+A:\Documents\Travail\DUT\S3\Solutions Médicamenteuses\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\pl\Xamarin.Forms.Platform.iOS.resources.dll
+A:\Documents\Travail\DUT\S3\Solutions Médicamenteuses\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\pt-BR\Xamarin.Forms.Platform.iOS.resources.dll
+A:\Documents\Travail\DUT\S3\Solutions Médicamenteuses\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\pt\Xamarin.Forms.Platform.iOS.resources.dll
+A:\Documents\Travail\DUT\S3\Solutions Médicamenteuses\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\ro\Xamarin.Forms.Platform.iOS.resources.dll
+A:\Documents\Travail\DUT\S3\Solutions Médicamenteuses\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\ru\Xamarin.Forms.Platform.iOS.resources.dll
+A:\Documents\Travail\DUT\S3\Solutions Médicamenteuses\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\sk\Xamarin.Forms.Platform.iOS.resources.dll
+A:\Documents\Travail\DUT\S3\Solutions Médicamenteuses\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\sv\Xamarin.Forms.Platform.iOS.resources.dll
+A:\Documents\Travail\DUT\S3\Solutions Médicamenteuses\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\th\Xamarin.Forms.Platform.iOS.resources.dll
+A:\Documents\Travail\DUT\S3\Solutions Médicamenteuses\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\tr\Xamarin.Forms.Platform.iOS.resources.dll
+A:\Documents\Travail\DUT\S3\Solutions Médicamenteuses\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\uk\Xamarin.Forms.Platform.iOS.resources.dll
+A:\Documents\Travail\DUT\S3\Solutions Médicamenteuses\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\vi\Xamarin.Forms.Platform.iOS.resources.dll
+A:\Documents\Travail\DUT\S3\Solutions Médicamenteuses\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\zh-HK\Xamarin.Forms.Platform.iOS.resources.dll
+A:\Documents\Travail\DUT\S3\Solutions Médicamenteuses\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\zh-Hans\Xamarin.Forms.Platform.iOS.resources.dll
+A:\Documents\Travail\DUT\S3\Solutions Médicamenteuses\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\zh-Hant\Xamarin.Forms.Platform.iOS.resources.dll
+A:\Documents\Travail\DUT\S3\Solutions Médicamenteuses\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\App1.dll
+A:\Documents\Travail\DUT\S3\Solutions Médicamenteuses\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1.iOS\bin\iPhone\Debug\App1.pdb
+A:\Documents\Travail\DUT\S3\Solutions Médicamenteuses\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1.iOS\obj\iPhone\Debug\ibtool\_BundleResourceWithLogicalName.items
+A:\Documents\Travail\DUT\S3\Solutions Médicamenteuses\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1.iOS\obj\iPhone\Debug\actool\_PartialAppManifest.items
+A:\Documents\Travail\DUT\S3\Solutions Médicamenteuses\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1.iOS\obj\iPhone\Debug\actool\_BundleResourceWithLogicalName.items
+A:\Documents\Travail\DUT\S3\Solutions Médicamenteuses\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1.iOS\obj\iPhone\Debug\coremlc\_PartialAppManifest.items
+A:\Documents\Travail\DUT\S3\Solutions Médicamenteuses\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1.iOS\obj\iPhone\Debug\coremlc\_BundleResourceWithLogicalName.items
+A:\Documents\Travail\DUT\S3\Solutions Médicamenteuses\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1.iOS\obj\iPhone\Debug\optimized\
+A:\Documents\Travail\DUT\S3\Solutions Médicamenteuses\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1.iOS\obj\iPhone\Debug\App1.iOS.csprojAssemblyReference.cache
+A:\Documents\Travail\DUT\S3\Solutions Médicamenteuses\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1.iOS\obj\iPhone\Debug\App1.iOS.csproj.CoreCompileInputs.cache
+A:\Documents\Travail\DUT\S3\Solutions Médicamenteuses\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1.iOS\obj\iPhone\Debug\XamlC.stamp
+A:\Documents\Travail\DUT\S3\Solutions Médicamenteuses\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1.iOS\obj\iPhone\Debug\App1.iOS.csproj.CopyComplete
+A:\Documents\Travail\DUT\S3\Solutions Médicamenteuses\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1.iOS\obj\iPhone\Debug\App1.iOS.exe
+A:\Documents\Travail\DUT\S3\Solutions Médicamenteuses\SolutionsMedicamenteuses\SolutionsMedicamenteuses\App1\App1\App1.iOS\obj\iPhone\Debug\App1.iOS.pdb

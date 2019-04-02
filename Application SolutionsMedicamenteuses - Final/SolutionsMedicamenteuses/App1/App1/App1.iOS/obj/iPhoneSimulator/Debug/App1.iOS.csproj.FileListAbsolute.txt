@@ -1,0 +1,8 @@
+A:\Bureau\V3\App1\App1\App1.iOS\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+A:\Bureau\V3\App1\App1\App1.iOS\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+A:\Bureau\V3\App1\App1\App1.iOS\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+A:\Bureau\V3\App1\App1\App1.iOS\obj\iPhoneSimulator\Debug\coremlc\_PartialAppManifest.items
+A:\Bureau\V3\App1\App1\App1.iOS\obj\iPhoneSimulator\Debug\coremlc\_BundleResourceWithLogicalName.items
+A:\Bureau\V3\App1\App1\App1.iOS\obj\iPhoneSimulator\Debug\optimized\
+A:\Bureau\V3\App1\App1\App1.iOS\obj\iPhoneSimulator\Debug\App1.iOS.csprojAssemblyReference.cache
+A:\Bureau\V3\App1\App1\App1.iOS\obj\iPhoneSimulator\Debug\App1.iOS.csproj.CoreCompileInputs.cache
